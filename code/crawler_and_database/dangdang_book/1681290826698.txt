@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>�诲�</title>
+    <!--����css-->
+<link href="/static/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+<link href="/static/css/bootstrap/font-awesome.min.css" rel="stylesheet">
+<link href="/static/css/core.css?v=1.13.10" rel="stylesheet">
+<!-- Sweet Alert -->
+<link href="/static/css/sweetalert/sweetalert.css" rel="stylesheet">
+<link href="/static/css/toastr/toastr.min.css" rel="stylesheet">
+<link href="/static/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <!--椤甸�㈣��宸辩��css-->
+    <link href="static/css/login.css?v=1.13.10" rel="stylesheet">
+    <style type="text/css">
+        .main-header {
+            background-color: transparent;
+            border: none;
+        }
+    </style>
+    <!--����js-->
+<script src="/static/jquery/jquery.min.js"></script>
+<script src="/static/jquery/jquery.form.js"></script>
+<script src="/static/angular/angular.min.js"></script>
+<script src="/static/angular/angular-ui-router.min.js"></script>
+<script src="/static/bootstrap/bootstrap.min.js"></script>
+<!-- Sweet alert -->
+<script src="/static/js/sweetalert/sweetalert.min.js"></script>
+<script src="/static/js/public.js?v=1.13.10"></script>
+<script src="/static/js/directives.js?v=1.13.10"></script>
+<script src="/static/js/service.js?v=1.13.10"></script>
+<script src="/static/js/toastr/toastr.min.js?v=1.13.10"></script>
+<script src="/static/js/layer/layer.min.js?v=1.13.10"></script>
+<script src="/static/angular/ui-bootstrap-tpls.min.js"></script>
+<script src="/static/angular/i18n/angular-locale_zh.js"></script>
+
+    <!--椤甸�㈢����js-->
+    <script src="static/js/login.js?v=1.13.10"></script>
+</head>
+<body ng-app="myApp" ng-keyup="submit($event)">
+<div class="main">
+    <!--���辩��澶撮��-->
+<div class="main-header">
+      <img src="/static/img/log.png">
+</div>    <div class="user-type-title">
+        <div class="user-type-tab c-pointer" ng-click="openTab(100005)" style="color: red;background-color: #fff">����</div>
+        <div class="user-type-tab c-pointer" ng-click="openTab(100006)" style="background-color: #eeeeee">��璐�</div>
+    </div>
+    <div class="main-content">
+        <div style="text-align: center" align="center">
+            <form method="get">
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon icon-user" style="width: 39px">&nbsp;</span>
+                    <input class="form-control col-xs-12" style="width: 296px;" type="text" ng-model="userName"
+                           placeholder="��绠�/�电О/���哄�风��"/>
+                </div>
+                <div class="form-group errMsg text-center" ng-bind="userErr"></div>
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon icon-pass">&nbsp;</span>
+                    <input class="form-control col-xs-12" type="password" ng-model="userPass" placeholder="瀵���"
+                           ng-blur="checkCode()"/>
+                </div>
+                <div class="form-group errMsg text-center" ng-bind="passErr"></div>
+
+                <div class="input-group input-group-lg" style="width: 332px">
+                    <input class="form-control col-xs-6" type="text" maxlength="4" ng-model="code" placeholder="楠�璇���"
+                           style="border: 1px #ccc solid;width:70%;"/>
+                    <img ng-src="{{'http://b2b.dangdang.com/api/valicode/images?token='+access_token}}"
+                         style="float: left;width: 30%;height: 46px;" ng-click="getImgCode()"/>
+                </div>
+                <div class="form-group errMsg text-center" ng-bind="codeErr"></div>
+
+            <div class="form-group">
+                <button type="button" class="btn btn-danger btn-lg col-xs-12" ng-disabled="apiPending" ng-click="submit()">�� 褰�</button>
+            </div>
+            <div class="form-group text-right" style="margin-top: 15px">
+                <a href="https://login.dangdang.com/Register.aspx?returnurl=http://b2b.dangdang.com/login" class="link-9">褰�褰�璐��锋敞��</a>
+            </div>
+        </form>
+    </div>
+<div class="main-footer">Copyright (C) 褰�褰�缃� 2004-2017, All Rights Reserved&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;浜�ICP璇�041189��
+    �虹���╃��ヨ�稿��璇� �板�哄��浜��瑰��绗���0673��
+</div></div>
+</body>
+</html>

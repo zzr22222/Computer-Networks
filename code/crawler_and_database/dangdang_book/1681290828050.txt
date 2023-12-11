@@ -1,0 +1,2525 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+        <head>
+                <base href="//search.dangdang.com/Standard/Search/Extend/hosts/" />
+<link rel="dns-prefetch" href="//search.dangdang.com">
+<link rel="dns-prefetch" href="//img4.ddimg.cn">
+<title>高级搜索</title>
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312">
+<meta name="description" content="当当网在线销售等商品，并为您购买等商品提供品牌、价格、图片、评论、促销等选购信息" />
+<meta name="keywords" content="" />
+<meta name='ddclick_ab' content="ver:429"/>
+<meta name="ddclick_search" content="key:|cat:|session_id:|ab_ver:G|qinfo:__|pinfo:0__"/>
+<link rel="canonical" href="//search.dangdang.com/advsearch"/>
+        <link rel="stylesheet" type="text/css" href="css/theme_1.css"/>
+    <!--<link rel="Stylesheet" type="text/css" href="css/model/home.css" />-->
+   <link rel="stylesheet" type="text/css" href="css/model/search_adv.css?20211117"/>    
+<style>.children_bg01 a {
+margin-left: 0px;
+padding-left: 304px;
+width: 630px;
+}
+.children_bg02 a {
+margin-left: 0px;
+padding-left: 304px;
+width: 660px;
+}
+.children_bg03 a {
+margin-left: 0px;
+padding-left: 304px;
+width: 660px;
+}
+.narrow_page .children_bg01 a{
+width: 450px;
+}
+.narrow_page .children_bg02 a{
+width: 450px;
+}
+.narrow_page .children_bg03 a{
+width: 450px;
+}</style>                        </head>
+            <body ddt-page=s_82229>
+            <link rel="Stylesheet" type="text/css" href="//static.dangdang.com/css/header2012/header_150803.css?20211105" /><script>var accessbilityUrl = "//static.dangdang.com/fed/accessbility/1.0.0/accessbility.min.js";var accessbilitySwitch = "1";</script>
+<script type="text/javascript">
+    eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('r(1c 1H=="O"){o U;(p(){o k={1d:"1I.1J",1e:\'1K\',D:\'O\',1f:\'O\'};k.1g={1h:0,1L:"",F:8,1i:p(a){o b=l.1h?"1M":"1N";o c="";P(o i=0;i<a.B*4;i++){c+=b.1j((a[i>>2]>>((i%4)*8+4))&1k)+b.1j((a[i>>2]>>((i%4)*8))&1k)}u c},1l:p(x,e){x[e>>5]|=1O<<((e)%32);x[(((e+1P)>>>9)<<4)+14]=e;o a=1Q;o b=-1R;o c=-1S;o d=1T;P(o i=0;i<x.B;i+=16){o f=a;o g=b;o h=c;o j=d;a=l.v(a,b,c,d,x[i+0],7,-1U);d=l.v(d,a,b,c,x[i+1],12,-1V);c=l.v(c,d,a,b,x[i+2],17,1W);b=l.v(b,c,d,a,x[i+3],22,-1X);a=l.v(a,b,c,d,x[i+4],7,-1Y);d=l.v(d,a,b,c,x[i+5],12,1Z);c=l.v(c,d,a,b,x[i+6],17,-24);b=l.v(b,c,d,a,x[i+7],22,-25);a=l.v(a,b,c,d,x[i+8],7,26);d=l.v(d,a,b,c,x[i+9],12,-27);c=l.v(c,d,a,b,x[i+10],17,-28);b=l.v(b,c,d,a,x[i+11],22,-29);a=l.v(a,b,c,d,x[i+12],7,2a);d=l.v(d,a,b,c,x[i+13],12,-2b);c=l.v(c,d,a,b,x[i+14],17,-2c);b=l.v(b,c,d,a,x[i+15],22,2d);a=l.w(a,b,c,d,x[i+1],5,-2e);d=l.w(d,a,b,c,x[i+6],9,-2f);c=l.w(c,d,a,b,x[i+11],14,2g);b=l.w(b,c,d,a,x[i+0],20,-2h);a=l.w(a,b,c,d,x[i+5],5,-2i);d=l.w(d,a,b,c,x[i+10],9,2j);c=l.w(c,d,a,b,x[i+15],14,-2k);b=l.w(b,c,d,a,x[i+4],20,-2l);a=l.w(a,b,c,d,x[i+9],5,2m);d=l.w(d,a,b,c,x[i+14],9,-2n);c=l.w(c,d,a,b,x[i+3],14,-2o);b=l.w(b,c,d,a,x[i+8],20,2p);a=l.w(a,b,c,d,x[i+13],5,-2q);d=l.w(d,a,b,c,x[i+2],9,-2r);c=l.w(c,d,a,b,x[i+7],14,2s);b=l.w(b,c,d,a,x[i+12],20,-2t);a=l.z(a,b,c,d,x[i+5],4,-2u);d=l.z(d,a,b,c,x[i+8],11,-2v);c=l.z(c,d,a,b,x[i+11],16,2w);b=l.z(b,c,d,a,x[i+14],23,-2x);a=l.z(a,b,c,d,x[i+1],4,-2y);d=l.z(d,a,b,c,x[i+4],11,2z);c=l.z(c,d,a,b,x[i+7],16,-2A);b=l.z(b,c,d,a,x[i+10],23,-2B);a=l.z(a,b,c,d,x[i+13],4,2C);d=l.z(d,a,b,c,x[i+0],11,-2D);c=l.z(c,d,a,b,x[i+3],16,-2E);b=l.z(b,c,d,a,x[i+6],23,2F);a=l.z(a,b,c,d,x[i+9],4,-2G);d=l.z(d,a,b,c,x[i+12],11,-2H);c=l.z(c,d,a,b,x[i+15],16,2I);b=l.z(b,c,d,a,x[i+2],23,-2J);a=l.A(a,b,c,d,x[i+0],6,-2K);d=l.A(d,a,b,c,x[i+7],10,2L);c=l.A(c,d,a,b,x[i+14],15,-2M);b=l.A(b,c,d,a,x[i+5],21,-2N);a=l.A(a,b,c,d,x[i+12],6,2O);d=l.A(d,a,b,c,x[i+3],10,-2P);c=l.A(c,d,a,b,x[i+10],15,-2Q);b=l.A(b,c,d,a,x[i+1],21,-2R);a=l.A(a,b,c,d,x[i+8],6,2S);d=l.A(d,a,b,c,x[i+15],10,-2T);c=l.A(c,d,a,b,x[i+6],15,-2U);b=l.A(b,c,d,a,x[i+13],21,2V);a=l.A(a,b,c,d,x[i+4],6,-2W);d=l.A(d,a,b,c,x[i+11],10,-2X);c=l.A(c,d,a,b,x[i+2],15,2Y);b=l.A(b,c,d,a,x[i+9],21,-2Z);a=l.C(a,f);b=l.C(b,g);c=l.C(c,h);d=l.C(d,j)}u V(a,b,c,d)},J:p(q,a,b,x,s,t){u l.C(l.1m(l.C(l.C(a,q),l.C(x,t)),s),b)},v:p(a,b,c,d,x,s,t){u l.J((b&c)|((~b)&d),a,b,x,s,t)},w:p(a,b,c,d,x,s,t){u l.J((b&d)|(c&(~d)),a,b,x,s,t)},z:p(a,b,c,d,x,s,t){u l.J(b^c^d,a,b,x,s,t)},A:p(a,b,c,d,x,s,t){u l.J(c^(b|(~d)),a,b,x,s,t)},1n:p(a){o b=V();o c=(1<<l.F)-1;P(o i=0;i<a.B*l.F;i+=l.F)b[i>>5]|=(a.30(i/l.F)&c)<<(i%32);u b},C:p(x,y){o a=(x&W)+(y&W);o b=(x>>16)+(y>>16)+(a>>16);u(b<<16)|(a&W)},1m:p(a,b){u(a<<b)|(a>>>(32-b))},1o:p(s){u l.1i(l.1l(l.1n(s),s.B*l.F))}};k.X={1p:p(a){o b=Y(a)+"=",Q=K.L.E(b),Z=1q;r(Q>-1){o c=K.L.E(";",Q);r(c==-1){c=K.L.B}Z=31(K.L.18(Q+b.B,c))}u Z},19:p(a,b,c,d,e,f){o g=Y(a)+"="+Y(b);r(c 33 N){g+="; 34="+c.36()}r(d){g+="; 37="+d}r(e){g+="; 38="+e}r(f){g+="; 39"}K.L=g},3a:p(a,b,c,d){l.19(a,"",G N(0),b,c,d)}};k.3b={3c:p(a){o b=G 3d();r(a.E("?")>0){o c=a.18(a.E("?")+1);r(c.E("#")>0){c=c.18(0,c.E("#"))}o d=c.1a("&");P(o i=0;i<d.B;i++){b[d[i].1a("=")[0]]=d[i].1a("=")[1]}}u b}};k.3e=p(a,b,c){r(a.1r){a.1r(b,c,1s)}R r(a.1t){a.1t("T"+b,c)}R{a["T"+b]=c}};k.3f=p(a,b,c){r(a.1u){a.1u(b,c,1s)}R r(a.1v){a.1v("T"+b,c)}R{a["T"+b]=1q}};k.3g=p(x){o a=3h(x);r(3i(a)){u 0.1w}o a=I.3j(x*1x)/1x;o b=a.3k();o c=b.E(\'.\');r(c<0){c=b.B;b+=\'.\'}3l(b.B<=c+2){b+=\'0\'}u b};k.1y=p(){o n=G N();o y=n.3m()+\'\';o m=n.3n()+1;r(m<10)m="0"+m;o d=n.3o();r(d<10)d="0"+d;o H=n.3p();r(H<10)H="0"+H;o M=n.3q();r(M<10)M="0"+M;o S=n.3r();r(S<10)S="0"+S;o a="1w"+n.3s();a=a.1b(a.B-3,3);o b=I.1z(1A+I.1B()*1C);o c=I.1z(1A+I.1B()*1C);o e=y+m+d+H+M+S+a+b+c+k.1e;o f=k.1g.1o(e);f=k.1D(f);u y+m+d+H+M+S+a+f+b+c};k.1D=p(a){o b=3t(a.1b(0,8),16);o c=3u(b).1b(0,6);o d=c.B;r(d<6){c+=k.1E(\'0\',I.3v(6-d))}u c};k.1E=p(a,b){u G V(b+1).3w(a)};k.1F=p(){o t=G N();u t.3x()};k.1G=p(){k.D=k.X.1p("D");r(1c k.D==\'O\'||!/^\\d{35}$/.3y(k.D)){o a=G N(3z,1,1);k.D=k.1y();k.X.19("D",k.D,a,"/",k.1d)}k.1f=k.1F()};U=k;U.1G()})()}',62,222,'|||||||||||||||||||||this|||var|function||if|||return|md5_ff|md5_gg|||md5_hh|md5_ii|length|safe_add|__permanent_id|indexOf|chrsz|new||Math|md5_cmn|document|cookie||Date|undefined|for|cookieStart|else||on|ddclick_head_functions|Array|0xFFFF|CookieUtil|encodeURIComponent|cookieValue|||||||||substring|set|split|substr|typeof|__cookieDomain|__ddclick_hash_key|__timestap|Md5Util|hexcase|binl2hex|charAt|0xF|core_md5|bit_rol|str2binl|hex_md5|get|null|addEventListener|false|attachEvent|removeEventListener|detachEvent|00|100|createPermanentID|floor|100000|random|900000|formatHashCode|str_repeat|initTime|init|ddclick_page_tracker|dangdang|com|DDClick521|b64pad|0123456789ABCDEF|0123456789abcdef|0x80|64|1732584193|271733879|1732584194|271733878|680876936|389564586|606105819|1044525330|176418897|1200080426|||||1473231341|45705983|1770035416|1958414417|42063|1990404162|1804603682|40341101|1502002290|1236535329|165796510|1069501632|643717713|373897302|701558691|38016083|660478335|405537848|568446438|1019803690|187363961|1163531501|1444681467|51403784|1735328473|1926607734|378558|2022574463|1839030562|35309556|1530992060|1272893353|155497632|1094730640|681279174|358537222|722521979|76029189|640364487|421815835|530742520|995338651|198630844|1126891415|1416354905|57434055|1700485571|1894986606|1051523|2054922799|1873313359|30611744|1560198380|1309151649|145523070|1120210379|718787259|343485551|charCodeAt|decodeURIComponent||instanceof|expires||toGMTString|path|domain|secure|unset|URLUtil|getKeyValueArray|Object|addEventHandler|removeEventHandler|changeTwoDecimal|parseFloat|isNaN|round|toString|while|getFullYear|getMonth|getDate|getHours|getMinutes|getSeconds|getMilliseconds|parseInt|String|abs|join|getTime|test|2020'.split('|'),0,{}))</script>
+<script type="text/javascript">
+function is_narrow(){
+    var datanav="";
+    if(screen.width < 1210){
+       datanav='<li ><a name="nav1" href="http://book.dangdang.com/" target="_blank">图书</a></li><li ><a name="nav1" href="http://e.dangdang.com/index_page.html" target="_blank">电子书</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4004344.html" target="_blank">童装童鞋</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4003844.html" target="_blank">女装</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002145.html" target="_blank">食品</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002061.html" target="_blank">母婴玩具</a></li>';
+    }else{
+    datanav='<li ><a name="nav1" href="https://book.dangdang.com" target="_blank">图书</a></li><li ><a name="nav1" href="http://e.dangdang.com/index_page.html" target="_blank">电子书</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4004344.html" target="_blank">童装童鞋</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4003844.html" target="_blank">女装</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002145.html" target="_blank">食品</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002061.html" target="_blank">母婴玩具</a></li>';
+    }
+    return datanav;
+}
+</script>
+
+
+
+
+
+
+<div id="hd">
+<div id="tools">
+  <div class="tools">
+    <div class="ddnewhead_operate" dd_name="顶链接">
+      <div class="ddnewhead_area">
+        <a href="javascript:void(0);" id="area_one" class="ddnewhead_area_a" onmouseover="show_area_list();"
+          onmouseout="hidden_area_list();">送至：<span id="curent_area"></span></a>
+        <ul class="ddnewhead_area_list" style="display: none;" id="area_list" onmouseover="this.style.display='block';"
+          onmouseout="this.style.display='none';">
+          <li><a href="javascript:void(0);" onclick="change_area('111','北京')" num="111">北京</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('112','天津')" num="112">天津</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('113','河北')" num="113">河北</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('114','山西')" num="114">山西</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('115','内蒙古')" num="115">内蒙古</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('121','辽宁')" num="121">辽宁</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('122','吉林')" num="122">吉林</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('123','黑龙江')" num="123">黑龙江</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('131','上海')" num="131">上海</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('132','江苏')" num="132">江苏</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('133','浙江')" num="133">浙江</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('134','安徽')" num="134">安徽</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('135','福建')" num="135">福建</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('136','江西')" num="136">江西</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('137','山东')" num="137">山东</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('141','河南')" num="141">河南</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('142','湖北')" num="142">湖北</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('143','湖南')" num="143">湖南</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('144','广东')" num="144">广东</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('145','广西')" num="145">广西</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('146','海南')" num="146">海南</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('150','重庆')" num="150">重庆</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('151','四川')" num="151">四川</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('152','贵州')" num="152">贵州</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('153','云南')" num="153">云南</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('154','西藏')" num="154">西藏</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('161','陕西')" num="161">陕西</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('162','甘肃')" num="162">甘肃</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('163','青海')" num="163">青海</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('164','宁夏')" num="164">宁夏</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('165','新疆')" num="165">新疆</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('171','台湾')" num="171">台湾</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('172','香港')" num="172">香港</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('173','澳门')" num="173">澳门</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('174','钓鱼岛')" num="174">钓鱼岛</a></li>
+        </ul>
+      </div>
+
+      <div style="float:right">
+        <div class="ddnewhead_welcome" display="none;" style="float:left">
+          <span id="nickname"><span class="hi hi_none">欢迎光临当当，请</span><a
+              href="https://login.dangdang.com/signin.aspx?returnurl=http%3A//www.dangdang.com/"
+              class="login_link">登录</a><a href="https://login.dangdang.com/Register.aspx">免费注册</a></span>
+          <div class="tel_pop" style="display:none" id="__ddnav_sjdd"
+            onmouseover="showgaoji('a_phonechannel','__ddnav_sjdd');"
+            onmouseout="hideotherchannel('a_phonechannel','__ddnav_sjdd');">
+            <a target="_blank" href="http://t.dangdang.com/20130220_ydmr" class="title"><i
+                class="icon_tel"></i>手机当当</a><i class="title_shadow"></i>
+            <ul class="tel_pop_box">
+              <li><a href="http://t.dangdang.com/20130220_ydmr" dd_name="手机二维码"><span>当当手机客户端</span><img
+                    src="//img3.ddimg.cn/00363/doc/erweima2.png"><span class="text">随手查订单<br>随时享优惠</span></a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="new_head_znx" id="znx_content" style="display:none;float:left;"></div>
+
+        <ul class="ddnewhead_operate_nav" style="float:left">
+          <li><a target="_blank" href="http://e.dangdang.com/ebook/listUserEbooks.do" name="我的云书房"
+              dd_name="我的云书房">我的云书房</a></li>
+          <li class="my_dd"><a class="menu_btn" target="_blank" href="http://myhome.dangdang.com/" name="我的当当"
+              dd_name="我的当当" id="a_myddchannel" onmouseover="showgaoji('a_myddchannel','__ddnav_mydd')"
+              onmouseout="hideotherchannel('a_myddchannel','__ddnav_mydd');">我的当当</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_mydd" onmouseover="showgaoji('a_myddchannel','__ddnav_mydd')"
+              onmouseout="hideotherchannel('a_myddchannel','__ddnav_mydd');">
+              <li><a target="_blank" href="http://myhome.dangdang.com/myOrder" name="mydd_7" dd_name="新_我的订单">我的订单</a>
+              </li>
+              <li><a target="_blank" href="http://shopping.dangdang.com/shoppingcart/shopping_cart.aspx" name="mydd_8"
+                  dd_name="新_购物车" rel="nofollow">购物车</a></li>
+              <li><a target="_blank" href="http://myhome.dangdang.com/mypoint?ref=my-0-L" name="mydd_4" dd_name="银铃铛抵现"
+                  rel="nofollow">银铃铛抵现</a></li>
+              <li><a target="_blank" href="http://myhome.dangdang.com/myFavorite" name="mydd_1" dd_name="我的收藏"
+                  rel="nofollow">我的收藏</a></li>
+              <li><a target="_blank" href="http://noncash.dangdang.com/balance/" name="mydd_5" dd_name="我的余额"
+                  rel="nofollow">我的余额</a></li>
+              <li><a target="_blank" href="http://comment.dangdang.com/comment" name="mydd_4" dd_name="我的评论"
+                  rel="nofollow">我的评论</a></li>
+              <li><a target="_blank" href="http://newaccount.dangdang.com/payhistory/mycoupon.aspx" name="mydd_2"
+                  dd_name="礼券/礼品卡" rel="nofollow">礼券/礼品卡</a></li>
+            </ul>
+          </li>
+          <li class="pc_mina"><a class="menu_btn" target="_blank" href="http://t.dangdang.com/pintuan_list" name="当当拼团"
+              dd_name="当当拼团" id="a_minachannel" onmouseover="showgaoji('a_minachannel','__ddnav_mina')"
+              onmouseout="hideotherchannel('a_minachannel','__ddnav_mina');">当当拼团</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_mina" onmouseover="showgaoji('a_minachannel','__ddnav_mina')"
+              onmouseout="hideotherchannel('a_minachannel','__ddnav_mina');">
+              <!--
+                    <li><a target="_blank" href="http://t.dangdang.com/freetry_list" name="mina_1" dd_name="0元领物" rel="nofollow">0元领物</a></li>
+            -->
+              <li><a target="_blank" href="http://t.dangdang.com/pintuan_list" name="mina_2" dd_name="当当拼团"
+                  rel="nofollow">当当拼团</a></li>
+              <!--
+                    <li><a target="_blank" href="http://t.dangdang.com/kanjia_list" name="mina_3" dd_name="1元砍价" rel="nofollow">1元砍价</a></li>
+                    <li><a target="_blank" href="http://t.dangdang.com/choujiang_list" name="mina_4" dd_name="1分抽奖" rel="nofollow">1分抽奖</a></li>
+            -->
+            </ul>
+          </li>
+          <li><a target="_blank" href="http://e.dangdang.com/media/h5/pc/zhuangti/zhengwen2017/essay.html" name="mydd_7"
+              dd_name="小说投稿">小说投稿</a></li>
+          <li><a class="menu_btn" href="javascript:void(0);" style="cursor:default;" name="qycg" dd_name="企业采购"
+              id="a_qycgchannel" onmouseover="showgaoji('a_qycgchannel','__ddnav_qycg');"
+              onmouseout="hideotherchannel('a_qycgchannel','__ddnav_qycg');">企业采购</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_qycg" onmouseover="showgaoji('a_qycgchannel','__ddnav_qycg');"
+              onmouseout="hideotherchannel('a_qycgchannel','__ddnav_qycg');">
+              <li><a target="_blank" href="http://giftcard.dangdang.com/giftcardCompany" name="qycg_1"
+                  dd_name="大宗采购">大宗采购</a></li>
+              <li><a target="_blank" href="http://giftcard.dangdang.com/" name="qycg_2" dd_name="礼品卡采购">礼品卡采购</a></li>
+              <li><a target="_blank" href="http://newaccount.dangdang.com/payhistory/mymoney.aspx" name="gqycg_3"
+                  dd_name="礼品卡激活" rel="nofollow">礼品卡激活</a></li>
+              <li><a target="_blank" href="http://help.dangdang.com/details/page24" name="qycg_4"
+                  dd_name="礼品卡使用">礼品卡使用</a></li>
+              <li><a target="_blank" href="http://b2b.dangdang.com" name="qycg_5" dd_name="分销/荐购">分销/荐购</a></li>
+              <li><a target="_blank" href="http://giftcard.dangdang.com/goods?type=mall" name="qycg_6"
+                  dd_name="礼品卡专区">礼品卡专区</a></li>
+            </ul>
+          </li>
+          <li class="hover "><a class="menu_btn" href="javascript:void(0);" style="cursor:default;" name="ddkf_0"
+              dd_name="客户服务" id="a_bzzxchannel" onmouseover="showgaoji('a_bzzxchannel','__ddnav_bzzx');"
+              onmouseout="hideotherchannel('a_bzzxchannel','__ddnav_bzzx');">客户服务</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_bzzx" onmouseover="showgaoji('a_bzzxchannel','__ddnav_bzzx');"
+              onmouseout="hideotherchannel('a_bzzxchannel','__ddnav_bzzx');">
+              <li><a target="_blank" href="http://help.dangdang.com/index" name="ddkf_2" dd_name="帮助中心">帮助中心</a></li>
+              <li><a target="_blank" href="http://return.dangdang.com/reverseapplyselect.aspx" name="ddkf_3"
+                  dd_name="自助退换货">自助退换货</a></li>
+              <li><a target="_blank" href="http://order.dangdang.com/InvoiceApply/InvoiceOnlineReissue.aspx"
+                  name="tsjy_2" dd_name="自助发票" rel="nofollow">自助发票</a></li>
+              <li><a target="_blank" href="http://help.dangdang.com/details/page206" name="ddkf_4"
+                  dd_name="联系客服">联系客服</a>
+              </li>
+              <li><a target="_blank" href="http://help.dangdang.com/details/page206" name="tsjy_1" dd_name="我要投诉"
+                  rel="nofollow">我要投诉</a></li>
+            </ul>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+  </div>
+</div>
+<div id="header_end"></div>
+<!--CreateDate  2023-04-12 17:00:01--><div style="position:relative;" class="logo_line_out" ddaccregion="mutual">
+<div class="logo_line" dd_name="搜索框">
+    <div class="logo"><img src="http://img61.ddimg.cn/2023/4/4/2023040415495060090.gif" usemap="#logo_link"/>
+                         <map name="logo_link" id="logo_link" dd_name="logo区" ><area shape="rect" coords="0,18,200,93" href="http://www.dangdang.com" title="当当" onfocus="this.blur();" tabindex="-1">
+                         <area shape="rect" coords="200,18,320,93" href="http://www.dangdang.com/" title="书香节" target="_blank" onfocus="this.blur();" tabindex="-1"></map></div>
+    <div class="search">
+        <form action="//search.dangdang.com" name="searchform"  id="form_search_new" onsubmit="return searchsubmit();"  method="GET">
+            <label  for="key_S" class="label_search" id="label_key" onclick="this.style.color='rgb(255, 255, 255)';" style="visibility: visible; color: rgb(102, 102, 102);" >屁屁侦探</label>
+            <input type="text" class="text gray"  name="key" ID="key_S" autocomplete="off" onclick="key_onclick(event);" onfocus="key_onfocus(event);"  onblur="key_onblur();" onbeforepaste="onpaste_search();"/><a href="javascript:void(0);" onclick="clearkeys();" class="del-keywords" tabindex="-1"></a><span class="select"  onmouseover="allCategoryShow();"  onmouseleave="allCategoryHide();" onmouseout='if("\v"!="v"){ allCategoryHide();}'><span id="Show_Category_Name" dd_name="全部分类">全部分类</span><span class="icon"></span>
+                <div id="search_all_category" class="select_pop" style="height:0px;padding: 0px;border-width: 0px;" dd_name="搜索分类">
+                    <a href="javascript:void(0);" onclick="selectCategory('',this);" ><span id="Show_Category_Name" dd_name="全部分类" tabindex="-1">全部分类</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('100000',this);" dd_name="尾品汇"><span>尾品汇</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('01.00.00.00.00.00',this);" dd_name="图书"><span>图书</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('98.00.00.00.00.00',this);" dd_name="电子书"><span>电子书</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('03.00.00.00.00.00',this);" dd_name="音像"><span>音像</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('05.00.00.00.00.00',this);" dd_name="影视"><span>影视</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002074,this);" dd_name="时尚美妆"><span>时尚美妆</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4001940,this);" dd_name="母婴用品"><span>母婴用品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002061,this);" dd_name="玩具"><span>玩具</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4004866,this);" dd_name="孕婴服饰"><span>孕婴服饰</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4004344,this);" dd_name="童装童鞋"><span>童装童鞋</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003900,this);" dd_name="家居日用"><span>家居日用</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003760,this);" dd_name="家具装饰"><span>家具装饰</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003844,this);" dd_name="服装"><span>服装</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003872,this);" dd_name="鞋"><span>鞋</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4001829,this);" dd_name="箱包皮具"><span>箱包皮具</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003639,this);" dd_name="手表饰品"><span>手表饰品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003728,this);" dd_name="运动户外"><span>运动户外</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002429,this);" dd_name="汽车用品"><span>汽车用品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002145,this);" dd_name="食品"><span>食品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4006497,this);" dd_name="手机通讯"><span>手机通讯</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003613,this);" dd_name="数码影音"><span>数码影音</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003819,this);" dd_name="电脑办公"><span>电脑办公</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4007241,this);" dd_name="大家电"><span>大家电</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4001001,this);" dd_name="家用电器"><span>家用电器</span></a>
+                                    </div>
+            </span>
+            <input type="hidden" id="default_key" value="屁屁侦探"/>
+            <input type="hidden" id="default_key_link" value="http://search.dangdang.com/?key=%C6%A8%C6%A8%D5%EC%CC%BD&act=input" mid1_value="0" api_step="d"/>
+            <input type="submit" id="search_btn" dd_name="搜索按钮"  style="display:none"/>
+            <input id="SearchFromTop" style="display:none" type="hidden" name="SearchFromTop" value="1"/>
+            <input type="button" id="suggest_product_btn" name="suggestproduct_btn"  style="display:none" onclick="void(0)"/>
+            <input type="button" id="suggest_class_btn" name="suggestclass_btn"  style="display:none" onclick="void(0)"/>
+            <input type="submit" id="suggest_searchkey_btn" name="suggestsearchkey_btn"  style="display:none" dd_name="搜索按钮"/>
+            <input type="hidden" id="catalog_S" name="catalog" value="" >
+            <input type="button" class="button" dd_name="搜索按钮" onclick="javascript:document.getElementById('search_btn').click();"/>
+        </form>
+    </div>
+    <div class="search_bottom">
+        <div class="search_hot">热搜: <a href="http://search.dangdang.com/?key=%CD%E1%CD%E1%CD%C3&act=input" name="hotword" target="_blank">歪歪兔</a><a href=""http://search.dangdang.com/?key="&A3" name="hotword" target="_blank">乐高</a><a href="http://search.dangdang.com/?key=%B3%A4%B0%B2%B5%C4%C0%F3%D6%A6&act=input" name="hotword" target="_blank">长安的荔枝</a><a href="http://search.dangdang.com/?key=%D2%D5%CA%F5%B5%C4%B9%CA%CA%C2&act=input" name="hotword" target="_blank">艺术的故事</a><a href="http://search.dangdang.com/?key=�垫��" name="hotword" target="_blank">茵曼</a><a href="http://search.dangdang.com/?key=%D0%C2%B6%AB%B7%BD%B4%CA%BB%E3&act=input" name="hotword" target="_blank">新东方词汇</a></div>
+        <a href="http://search.dangdang.com/advsearch" class="search_advs" target="_blank" name="ddnav_adv_s" dd_name="高级搜索">高级搜索</a>
+    </div>
+    <div id="suggest_key" class="suggest_key" style="display:none;" ></div>
+    <div class="ddnew_cart"><a href="javascript:AddToShoppingCart(0);" name="购物车" dd_name="购物车"><i class="icon_card"></i>购物车<b id="cart_items_count"></b></a></div>
+    <div class="ddnew_order"><a target="_blank" href="http://myhome.dangdang.com/myOrder" name="我的订单" dd_name="我的订单" rel="nofollow">我的订单<b id="unpaid_num" style="color:#ff2832;font:bold 12px Arial;"></b></a></div>
+</div>
+</div><div class="nav_top" dd_name="一级导航条">
+<div class="nav_top">
+    <ul>
+        <li class="all"><a href="http://category.dangdang.com/?ref=www-0-C" id="a_category" name="cate" class="sort_button" onmouseover=showCategory('a_category','__ddnav_sort','//static.dangdang.com/js/header2012/categorydata_new.js?20211105'); onmouseout=closeCategory('__ddnav_sort'); dd_name="全部商品分类" target="_blank">全部商品分类</a></li>
+        <script language="javascript">document.write(is_narrow());</script>
+    </ul>
+</div>
+</div><div class="home_nav_l_box">
+<div class="home_nav_l" id="nav_l" style="display:none;">
+
+<div class="new_pub_nav_box"  dd_name="左侧分类导航" style="display:none;" id="__ddnav_sort" onmouseover="showdiv(event,'__ddnav_sort');" onmouseout="hiddenCategory(event,'__ddnav_sort');">
+    <span class="new_pub_line_a"></span>
+    <span class="new_pub_line_b"></span>
+    <div class="new_pub_nav_shadow" id="menu_list">
+		<ul class="new_pub_nav" id="menulist_content">
+            			<li class="n_b first"  dd_name="图书童书"  id="li_label_1" data-submenu-id="__ddnav_sort1" data_index="1" data_key="34102" data_type="'goods'" >
+                <span class="nav" id="categoryh_1">
+                    <a name="newcate1"  dd_name="图书" id="cate_34242" href="http://book.dangdang.com" target="_blank">图书</a>、<a name="newcate1"  dd_name="童书" id="cate_34252" href="http://book.dangdang.com/children?ref=book-01-A" target="_blank">童书</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="电子书"  id="li_label_2" data-submenu-id="__ddnav_sort2" data_index="2" data_key="56262" data_type="'book'" >
+                <span class="nav" id="categoryh_2">
+                    <a name="newcate2"  dd_name="电子书" id="cate_56263" href="http://e.dangdang.com/index_page.html" target="_blank">电子书</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="创意文具"  id="li_label_3" data-submenu-id="__ddnav_sort3" data_index="3" data_key="55442" data_type="'goods'" >
+                <span class="nav" id="categoryh_3">
+                    <a name="newcate3"  dd_name="创意文具" id="cate_55469" href="http://art.dangdang.com/" target="_blank">创意文具</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="服饰内衣"  id="li_label_4" data-submenu-id="__ddnav_sort4" data_index="4" data_key="34202" data_type="'goods'" >
+                <span class="nav" id="categoryh_4">
+                    <a name="newcate4"  dd_name="服饰" id="cate_57622" href="javascript:void(0);" target="_blank">服饰</a>、<a name="newcate4"  dd_name="内衣" id="cate_53062" href="http://category.dangdang.com/cid10010337.html" target="_blank">内衣</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="鞋靴箱包"  id="li_label_5" data-submenu-id="__ddnav_sort5" data_index="5" data_key="34212" data_type="'goods'" >
+                <span class="nav" id="categoryh_5">
+                    <a name="newcate5"  dd_name="鞋靴" id="cate_45532" href="http://category.dangdang.com/cid4003872.html" target="_blank">鞋靴</a>、<a name="newcate5"  dd_name="箱包" id="cate_53072" href="http://category.dangdang.com/cid4001829.html" target="_blank">箱包</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="运动户外"  id="li_label_6" data-submenu-id="__ddnav_sort6" data_index="6" data_key="34232" data_type="'goods'" >
+                <span class="nav" id="categoryh_6">
+                    <a name="newcate6"  dd_name="运动户外" id="cate_45552" href="http://fashion.dangdang.com/sports" target="_blank">运动户外</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="孕婴童"  id="li_label_7" data-submenu-id="__ddnav_sort7" data_index="7" data_key="34112" data_type="'goods'" >
+                <span class="nav" id="categoryh_7">
+                    <a name="newcate7"  dd_name="孕" id="cate_35772" href="http://category.dangdang.com/cid4004866.html" target="_blank">孕</a>、<a name="newcate7"  dd_name="婴" id="cate_35782" href="http://category.dangdang.com/cid4001940.html" target="_blank">婴</a>、<a name="newcate7"  dd_name="童" id="cate_35792" href="http://category.dangdang.com/cid4004344.html" target="_blank">童</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="家居家纺汽车"  id="li_label_8" data-submenu-id="__ddnav_sort8" data_index="8" data_key="34142" data_type="'goods'" >
+                <span class="nav" id="categoryh_8">
+                    <a name="newcate8"  dd_name="家居" id="cate_38642" href="http://category.dangdang.com/cid4003900.html" target="_blank">家居</a>、<a name="newcate8"  dd_name="家纺" id="cate_53032" href="http://category.dangdang.com/cid4010918.html" target="_blank">家纺</a>、<a name="newcate8"  dd_name="汽车" id="cate_57231" href="http://category.dangdang.com/cid4002429.html" target="_blank">汽车</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="家具家装康体"  id="li_label_9" data-submenu-id="__ddnav_sort9" data_index="9" data_key="34132" data_type="'goods'" >
+                <span class="nav" id="categoryh_9">
+                    <a name="newcate9"  dd_name="家具" id="cate_52282" href="http://category.dangdang.com/cid4010897.html" target="_blank">家具</a>、<a name="newcate9"  dd_name="家装" id="cate_54045" href="http://category.dangdang.com/cid4010894.html" target="_blank">家装</a>、<a name="newcate9"  dd_name="康体" id="cate_54046" href="http://category.dangdang.com/cid4010857.html" target="_blank">康体</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="个人护理清洁"  id="li_label_10" data-submenu-id="__ddnav_sort10" data_index="10" data_key="34122" data_type="'goods'" >
+                <span class="nav" id="categoryh_10">
+                    <a name="newcate10"  dd_name="个人护理" id="cate_54231" href="http://category.dangdang.com/cid4002135.html" target="_blank">个人护理</a>、<a name="newcate10"  dd_name="清洁" id="cate_54230" href="http://category.dangdang.com/cid4003638.html" target="_blank">清洁</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="食品茶酒"  id="li_label_11" data-submenu-id="__ddnav_sort11" data_index="11" data_key="34152" data_type="'goods'" >
+                <span class="nav" id="categoryh_11">
+                    <a name="newcate11"  dd_name="食品" id="cate_40152" href="javascript:void(0);" target="_blank">食品</a>、<a name="newcate11"  dd_name="茶酒" id="cate_53794" href="javascript:void(0);" target="_blank">茶酒</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="珠宝饰品"  id="li_label_12" data-submenu-id="__ddnav_sort12" data_index="12" data_key="34222" data_type="'goods'" >
+                <span class="nav" id="categoryh_12">
+                    <a name="newcate12"  dd_name="珠宝饰品" id="cate_45542" href="http://category.dangdang.com/cid4007338.html" target="_blank">珠宝饰品</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="手机数码电脑办公"  id="li_label_13" data-submenu-id="__ddnav_sort13" data_index="13" data_key="34162" data_type="'goods'" >
+                <span class="nav" id="categoryh_13">
+                    <a name="newcate13"  dd_name="手机" id="cate_41592" href="http://category.dangdang.com/cid4006497.html" target="_blank">手机</a>、<a name="newcate13"  dd_name="数码" id="cate_41602" href="http://category.dangdang.com/cid4003613.html" target="_blank">数码</a>、<a name="newcate13"  dd_name="电脑办公" id="cate_57480" href="http://category.dangdang.com/cid4003819.html" target="_blank">电脑办公</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="家用电器"  id="li_label_14" data-submenu-id="__ddnav_sort14" data_index="14" data_key="34182" data_type="'goods'" >
+                <span class="nav" id="categoryh_14">
+                    <a name="newcate14"  dd_name="家用电器" id="cate_44162" href="http://category.dangdang.com/cid4001001.html" target="_blank">家用电器</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="当当礼品卡生活服务"  id="li_label_15" data-submenu-id="__ddnav_sort15" data_index="15" data_key="54895" data_type="'goods'" >
+                <span class="nav" id="categoryh_15">
+                    <a name="newcate15"  dd_name="当当礼品卡" id="cate_54896" href="http://giftcard.dangdang.com/" target="_blank">当当礼品卡</a>、<a name="newcate15"  dd_name="生活服务" id="cate_55733" href="http://category.dangdang.com/cid11618.html" target="_blank">生活服务</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name=""  id="li_label_16" data-submenu-id="__ddnav_sort16" data_index="16" data_key="34172" data_type="'goods'" >
+                <span class="nav" id="categoryh_16">
+                    </span><span class="sign"></span>
+            </li>
+            		</ul>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort1"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort2"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort3"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort4"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort5"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort6"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort7"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort8"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort9"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort10"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort11"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort12"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort13"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort14"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort15"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort16"></div>
+            </div>
+</div>
+</div>
+</div>
+</div>
+<!--DOC-HEAD-END--><script type="text/javascript" src="js/jquery.min.js"></script>
+<script language="javascript">var minsize=1210;var screensize=screen.width;if (screensize<minsize){document.body.className="narrow_page"}</script>
+<script type="text/javascript">
+    var skudata = [];
+    var arrayObj=new Array();
+    function addtofavorlist(pid){
+         var param = encodeURIComponent(pid+'&platform=4');
+         showMsgBox('lcase'+pid ,param,'//myhome.dangdang.com/addFavoritepop');    
+     }
+    function addtocart(pid){
+      var beforeCookieValue = getCookie(cookieName="dest_area",cookieValue=null);
+      layer.open({
+          type: 2,
+          content: encodeURI('//product.dangdang.com?r=combo/index&productId='+pid+'&source=搜索'),
+          area:['870px','430px'],
+          cancel: function(index, layero){  
+              // if(confirm('确定要关闭么')){ //只有当点击confirm框的确定时，该层才会关闭
+                  layer.close(index);
+                  var afterCookieValue = getCookie(afterCookieName="dest_area",cookieValue=null);
+                  if(afterCookieValue != beforeCookieValue){
+                     window.location.reload();
+                  }
+              //}
+              return false;
+          }
+      });  
+    }
+    function getCookie(cookieName,cookieValue){
+       if (document.cookie && document.cookie != '') { 
+          var cookies = document.cookie.split(';');
+          for (var i = 0; i < cookies.length; i++) { 
+              var cookie = cookies[i];
+              if (cookie.substring(0, cookieName.length + 2).trim() == cookieName.trim() + "=") {
+                cookieValue = cookie.substring(cookieName.length + 2, cookie.length);
+                var arr = cookieValue.match(/province_id(\S*)city_id/);;
+                cookieValue= arr[1];
+                break 
+              } 
+          } 
+      }
+      return cookieValue;
+    }   
+//    var mix_ajax_api = '/Standard/Framework/Core/hosts/ajax_api.php';
+</script>
+            <div  id="bd" dd_name="10458"  name=10458><div  class="con " name=10459><div ddt-area=609377 ddt-expose="on"><div id='component_609377'></div><div class="wrap_all">
+  <div class="new_advanced_box">
+	<div class="new_advanced_wrap">
+            <div class="new_adv_nav clearfix" id="nav_list">
+                <div class="nav_list">
+                    <a href="javascript:void(0);" class="books active" id="books_tab" name="form1"><span>图 书</span></a>
+                    <a href="javascript:void(0);" class="digital_goods" id="digital_tab" name="form5"><span>数字商品</span></a>
+                    <a href="javascript:void(0);" class="music" id="music_tab" name="form2"><span>音 乐</span></a>
+                    <a href="javascript:void(0);" class="film" id="video_tab" name="form3"><span>影 视</span></a>
+                    <a href="javascript:void(0);" class="department_store" id="category_tab" name="form4"><span>百 货</span></a>
+                    <a href="javascript:void(0);" class="batch" id="batchsearch_tab"><span>按书单搜索</span><i class="recommend"></i></a>
+		</div>
+		<div class="line"></div>
+            </div>
+            <!-- 图书 start -->
+	    <div class="new_adv_content" id="books_panel">
+                <form id="form1" method="GET" action="" name="form1">
+                <div class="box1 clearfix">
+                    <h4>请选择介质</h4>
+                    <label><input type="radio" name="medium_book" checked="checked"  value="01"><span>纸书</span></label>
+                    <label><input type="radio" name="medium_book" value="22" id="ebooktab"><span>电子书</span></label>
+		</div>
+		<div class="line_box"></div>
+                <div class="box box2 clearfix">
+                    <h4>基本条件</h4>
+                    <div class="detail_condition">
+                        <label><span>书名</span><input type="text" name="key1" id="book_key1" class="checkinput" /><i class="detail_error" id="book_key1_error"></i></label>
+			<label><span>作者/译者</span><input type="text" name="key2" id="book_key2" class="checkinput" /><i class="detail_error" id="book_key2_error"></i></label>
+			<label><span>关键词</span><input type="text" name="key" id="book_key" class="checkinput" /><i class="detail_error" id="book_key_error"></i></label>
+			<label><span>出版社</span><input type="text" name="key3" id="book_key3" class="checkinput" /><i class="detail_error" id="book_key3_error"></i></label>
+			<label><span>ISBN</span><input type="text" name="key4" id="book_key4" class="checkinput" /><i class="detail_error" id="book_key4_error"></i></label>
+                    </div>
+		</div>
+		<div class="line_box"></div>
+                <div class="box box3 clearfix">
+                    <h4>其他条件</h4>
+                    <div class="detail_condition" id="pbook_panel">
+                        <p class="pack"><span class="title">包装</span><label><input name="pbookpack"type="checkbox" value='1'><span>精装</span></label><label><input name="pbookpack"type="checkbox" value='2'><span>平装</span></label><label><input name="pbookpack" type="checkbox"value='3'><span>线装</span></label><label><input name="pbookpack" value='4' type="checkbox"><span>挂图</span></label><label><input name="pbookpack" type="checkbox" value='5'><span>盒装</span></label><label><input name="pbookpack" type="checkbox" value='6'><span>袋装</span></label><label><input name="pbookpack" type="checkbox" value='7'><span>软精装</span></label></p>
+                        <div class="classify clearfix"><span class="title">分类</span>
+                            <div class="now_class">
+                                <input type="hidden" name="pcategory_path" value="01.00.00.00.00.00" />
+                                <input type="hidden" name="selectid" value="" />
+                                <input type="hidden" name="selectidval" value="" />
+                               <input name="pbook_category" type="text" value="所有分类"  onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" /><i class="cat_list" name="pbook_category"></i></div>
+                            <div class="show_class clearfix hidden" id="sh_pbook_category">
+                                <span class="close_sc"></span>
+                                <ul>				
+                                    <li><a href="javascript:void(0);" name="01.00.00.00.00.00" id="book_1"class='allcat current'>所有分类</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.01.00.00.00.00" id="book_2">青春文学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.03.00.00.00.00" id="book_3">小说</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.04.00.00.00.00" id="book_4">休闲/爱好</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.05.00.00.00.00" id="book_5">文学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.06.00.00.00.00" id="book_6">孕产/胎教</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.07.00.00.00.00" id="book_7">艺术</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.09.00.00.00.00" id="book_8">动漫/幽默</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.10.00.00.00.00" id="book_9">烹饪/美食</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.11.00.00.00.00" id="book_10">时尚/美妆</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.12.00.00.00.00" id="book_11">旅游/地图</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.14.00.00.00.00" id="book_12">家庭/家居</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.15.00.00.00.00" id="book_13">亲子/家教</a></li>
+                                </ul><ul>				
+                                    <li><a href="javascript:void(0);" name="01.16.00.00.00.00" id="book_14">两性关系</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.17.00.00.00.00" id="book_15">育儿/早教</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.18.00.00.00.00" id="book_16">保健/养生</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.19.00.00.00.00" id="book_17">体育/运动</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.20.00.00.00.00" id="book_18">手工/DIY</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.21.00.00.00.00" id="book_19">成功/励志</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.22.00.00.00.00" id="book_20">管理</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.23.00.00.00.00" id="book_21">风水/占卜</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.24.00.00.00.00" id="book_22">投资理财</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.25.00.00.00.00" id="book_23">经济</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.26.00.00.00.00" id="book_24">法律</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.27.00.00.00.00" id="book_25">政治/军事</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.28.00.00.00.00" id="book_26">哲学/宗教</a></li>
+                                </ul><ul>				
+                                    <li><a href="javascript:void(0);" name="01.30.00.00.00.00" id="book_27">社会科学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.31.00.00.00.00" id="book_28">心理学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.32.00.00.00.00" id="book_29">古籍</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.34.00.00.00.00" id="book_30">文化</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.36.00.00.00.00" id="book_31">历史</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.38.00.00.00.00" id="book_32">传记</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.41.00.00.00.00" id="book_33">童书</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.43.00.00.00.00" id="book_34">中小学教辅</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.45.00.00.00.00" id="book_35">外语</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.47.00.00.00.00" id="book_36">考试</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.49.00.00.00.00" id="book_37">教材</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.50.00.00.00.00" id="book_38">工具书</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.52.00.00.00.00" id="book_39">科普读物</a></li>
+                                </ul><ul class='no_bor'>				
+                                    <li><a href="javascript:void(0);" name="01.54.00.00.00.00" id="book_40">计算机/网络</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.55.00.00.00.00" id="book_41">建筑</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.56.00.00.00.00" id="book_42">医学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.58.00.00.00.00" id="book_43">英文原版书</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.59.00.00.00.00" id="book_44">港台�D��</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.62.00.00.00.00" id="book_45">自然科学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.63.00.00.00.00" id="book_46">工业技术</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.66.00.00.00.00" id="book_47">农业/林业</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.68.00.00.00.00" id="book_48">阅读器</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="01.69.00.00.00.00" id="book_49">日文原版书</a></li>
+                                </ul>                            </div>
+                        </div>
+			<p class="price"><span class="title">价格区间</span><input name="dd_price" type="radio" class="radio" checked="checked"><span class="r_l6">当当价</span><input type="text" class="money" name="dd_lprice"><span class="r_l6">至</span><input type="text" name="dd_hprice"class="money"></p>
+			<p class="price"><span class="title"></span><input name="mk_price" type="radio" class="radio" ><span class="r_l6">市场价</span><input name="mk_lprice"type="text" class="money" disabled> <span class="r_l6">至</span><input name="mk_hprice"type="text" class="money" disabled></p>
+			<p class="time"><span class="title">折扣</span>
+                            <label class="strat_t" style="z-index: 2;">
+                                <input type="text"  name="lowd" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list"  /><i class="close_select" name="lowd"></i>
+                                <span class="date_drop hidden"  id="sh_lowd"><a href="javascript:void(0);" value="" >&nbsp;</a><a href="javascript:void(0);" id="lowd_0" >免费</a><a href="javascript:void(0);" id="lowd_1">1折</a><a href="javascript:void(0);"  id="lowd_2">2折</a><a href="javascript:void(0);" id="lowd_3">3折</a><a href="javascript:void(0);" id="lowd_4">4折</a><a href="javascript:void(0);" id="lowd_5">5折</a><a href="javascript:void(0);" id="lowd_6">6折</a><a href="javascript:void(0);" id="lowd_7">7折</a><a href="javascript:void(0);" id="lowd_8">8折</a><a href="javascript:void(0);" id="lowd_9">9折</a></span></label>
+                                <span class="r_l6">-</span><label class="strat_t" style="z-index: 2;"><input type="text" name ="highd" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" /><i class="close_select" name="highd"></i><span class="date_drop hidden"  id="sh_highd"><a href="javascript:void(0);" value="">&nbsp;</a><a href="javascript:void(0);" id="highd_1">1折</a><a href="javascript:void(0);" id="highd_2">2折</a><a href="javascript:void(0);" id="highd_3">3折</a><a href="javascript:void(0);" id="highd_4">4折</a><a href="javascript:void(0);" id="highd_5">5折</a><a href="javascript:void(0);" id="highd_6">6折</a><a href="javascript:void(0);" id="highd_7">7折</a><a href="javascript:void(0);" id="highd_8">8折</a><a href="javascript:void(0);" id="highd_9">9折</a><a href="javascript:void(0);" id="highd_10">不打折</a></span>
+                            </label><span class="r_l6">(格式：3折－5折，免费－5折，7折－不打折)</span></p>
+			<p class="time"><span class="title">出版时间区间</span>
+                            <label class="strat_t"><input type="text" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" name="book_start_year"><i class="close_select" name="book_start_year"></i><span class="date_drop hidden"   id="sh_book_start_year">
+                                <a href="javascript:void(0);" value="">&nbsp;</a>    
+                                                                <a href="javascript:void(0);" id="book_start_year_2023">2023</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2022">2022</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2021">2021</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2020">2020</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2019">2019</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2018">2018</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2017">2017</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2016">2016</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2015">2015</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2014">2014</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2013">2013</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2012">2012</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2011">2011</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2010">2010</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2009">2009</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2008">2008</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2007">2007</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2006">2006</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2005">2005</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2004">2004</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2003">2003</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2002">2002</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2001">2001</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_2000">2000</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1999">1999</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1998">1998</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1997">1997</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1996">1996</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1995">1995</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1994">1994</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1993">1993</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1992">1992</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1991">1991</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1990">1990</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1989">1989</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1988">1988</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1987">1987</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1986">1986</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1985">1985</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1984">1984</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1983">1983</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1982">1982</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1981">1981</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1980">1980</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1979">1979</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1978">1978</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1977">1977</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1976">1976</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1975">1975</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1974">1974</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1973">1973</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1972">1972</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1971">1971</a>
+                                                                    <a href="javascript:void(0);" id="book_start_year_1970">1970</a>
+                                                                        </span></label><span class="r_l6">年</span>
+                            <label class="strat_t"><input type="text" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" name="book_start_month"><i class="close_select" name="book_start_month"></i>
+                                <span class="date_drop hidden"   id="sh_book_start_month">
+                                <a href="javascript:void(0);" value="">&nbsp;</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_1">1</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_2">2</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_3">3</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_4">4</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_5">5</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_6">6</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_7">7</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_8">8</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_9">9</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_10">10</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_11">11</a>
+                                                                        <a href="javascript:void(0);" id="book_start_month_12">12</a>
+                                                                        </span>
+                               </label><span class="r_l6">月</span><span class="r_l6">-</span>
+                            <label class="end_t">
+                                <input type="text" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" name="book_end_year"><i class="close_select" name="book_end_year"></i><span class="date_drop hidden"  id="sh_book_end_year">
+                                    <a href="javascript:void(0);" value="">&nbsp;</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2023">2023</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2022">2022</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2021">2021</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2020">2020</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2019">2019</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2018">2018</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2017">2017</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2016">2016</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2015">2015</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2014">2014</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2013">2013</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2012">2012</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2011">2011</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2010">2010</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2009">2009</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2008">2008</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2007">2007</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2006">2006</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2005">2005</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2004">2004</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2003">2003</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2002">2002</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2001">2001</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_2000">2000</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1999">1999</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1998">1998</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1997">1997</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1996">1996</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1995">1995</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1994">1994</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1993">1993</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1992">1992</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1991">1991</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1990">1990</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1989">1989</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1988">1988</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1987">1987</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1986">1986</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1985">1985</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1984">1984</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1983">1983</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1982">1982</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1981">1981</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1980">1980</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1979">1979</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1978">1978</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1977">1977</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1976">1976</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1975">1975</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1974">1974</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1973">1973</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1972">1972</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1971">1971</a>
+                                                                        <a href="javascript:void(0);" id="book_end_year_1970">1970</a>
+                                                                        </span></label><span class="r_l6">年</span>
+                            <label class="end_t">
+                                <input type="text" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" name="book_end_month"><i class="close_select" name="book_end_month"></i>
+                                <span class="date_drop hidden"   id="sh_book_end_month">
+                                <a href="javascript:void(0);" value="">&nbsp;</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_1">1</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_2">2</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_3">3</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_4">4</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_5">5</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_6">6</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_7">7</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_8">8</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_9">9</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_10">10</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_11">11</a>
+                                                                        <a href="javascript:void(0);" id="book_end_month_12">12</a>
+                                                                    </span>
+                            </label><span class="r_l6">月</span>
+                        </p>
+                        <p class="state"><span class="title">库存状态</span><input name="pbook_filter" type="checkbox" value='1'><span>仅显示有货</span></p>
+                    </div>
+                    <!-- 纸质图书 start -->
+                    <div class="detail_condition hidden" id="ebook_panel">
+                        <div class="classify clearfix"><span class="title">分类</span>
+                            <div class="now_class">
+                                <input type="hidden" name="ecategory_path" value="98.00.00.00.00.00" />
+                               <input name="ebook_category" type="text" value="所有分类"  onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" /><i class="cat_list" name="ebook_category"></i></div>
+                            <div class="show_class clearfix hidden" id="sh_ebook_category">
+                                <span class="close_sc"></span>
+                                <ul>				
+                                    <li><a href="javascript:void(0);" name="98.00.00.00.00.00" id="ebook_1"class='allcat current'>所有分类</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.01.00.00.00" id="ebook_2">青春文学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.03.00.00.00" id="ebook_3">小说</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.04.00.00.00" id="ebook_4">休闲/爱好</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.05.00.00.00" id="ebook_5">文学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.06.00.00.00" id="ebook_6">孕产/胎教</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.07.00.00.00" id="ebook_7">艺术</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.09.00.00.00" id="ebook_8">动漫/幽默</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.10.00.00.00" id="ebook_9">烹饪/美食</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.11.00.00.00" id="ebook_10">时尚/美妆</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.12.00.00.00" id="ebook_11">旅游/地图</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.14.00.00.00" id="ebook_12">家庭/家居</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.15.00.00.00" id="ebook_13">亲子/家教</a></li>
+                                </ul><ul>				
+                                    <li><a href="javascript:void(0);" name="98.01.16.00.00.00" id="ebook_14">两性关系</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.17.00.00.00" id="ebook_15">育儿/早教</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.18.00.00.00" id="ebook_16">保健/养生</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.19.00.00.00" id="ebook_17">体育/运动</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.20.00.00.00" id="ebook_18">手工/DIY</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.21.00.00.00" id="ebook_19">成功/励志</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.22.00.00.00" id="ebook_20">管理</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.23.00.00.00" id="ebook_21">风水/占卜</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.24.00.00.00" id="ebook_22">投资理财</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.25.00.00.00" id="ebook_23">经济</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.26.00.00.00" id="ebook_24">法律</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.27.00.00.00" id="ebook_25">政治/军事</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.28.00.00.00" id="ebook_26">哲学/宗教</a></li>
+                                </ul><ul>				
+                                    <li><a href="javascript:void(0);" name="98.01.30.00.00.00" id="ebook_27">社会科学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.31.00.00.00" id="ebook_28">心理学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.32.00.00.00" id="ebook_29">古籍</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.34.00.00.00" id="ebook_30">文化</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.36.00.00.00" id="ebook_31">历史</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.38.00.00.00" id="ebook_32">传记</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.41.00.00.00" id="ebook_33">童书</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.43.00.00.00" id="ebook_34">中小学教辅</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.45.00.00.00" id="ebook_35">外语</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.47.00.00.00" id="ebook_36">考试</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.49.00.00.00" id="ebook_37">教材</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.50.00.00.00" id="ebook_38">工具书</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.52.00.00.00" id="ebook_39">科普读物</a></li>
+                                </ul><ul class='no_bor'>				
+                                    <li><a href="javascript:void(0);" name="98.01.54.00.00.00" id="ebook_40">计算机/网络</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.55.00.00.00" id="ebook_41">建筑</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.56.00.00.00" id="ebook_42">医学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.58.00.00.00" id="ebook_43">英文原版书</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.59.00.00.00" id="ebook_44">港台�D��</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.62.00.00.00" id="ebook_45">自然科学</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.63.00.00.00" id="ebook_46">工业技术</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.66.00.00.00" id="ebook_47">农业/林业</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.68.00.00.00" id="ebook_48">阅读器</a></li>
+                                				
+                                    <li><a href="javascript:void(0);" name="98.01.69.00.00.00" id="ebook_49">日文原版书</a></li>
+                                </ul>                            </div>
+                        </div>
+			<p class="price"><span class="title">价格区间</span><input name="edd_price"type="radio" class="radio" checked="checked" /><span class="r_l6">当当价</span><input name="edd_lprice"type="text" class="money"><span class="r_l6">至</span><input name="edd_hprice"type="text" class="money"></p>
+			<p class="price"><span class="title"></span><input name ="emk_price" type="radio" class="radio"><span class="r_l6">市场价</span><input name="emk_lprice"type="text" class="money" disabled="disabled"><span class="r_l6">至</span><input name="emk_hprice"type="text" class="money" disabled="disabled"></p>
+			<p class="time"><span class="title">折扣</span>
+                            <label class="strat_t" style="z-index:2;">
+                                <input type="text" name="elowd" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" /><i class="close_select" name="elowd"></i>
+                                <span class="date_drop hidden"   id="sh_elowd"><a href="javascript:void(0);" value="">&nbsp;</a><a href="javascript:void(0);" id="elowd_0">免费</a><a href="javascript:void(0);" id="elowd_1">1折</a><a href="javascript:void(0);" id="elowd_2">2折</a><a href="javascript:void(0);" id="elowd_3">3折</a><a href="javascript:void(0);" id="elowd_4">4折</a><a href="javascript:void(0);" id="elowd_5">5折</a><a href="javascript:void(0);" id="elowd_6">6折</a><a href="javascript:void(0);" id="elowd_7">7折</a><a href="javascript:void(0);" id="elowd_8">8折</a><a href="javascript:void(0);" id="elowd_9">9折</a></span></label>
+                                <span class="r_l6">-</span><label class="strat_t" style="z-index:2;"><input type="text" name ="ehighd" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" /><i class="close_select"></i><span class="date_drop hidden" id="sh_ehighd"><a href="javascript:void(0);">&nbsp;</a><a href="javascript:void(0);" id="ehighd_1" name ="highd">1折</a><a href="javascript:void(0);" id="ehighd_2">2折</a><a href="javascript:void(0);" id="ehighd_3">3折</a><a href="javascript:void(0);" id="ehighd_4">4折</a><a href="javascript:void(0);" id="ehighd_5">5折</a><a href="javascript:void(0);" id="ehighd_6">6折</a><a href="javascript:void(0);" id="ehighd_7">7折</a><a href="javascript:void(0);" id="ehighd_8">8折</a><a href="javascript:void(0);" id="ehighd_9">9折</a><a href="javascript:void(0);" id="ehighd_10">不打折</a></span>
+                            </label><span class="r_l6">(格式：3折－5折，免费－5折，7折－不打折)</span></p>
+                        <p class="time"><span class="title">出版时间区间</span>
+                            <label class="strat_t"><input type="text" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" name="ebook_start_year" /><i class="close_select" name=""></i><span class="date_drop hidden"  id="sh_ebook_start_year">
+                                <a href="javascript:void(0);">&nbsp;</a>    
+                                                                    <a href="javascript:void(0);" id="ebook_start_year_2023">2023</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2022">2022</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2021">2021</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2020">2020</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2019">2019</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2018">2018</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2017">2017</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2016">2016</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2015">2015</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2014">2014</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2013">2013</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2012">2012</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2011">2011</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2010">2010</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2009">2009</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2008">2008</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2007">2007</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2006">2006</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2005">2005</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2004">2004</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2003">2003</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2002">2002</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2001">2001</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_2000">2000</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1999">1999</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1998">1998</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1997">1997</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1996">1996</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1995">1995</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1994">1994</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1993">1993</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1992">1992</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1991">1991</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1990">1990</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1989">1989</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1988">1988</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1987">1987</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1986">1986</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1985">1985</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1984">1984</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1983">1983</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1982">1982</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1981">1981</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1980">1980</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1979">1979</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1978">1978</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1977">1977</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1976">1976</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1975">1975</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1974">1974</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1973">1973</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1972">1972</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1971">1971</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_year_1970">1970</a>
+                                                                        </span></label><span class="r_l6">年</span>
+                            <label class="strat_t"><input type="text" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" name="ebook_start_month"><i class="close_select" name="ebook_start_month"></i>
+                                <span class="date_drop hidden"   id="sh_ebook_start_month">
+                                <a href="javascript:void(0);">&nbsp;</a>
+                                                                    <a href="javascript:void(0);" id="ebook_start_month_1">1</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_2">2</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_3">3</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_4">4</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_5">5</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_6">6</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_7">7</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_8">8</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_9">9</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_10">10</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_11">11</a>
+                                                                        <a href="javascript:void(0);" id="ebook_start_month_12">12</a>
+                                                                        </span>
+                               </label><span class="r_l6">月</span><span class="r_l6">-</span>
+                            <label class="end_t">
+                                <input type="text" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" name="ebook_end_year"><i class="close_select" name="ebook_end_year"></i><span class="date_drop hidden"   id="sh_ebook_end_year">
+                                      <a href="javascript:void(0);">&nbsp;</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2023">2023</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2022">2022</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2021">2021</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2020">2020</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2019">2019</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2018">2018</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2017">2017</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2016">2016</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2015">2015</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2014">2014</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2013">2013</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2012">2012</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2011">2011</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2010">2010</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2009">2009</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2008">2008</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2007">2007</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2006">2006</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2005">2005</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2004">2004</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2003">2003</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2002">2002</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2001">2001</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_2000">2000</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1999">1999</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1998">1998</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1997">1997</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1996">1996</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1995">1995</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1994">1994</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1993">1993</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1992">1992</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1991">1991</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1990">1990</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1989">1989</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1988">1988</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1987">1987</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1986">1986</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1985">1985</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1984">1984</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1983">1983</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1982">1982</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1981">1981</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1980">1980</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1979">1979</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1978">1978</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1977">1977</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1976">1976</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1975">1975</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1974">1974</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1973">1973</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1972">1972</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1971">1971</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_year_1970">1970</a>
+                                                                        </span></label><span class="r_l6">年</span>
+                            <label class="end_t">
+                                <input type="text" onfocus="this.blur()" unselectable="on" style="cursor: pointer;" class="cat_list" name="ebook_end_month"><i class="close_select" name="ebook_end_month"></i>
+                                <span class="date_drop hidden"   id="sh_ebook_end_month">
+                                     <a href="javascript:void(0);">&nbsp;</a>
+                                                                    <a href="javascript:void(0);" id="ebook_end_month_1">1</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_2">2</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_3">3</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_4">4</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_5">5</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_6">6</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_7">7</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_8">8</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_9">9</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_10">10</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_11">11</a>
+                                                                        <a href="javascript:void(0);" id="ebook_end_month_12">12</a>
+                                                                        </span>
+                            </label><span class="r_l6">月</span>
+                        </p>
+			<div class="reading clearfix">
+                            <span class="title">阅读设备</span>
+			    <ul id="ebook_show">
+			     	<li><label><input name="e_device" value='0' type="checkbox"><i class="pc"></i></label><p class="equipment_name">PC在线</p></li>
+			     	<li><label><input name="e_device" value='14' type="checkbox"><i class="pc_khd"></i></label><p class="equipment_name">PC客户端</p></li>
+			     	<li><label><input name="e_device" value='3' type="checkbox"><i class="iphone"></i></label><p class="equipment_name">iphone</p></li>
+			     	<li><label><input name="e_device" value='2' type="checkbox"><i class="ipad"></i></label><p class="equipment_name">iPad</p></li>
+			     	<li><label><input name="e_device" value='4' type="checkbox"><i class="android"></i></label><p class="equipment_name">Android</p></li>
+			     	<li><label><input name="e_device" value='15'type="checkbox"><i class="androidpad"></i></label><p class="equipment_name">AndroidPad</p></li>
+			     	<li><label><input name="e_device" value='5' type="checkbox"><i class="reader"></i></label><p class="equipment_name">都看阅读器</p></li>
+			     </ul>
+			</div>
+                    </div>
+                <!-- 纸质图书 end -->
+		</div>
+                <div class="search_box" id="search_box"><p class="search_btn"><a href="javascript:void(0);" class="btn formsubmit" id="search_btn1" name="form1"></a><a class="search_clear clearVal" name="form1">清空搜索条件</a></p></div>
+            </form>
+            </div>
+            <!--图书end-->
+            <!--数字商品 start-->
+            <div class="new_adv_content hidden" id="digital_panel" >
+             <form id="form5" method="GET" action="//search.dangdang.com/" name="form5">
+	        	<div class="other_box clearfix">
+                            <p class="box_line"><span>书 名</span><input type="text" name="key1" id="ebook_key1" class="checkinput" /><i class="detail_error" id="ebook_key1_error"></i></p>
+                            <p class="box_line"><span>ISBN</span><input type="text" name="key4" id="ebook_key4" class="checkinput" /><i class="detail_error" id="ebook_key4_error"></i></p>
+                            <p class="box_line"><span>著译者</span><input type="text" name="key2" id="ebook_key2" class="checkinput" /><i class="detail_error" id="ebook_key2_error"></i></p>
+                            <p class="box_line"><span>出版社</span><input type="text" name="key3" id="ebook_key3" class="checkinput" /><i class="detail_error" id="ebook_key3_error"></i></p>
+                            <div class="search_box clearfix"><p class="search_btn"><a href="javascript:void(0);" name="form5"  class="btn formsubmit"></a><a class="search_clear clearVal" name="form5">重新填写</a></p></div>
+		       </div>
+                    <input type="hidden" name="category_path" value="98.00.00.00.00.00"/>
+                    <input type="hidden" name="medium" value="22"/>
+            </form>
+	    </div>
+            <!-- 数字商品 end -->
+            <!-- 图书 音乐 start-->
+            <div class="new_adv_content hidden" id="music_panel">
+                <form id="form2" method="GET" action="//search.dangdang.com/" name="form2">
+                <div class="other_box clearfix">
+                    <p class="box_line"><span>商品名</span><input type="text" name="key1" id="music_key1" class="checkinput" /><i class="detail_error" id="music_key1_error"></i></p>
+                    <p class="box_line"><span>歌 手</span><input type="text" name="key2" id="music_key2" class="checkinput" /><i class="detail_error" id="music_key2_error"></i></p>
+                    <p class="box_line"><span>演奏者</span><input type="text" name="key3" id="music_key3" class="checkinput" /><i class="detail_error" id="music_key3_error"></i></p>
+                    <div class="search_box clearfix"><p class="search_btn"><a href="javascript:void(0);" name="form2"  class="btn formsubmit"></a><a class="search_clear clearVal" name="form2">重新填写</a></p></div>
+		</div>
+                    <input type="hidden" name="category_path" value="03.00.00.00.00.00"/>
+                    <input type="hidden" name="medium" value="03"/>
+                </form>
+	   </div>
+          <!-- 图书 音乐 end -->
+          <!-- 图书 影视 start -->
+        <div class="new_adv_content hidden" id="video_panel">
+            <form id="form3" method="GET" action="//search.dangdang.com/" name="form3">
+            <div class="other_box clearfix">
+                <p class="box_line"><span>商品名</span><input type="text" name="key1" id="video_key1" class="checkinput" /><i class="detail_error" id="video_key1_error"></i></p>
+                <p class="box_line"><span>主 演</span><input type="text" name="key2" id="video_key3" class="checkinput" /><i class="detail_error" id="video_key3_error"></i></p>
+                <p class="box_line"><span>导 演</span><input type="text" name="key3" id="video_key2" class="checkinput" /><i class="detail_error" id="video_key2_error"></i></p>
+                <div class="search_box clearfix"><p class="search_btn"><a href="javascript:void(0);" name="form3"  class="btn formsubmit"></a><a class="search_clear clearVal" name="form3">重新填写</a></p></div>
+            </div>
+              <input type="hidden" name="category_path" value="05.00.00.00.00.00"/>
+              <input type="hidden" name="medium" value="05"/>
+         </form>
+	</div>
+        <!-- 图书 影视 end -->
+        <!-- 图书 百货 start -->
+        <div class="new_adv_content hidden" id="category_panel">
+          <form id="form4" method="GET" action="//search.dangdang.com/" name="form4">  
+          <div class="other_box clearfix">
+              <p class="box_line"><span>商品名</span><input type="text" name="key" id="category_key" class="checkinput" /><i class="detail_error" id="category_key_error"></i></p>
+               <p class="box_line"><span>商品类别</span>
+                <select id="category_id" name="category_id">
+                     <option value="">所有类别</option>
+                     <option value="4001001">家电</option><option value="4001042">手机通讯</option><option value="4001066">电脑产品</option><option value="4001188">宠物</option><option value="4001370">厨卫用品</option><option value="4001388">厨房器皿</option><option value="4001426">家具/建材</option><option value="4001482">纺织用品</option><option value="4001571">时尚家饰</option><option value="4001589">清洁</option><option value="4001637">生活日用</option><option value="4001644">礼品收藏</option><option value="4001661">成人用品</option><option value="4001672">文具</option><option value="4001809">珠宝饰品</option><option value="4001829">箱包皮具</option><option value="4001847">钟表眼镜</option><option value="4001867">女鞋</option><option value="4001896">男鞋</option><option value="4001908">儿童服饰</option><option value="4001940">母婴用品</option><option value="4002061">玩具</option><option value="4002074">美妆</option><option value="4002145">食品</option><option value="4002186">冲调食品</option><option value="4003613">手机数码</option><option value="4002378">运动服装服饰</option><option value="4002384">运动鞋</option><option value="4002395">运动器材</option><option value="4002413">户外装备</option><option value="4002429">汽车用品</option><option value="4002436">康体保健</option><option value="4002441">水上运动</option><option value="4002467">高尔夫运动</option><option value="4002513">当当特卖</option><option value="4002557">运动军品</option><option value="4002589">数码产品</option><option value="4002615">办公产品</option><option value="4002641">成人玩具</option><option value="4002742">男士服装</option><option value="4002778">女士服装</option><option value="4002824">内衣袜品</option><option value="4003356">虚拟商品</option>		</select></p>
+                 <div class="search_box clearfix"><p class="search_btn"><a href="javascript:void(0);" name="form4"  class="btn formsubmit"></a><a class="search_clear clearVal" name="form4">重新填写</a></p></div>
+            </div>
+        </form>
+	</div>
+	<!-- 图书 百货 end -->
+
+<style>
+ul:after { display:none}
+</style>
+<div class="new_adv_content hidden" id="batchsearch_panel">
+            <form id="form6" style="padding:0px;margin:0px;height:245px\9;*height:auto;" target="_blank" method="POST" action="http://customer.dangdang.com/shoppinglist/shoppinglist.html" name="form6">
+            <div class="batch_box">
+                <div class="user_tips">
+                    <span name="question-mark" class="ques_mark" style="display:none;" title="如何使用"></span>
+                    <!--<a href="javascript:void(0);" class="ques_mark" style="display:none;" title="如何使用"></a>-->
+                    <div class="tips_content">
+                        <a name="close" class="cross" href="javascript:void(0);"  title="收起"></a>
+                        
+                        <h1><span id="use_xts">小贴士：</span><span id="use_help" class=" hidden">使用帮助(<i id="tip_num">1</i>/3)</span></h1>
+                        <div id="tips">
+                        <p id="tip0" class="tips_infor ">如果您想一次购买多本图书，请一定要常光顾这里哦^_^</p>
+                        <p id="tip1" class="tips_infor hidden">输入搜索词，不仅可以一个词一个词输入，还可以通过txt或excel文档批量上传。</p>
+                        <p id="tip2" class="tips_infor hidden">输入完成，点击搜索按钮，会进入搜索结果页。</p>
+                        <p id="tip3" class="tips_infor hidden">搜索结果页，您可以将想买的图书全部加入购物车，再去结算:）</p>
+                        </div>
+                        <div class="tips_page">
+                            <a name="next-page"  href="javascript:void(0);" class="next hidden">下一页></a>
+                            <a name="previous-page"  href="javascript:void(0);" class="back hidden"><&nbsp;上一页</a>
+                            <a name="how-to-use"  href="javascript:void(0);" class="help " style="float:right;color:#1f82ce">如何使用?</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <ul class="batch_list" id="batch_list">
+                    <label for="tag" id="tag_label"style="position: absolute;top: 1px;left: 48px;width: 398px;height: 38px;line-height: 40px;z-index: 1;overflow: hidden;visibility: visible; color:#888;">每个搜索词一行，回车换行哟:）</label>
+                    <li><div class="num">001</div><p><a href="javascript:void(0);" class="del">X</a><input id="tag" name="" type="text"></p></li>
+                    <li><div class="num">002</div><p><a href="javascript:void(0);" class="del">X</a><input name="" type="text"></p></li>
+                    <li><div class="num">003</div><p><a href="javascript:void(0);" class="del">X</a><input name="" type="text"></p></li>
+                    <li><div class="num">004</div><p><a href="javascript:void(0);" class="del">X</a><input name="" type="text"></p></li>
+                    <li><div class="num">005</div><p><a href="javascript:void(0);" class="del">X</a><input name="" type="text"></p></li>
+                </ul>
+                <input name="sk" id="sk" type="hidden">
+                <div class="add_box"><a href="javascript:void(0);">点击添加一行</a></div>
+            </div>
+            <div class="search_box batch_search">
+                <div class="tips hidden" style="filter:Alpha(opacity=90);opacity:0.9;">
+                    <span></span>
+                    <div class="eg_img">
+                        <div class="img_left"><img src="images/model/search/excel.jpg" alt=""></div>
+                        <div class="img_right"><img src="images/model/search/txt.jpg" alt=""></div>
+                    </div>
+                    <p class="tips_title">温馨提示</p>
+                    <p>1.批量上传仅支持<b>excel、txt</b>格式；
+                    <p>2.每个关键词一行，<b>excel</b>请填写到第一列；</p>
+                    <p>3.最多只能上传150个关键词。</p>
+                </div>
+</form>
+<form method="post" id="batch" action="api/upload.php" enctype="multipart/form-data">
+                    <p class="search_btn"><a href="javascript:void(0);" id="batch_search" class="btn"></a><a href="javascript:void(0);" id="search_clear" class="search_clear">清空</a>
+<a style="padding-left:20px; margin:0 10px 0 0; color:#646464; float:none; text-decoration:none; background: url(images/model/search/shopping_list_sprite.png) 0 -154px no-repeat;background-position: 3px -121px;position:relative;display:inline-block;width:60px;height:18px;cursor:pointer
+;"  href="javascript:void(0);" ><input style="position:absolute;left:0;top:0;width:100%;height:100%;z-index:999;opacity:0;filter: alpha(opacity
+=0); -moz-opacity: 0;cursor:pointer;" type="file" name="file" id="file" size="1" />批量上传</a>
+<iframe id="frame_down" name="frame_down" style="display:none;"></iframe>
+  </form>
+
+                <!--<p><a href="//help.dangdang.com/details/page113" target="_blank" class="blue_c">如何使用批量搜索？</a></p>-->
+            </div>
+        </div>
+      </div>
+</div>
+  
+<script type="text/javascript">
+(function($){
+    function numformat(num){
+      if(num<10){return '00'+num;}else if(num<100){return '0'+num;}else return num;
+    }
+    function Lsearch(){
+       this.elem_ul = $('div.batch_box ul');
+       this.add_btn = $('.add_box');
+       this.clear_btn = $('#search_clear');
+       this.elem_li = '<li><div class="num"></div><p><a href="javascript:void(0);" class="del">X</a><input name="" type="text"></p></li>';
+       this.upload = $('#file');
+       this.tips = $('.tips');
+       this.submit_form = $('#batch');
+       this.frame = $('#frame_down');
+       this.url = 'api/upload.php';
+       }
+    Lsearch.prototype ={
+        constructor:Lsearch,
+        begin:function(){
+          this.init();
+          this.blur();
+          this.add();
+          this.del();
+          this.downkey();
+          this.clear();
+          this.batch_up();
+          this.send();
+        },
+        init:function(){
+            var elem_ul = this.elem_ul;
+            elem_ul.find('input:text').val('');
+        //   elem_ul.children('li').first().find('input:text').css({"color":"#888"});
+         //  elem_ul.children('li').first().find('input:text').val('').focus().val(oldVal);  
+      //      elem_ul.children('li').first().find('input:text').val(oldVal).focus();
+        },
+        blur:function(){
+           var elem_ul = this.elem_ul;
+           elem_ul.delegate('input:text:eq(0)','blur',function(){
+                if($(this).val()==""){
+                    $("#tag_label").show();
+                }else{
+                    $("#tag_label").hide();
+                }  
+           });
+        },
+        add:function(){
+            var add_btn =this.add_btn;
+            var elem_ul = this.elem_ul;
+            var elem_li = this.elem_li;
+            add_btn.delegate('a','click',function(){
+            //    var num = Number(elem_ul.children('li').last().find('.num').html());
+                var num = elem_ul.children('li').last().index();
+                num = num === -1 ? 0 : num;
+                if(num == 150){
+                    alert('最多仅支持150个关键词哟！'); 
+                }
+             /*   var len = add_btn.find('li').length;
+               if(len == 0){
+                   $("#tag_label").show();
+                }*/
+               if(num < 150){
+                    num++;
+                    num = numformat(num);
+                    elem_ul.append(elem_li);
+                    elem_ul.children('li').last().find('input:text').focus();
+                    elem_ul.children('li').last().find('.num').html(num);
+                    if(num == '001'){
+                        $("#tag_label").show();
+                        elem_ul.find('input:text').attr('id','tag');
+                    }
+                  }
+             });
+        },
+        del:function(){
+            var del_btn = this.elem_ul;
+            del_btn.delegate('a','click',function(){
+               var li_nextall = $(this).parents('li').nextAll();
+               if($(this).parents('li').index() == 1){
+                   $(this).parents('li').next().find('input:text').attr("id","tag");
+               }
+               $(this).parents('li').remove();
+               var len = del_btn.find('li').length;
+               if(len == 0){
+                   $("#tag_label").hide();
+                }
+               li_nextall.find('.num').each(function(){
+                   var num = Number($(this).html());
+                     num--;
+                     num = numformat(num); 
+                     if(num == '001'){
+                         if($(this).parents("li").find("input:text").val() == '') {
+                             $("#tag_label").show();
+                         }else{
+                             $("#tag_label").hide();
+                         }
+                      }
+                   $(this).html(num);
+               });
+            });
+         },
+        downkey:function(){
+            var inp = this.elem_ul;
+            var elem_li = this.elem_li;
+            inp.delegate('input:text','keydown', function (e) {
+                var key = e.which;
+                if((key == 8 ||key == 46) && $(this).val()==''){
+                    e.preventDefault();
+               }else if(key == 13) {
+                    e.preventDefault();
+                    //var num = Number($(this).parents('li').find('.num').html());
+                    var num = $(this).parents('li').index();
+                    if(num == 150){
+                        alert('最多仅支持150个关键词哟！'); 
+                    } 
+                    if(num < 150){
+                        if($(this).parents('li').next().length == 0){
+                            num++;
+                            num=numformat(num);
+                            $(this).parents('ul').append(elem_li);
+                            $(this).parents('li').next().find('.num').html(num);
+                             $(this).parents('li').next().find('input:text').focus(); 
+                             //$("#tag_label").html(oldVal);
+                        }else
+                            $(this).parents('li').next().find('input:text').focus();
+                         }
+                 }else{
+                    // $("#tag_label").hide();
+                    if($(this).parents("li").find('.num').html() == '001'){
+                        $("#tag_label").hide();
+                     }
+                 }
+            });
+         },
+        clear:function(){
+           var clear_btn = this.clear_btn;
+           var elem_ul = this.elem_ul;
+           clear_btn.bind('click',function(){
+               if(confirm('确定清空所有搜索关键词吗？')){
+               elem_ul.find('input:text').val('');
+               elem_ul.children('li').first().find('input:text').focus();
+               $("#tag_label").show();
+              }else 
+               return false;
+
+          });
+        },
+        batch_up:function(){
+             var upload = this.upload;
+             var tips = this.tips;
+             var submit_form = this.submit_form;
+             var frame = this.frame;
+             var url = this.url;
+         /*    $('#file').hover(function(){
+                 tips.show();
+             },function(){
+                 tips.hide();
+             });*/
+             upload.bind('mouseenter',function(){
+                   tips.show();
+              });
+             upload.bind('mouseleave',function(){
+                   $(this).bind('mouseenter',function(){tips.show();});
+                   tips.hide();
+              });
+             upload.click(function(){tips.hide();});
+             upload.change(function(){
+                $(this).unbind('mouseenter');//for ie
+                tips.hide();//for other
+                if(!frame[0]){
+                   frame = $('<iframe id="frame_down" name="frame_down" style="display:none;"></iframe>');
+                   submit_form.append(frame);
+                 }
+            submit_form.attr('target','frame_down');
+            submit_form.attr('action',url);
+            submit_form.submit();
+            $('form#batch')[0].reset();
+       //     $(this).outerHTML = $(this).outerHTML;
+      //      this.value =null;
+         });
+        },
+        send:function(){
+            var elem_ul = this.elem_ul;
+            var sk = $('#sk');
+            $('#batch_search').bind('click',function(){
+               var keyall = '';
+               var input_all = elem_ul.find('input:text');
+               input_all.each(function(index,elem){
+                     if($(elem).val() != ''){
+                         keyall += $(elem).val()+',';
+                     }
+               });
+            if(!sk[0]){
+                sk = $('<input name="sk" id="sk" type="hidden">');
+                elem_ul.after(sk);
+            }
+             sk.val(keyall);
+             if(sk.val() == ''){
+                alert('请输入关键词');
+                return false;
+             }
+             $('#form6').submit();
+ 
+            });
+        }
+    }
+var Lsearch1 = new Lsearch();
+Lsearch1.begin();
+})(jQuery);
+</script>
+<script type="text/javascript">
+(function(){
+var pagecookie ={
+        setCookie:function(name,value,time){
+            var strsec = this.getsec(time);
+            var exp = new Date();
+            exp.setTime(exp.getTime() + strsec*1);
+            document.cookie = name + "=" + escape (value) + ";expires=" + exp.toGMTString();
+        },
+        getCookie:function(name){
+            var arr,reg=new RegExp("(^| )" +name+"=([^;]*)(;|$)");
+            if(arr=document.cookie.match(reg)) return unescape(arr[2]);
+                else return null;
+        },
+        delCookie:function(name){
+            var exp = new Date();
+            exp.setTime(exp.getTime() - 1);
+            var cval=this.getCookie(name);
+            if(cval!=null) document.cookie= name + "="+cval+";expires="+exp.toGMTString();
+        },
+        getsec:function(str){
+            var str1=str.substring(1,str.length)*1; 
+            var str2=str.substring(0,1); 
+            if (str2=="s"){
+                return str1*1000;
+            }else if (str2=="m"){
+                return str1*60*1000;
+            }else if (str2=="h"){
+                return str1*60*60*1000;
+            }else if (str2=="d"){
+                return str1*24*60*60*1000;
+            }
+        }
+    }
+    $("div.nav_list a").click(function(){
+        var $this = $(this);
+        if($this.attr("class").indexOf("active") < 0){
+            changetab($this.attr("id"));
+            pagecookie.delCookie("mediumbook");
+            form_reset();
+            changebooktab();
+            if($this.attr("id") == "books_tab"){
+                changebookbutton();
+            }
+        }
+    });
+    if(!window.name){
+        window["name"] = "gaoji";
+        pagecookie.delCookie("tabname");
+        pagecookie.delCookie("mediumbook");   
+        //pagecookie.delCookie("batchtipname");      
+    }else{
+        var tabname = pagecookie.getCookie("tabname");
+        var mediumbook = pagecookie.getCookie("mediumbook");
+        var batchtipname = pagecookie.getCookie("batchtipname");
+        if(tabname != null){
+            changetab(tabname);
+        }
+        if(mediumbook != null){
+            changebooktab();
+            form_reset();
+        }
+        if(batchtipname != null){
+            changebatchsearchtip();
+        }
+    }
+
+$(document).keydown(function(e){
+    var keycode = 0,e = e||event;
+    keycode = e.keyCode||e.which||e.charCode;
+    if(e.keyCode == 9){
+        changetab("batchsearch_tab");
+    }
+});
+//
+$(function() {
+    var is_batch = 0;
+    var tabname = pagecookie.getCookie("tabname");
+    var batchtipname = pagecookie.getCookie("batchtipname");
+    var batchtipmask = pagecookie.getCookie("batchtipmask");
+    
+    if(is_batch == 1) tabname = "batchsearch_tab";
+    
+    if(tabname != null){
+        changetab(tabname);
+        if(batchtipname != null || is_batch == 1 ){
+            changebatchsearchtip();
+        }
+    }
+});
+function changebatchsearchtip(){
+    var batchtipname = pagecookie.getCookie("batchtipname");
+    var batchtipmask = pagecookie.getCookie("batchtipmask");
+
+    if(batchtipmask != "ques"){
+        $(".ques_mark").hide(); 
+        $(".tips_content").show();        
+    }else if(!batchtipname && !batchtipmask){
+        $(".ques_mark").hide(); 
+        $(".tips_content").show();
+    }else if(batchtipmask == "ques" || batchtipmask == "null" ){ 
+        $(".ques_mark").show(); 
+        $(".tips_content").hide();
+    }else{
+        var thiso = $("#"+batchtipname);
+        $(".tips_infor").addClass("hidden");
+        thiso.removeClass("hidden");
+        
+        var tip_num = batchtipname.replace("tip","");
+        if(tip_num < 0) tip_num = 0;
+        if(tip_num > 0){
+            $("#use_xts").hide();
+            $("#use_help").show();
+            $("#tip_num").html(tip_num);
+        }else{
+            $("#use_xts").show();
+            $("#use_help").hide();
+        }
+        $("#tip"+tip_num).removeClass("hidden");
+        togglebatchtipnum(tip_num);
+    }
+}
+function togglebatchtipnum(tip_num){
+        if(tip_num < 0) tip_num = 0;
+        if (tip_num >= 0){$(".back").show();}
+        if (tip_num == 0){$(".back").hide();}
+        if (tip_num > 0 ){$(".next").show();}
+        if (tip_num >= 3){$(".next").hide();}
+        if (tip_num == 0){$(".help").show();}
+        if (tip_num != 0){$(".help").hide();}
+}
+$(".help").click(function() {
+    var thisp = $(".tips_content .tips_infor");
+    var thisi = $(".tips_content .tips_infor:visible");
+    var tip_num = parseInt(thisi.index() + 1);
+    if (tip_num == thisp.length + 1){
+        $(".help").hide();
+    } else {
+        $("#use_xts").hide();
+        $("#use_help").show();
+        thisi.next().removeClass("hidden");
+        thisi.addClass("hidden");
+        
+        $("#tip_num").html(tip_num);
+        pagecookie.setCookie("batchtipname","tip" + tip_num,"h3");
+        
+        togglebatchtipnum(tip_num);
+    }
+});
+$(".back").click(function() {
+    var thisi = $(".tips_content .tips_infor:visible");
+    var tip_num = parseInt(thisi.index()-1);
+    if (tip_num <= 0){
+        $(".tips_page .next").hide();
+        $(".tips_page .back").hide();
+        $("#help").show();
+        $("#use_xts").show();
+        $("#use_help").hide();
+    } else {
+        $("#tip_num").html(tip_num);
+    }
+    thisi.prev().removeClass("hidden");
+    thisi.addClass("hidden");
+    pagecookie.setCookie("batchtipname","tip" + tip_num,"h3");
+    togglebatchtipnum(tip_num);
+});
+$(".next").click(function() {
+    var thisp = $(".tips_content .tips_infor");
+    var thisi = $(".tips_content .tips_infor:visible");
+    var tip_num = parseInt(thisi.index() + 1);
+    
+    if (tip_num == thisp.length + 1){
+        $(".next").hide();
+    } else {
+        thisi.next().removeClass("hidden");
+        thisi.addClass("hidden");
+        
+        $("#tip_num").html(tip_num);
+        pagecookie.setCookie("batchtipname","tip" + tip_num,"h3");
+        togglebatchtipnum(tip_num);
+    }
+});
+$(".ques_mark").click(function(){    
+    var batchtipname = pagecookie.getCookie("batchtipname");
+    var batchtipmask = pagecookie.getCookie("batchtipmask");
+    pagecookie.setCookie("batchtipmask",batchtipname,"h3");
+    if(batchtipmask=="ques"){
+        changebatchsearchtip();
+    }
+    $(".tips_content").show();
+    $(this).hide();  
+});
+$(".cross").click(function(){       
+    pagecookie.setCookie("batchtipmask","ques","h3");
+    $(".ques_mark").show(); 
+    $(".tips_content").hide();
+});
+
+$("input[name='medium_book']").bind("click",function(){
+    var show_but = $(this).val();
+    if(parseInt(show_but) == 22){
+        pagecookie.setCookie("mediumbook","ebook_panel","h2");
+        $("#ebook_panel").show();
+        $("#pbook_panel").hide();
+    }else{
+        pagecookie.setCookie("mediumbook","book_panel","h2");
+        $("#pbook_panel").show();
+        $("#ebook_panel").hide();
+    }
+    form_reset();
+});
+form_reset();
+//页面刷新后扔停留在当前tab页
+    function changetab(thisval){
+        var thistab = $("#"+thisval);
+        var index = thisval.replace(/_tab/,'');
+        var panel = $("#"+index+"_panel");
+        var show_panel = panel.siblings(":visible");
+        var show_tab = thistab.siblings(".active");
+        pagecookie.setCookie("tabname",thisval,"m10");
+        thistab.addClass("active");
+        show_tab.removeClass("active");
+        panel.removeClass("hidden");
+        show_panel.addClass("hidden");
+        $("div.new_adv_nav.clearfix").removeClass("hidden");
+           if(index == 'batchsearch'){
+                 var firstval = $("#batch_list").children('li').first().find('input:text').val();
+                 $("#batch_list").children('li').first().find('input:text').val('').focus().val(firstval);
+            }
+    } 
+$(".cat_list").click(function(event){
+    var tagname = event.srcElement?event.srcElement:event.target;
+    var inputname = $(this).attr("name");
+    var inputval  = $(this).val();
+    $(".date_drop").children("a").removeAttr("style");
+    var inputobj = {lowd:1,highd:1,elowd:1,ehighd:1,book_start_year:1,book_start_month:1,book_end_year:1,book_end_month:1,ebook_start_year:1,ebook_start_month:1,ebook_end_year:1,ebook_end_month:1};
+    if(inputname == "pbook_category" || inputname =="ebook_category"){
+        $(".current").removeClass("current");
+		var mediumbook = pagecookie.getCookie("mediumbook");
+        if(mediumbook == null || mediumbook == "pbook_category"){
+            inputval = $("input[name='pbook_category']").val();
+        }else{
+            inputval = $("input[name='ebook_category']").val();
+        }
+        if(inputval != "所有分类"){
+            $(".allcat").removeClass("current");
+            $(".allcat").addClass("all");
+            var selectid = $("input[name='selectid']").val();
+            if(selectid != ""){
+                $("#"+selectid).addClass("current");
+            }
+        }else{
+            $("#book_1").removeClass("all");
+            $("#book_1").addClass("current");
+            $("#ebook_1").removeClass("all");
+            $("#ebook_1").addClass("current");
+        }
+    }   
+    if(inputobj[inputname] == 1){
+        if(inputval == ""){
+            $("#sh_"+inputname).children("a").eq(0).attr("style","background-color:#1E90FF;");
+        }else{
+            if(inputname =="lowd" || inputname == "highd" || inputname == "elowd" || inputname == "ehighd"){
+                if(inputval == "免费"){
+                    inputval2 = 0;
+                }else if (inputval == "不打折"){
+                    inputval2 = 10;
+                }else{
+                    inputval2 = inputval.replace("折","");
+                }
+                selectidval = inputname+"_"+inputval2;
+            }else{
+                selectidval = inputname+"_"+inputval;
+            }
+            $("#"+selectidval).attr("style","background-color:#1E90FF;color:#FFF;");
+        }
+    }
+    //关闭列表框
+    close_select();
+    if(tagname.tagName.toLowerCase() == "input"){
+        var class_name= $(this).next().attr("class");
+        if(class_name.indexOf("down") >0){
+            $("#sh_"+inputname).hide();
+            $(this).next().removeClass("down");
+            return false;
+        }
+        $(".close_select").removeClass("down");
+        $(this).next().addClass("down");
+    }else{
+        var class_name= $(this).attr("class");
+        if(class_name.indexOf("down") >0){
+            $("#sh_"+inputname).hide();
+            $(this).removeClass("down");
+            return false;
+        }
+        $(this).addClass("down");
+    }
+    var div_span_height = $("#sh_"+inputname).height();
+    var offset_bottom = $("#sh_"+inputname).offset().top;
+    $("#sh_"+inputname).removeClass("top");
+    if(div_span_height>offset_bottom){
+        $("#sh_"+inputname).addClass("top");
+    }
+    $("#sh_"+inputname).show();
+    event.stopPropagation();return ;
+});
+$(".date_drop").hover(function(){
+  $(this).children("a").removeAttr("style");
+});
+$(".date_drop").click(function(event){
+    var $this = event.srcElement?event.srcElement:event.target;
+    //关闭列表框
+    close_select();
+    if($this.tagName.toLowerCase() == 'a'){
+        var this_val = $this.innerHTML;
+        if(this_val != "&nbsp;"){
+            select_id  = $this.attributes["id"].value;
+            $("input[name='selectidval']").val(select_id);
+        }        
+        this_val = (this_val == "&nbsp;") ? "":this_val;
+        this_id = $(this).attr("id");
+        var input_name = this_id.replace("sh_","");        
+        $("input[name='"+input_name+"']").val(this_val);
+	$(".close_select").removeClass("down");
+    }
+    return false;
+});
+
+//清空表单元素
+function changebooktab(){
+    if($("#books_tab").attr("class").indexOf("active") >0 ){
+        if(window.name){
+            var mediumbook = pagecookie.getCookie("mediumbook");
+            $("input[name='medium_book']").attr("checked",false);
+            if(mediumbook != null){
+                if(mediumbook == "ebook_panel"){
+                    $("input[name='medium_book']").eq(1).attr("checked","checked");
+                    $("#ebook_panel").show();
+                    $("#pbook_panel").hide();
+                }else{
+                    $("input[name='medium_book']").eq(0).attr("checked","checked");
+                    $("#ebook_panel").hide();
+                    $("#pbook_panel").show();
+                }
+            }else{
+                $("input[name='medium_book']").eq(0).attr("checked",true);
+                $("#ebook_panel").hide();
+                $("#pbook_panel").show();
+            }
+        }
+    }
+}
+var search_box_top = $("#search_box").offset().top;
+changebookbutton();
+function changebookbutton(){
+    if($("#books_tab").attr("class").indexOf("active") >0 ){
+    var w_height = $(window).height();
+    var ebook_val = $('input[name="medium_book"]:checked').val();
+    if(ebook_val == 22){
+        var diffHeight = $("#search_box").height();
+    }else{
+        var diffHeight = $("#search_box").height()+10;
+    }
+    var body_top = $("#bd").offset().top;
+    scroll_top = $(window).scrollTop() + w_height - diffHeight;
+    if(scroll_top >= search_box_top){
+        $("#search_box").removeClass("box_fixed");
+        $("#search_box").removeAttr("style");
+    }else{
+        if(!window.XMLHttpRequest){
+            $("#search_box").addClass("box_fixed");
+            $("#search_box").css({
+                "position":"absolute",
+                "top":scroll_top-body_top+'px'
+            });
+         }else{
+            $("#search_box").addClass("box_fixed");
+            $("#search_box").css({
+                position: "fixed",
+                bottom: 0
+            });
+         }
+    }
+}
+}
+$(window).bind("scroll",function(){    
+    var ebook_val = $('input[name="medium_book"]:checked').val();
+    if(ebook_val == 22){
+        var diffHeight = $("#search_box").height();
+    }else{
+        var diffHeight = $("#search_box").height()+10;
+    }
+    var body_top = $("#bd").offset().top;
+    var ebook = $('input[name="medium_book"]:checked').val();
+    var w_heights = $(window).height();
+     scrollTop = $(window).scrollTop() + w_heights - diffHeight;
+    if(scrollTop >= search_box_top){
+        $("#search_box").removeClass("box_fixed");
+        $("#search_box").removeAttr("style");
+    }else{
+        if(!window.XMLHttpRequest){
+            $("#search_box").addClass("box_fixed");
+            $("#search_box").css({
+                "position":"absolute",
+                "top":scrollTop-body_top+'px'
+            });
+         }else{
+            $("#search_box").addClass("box_fixed");
+            $("#search_box").css({
+                position: "fixed",
+                bottom: 0
+            });
+        }
+    }
+});
+function form_reset(){
+    $(".detail_error").html("");
+    $("input[name!='medium_book'][name!=''][name!='category_path'][name!='medium'][name!='pbookpack'][name!='pbook_filter'][name!='e_device']").val("");
+    $(":selected").attr("selected",false); 
+    $("input:checkbox:checked").attr("checked",false); 
+    $("input[name='ecategory_path']").val("98.00.00.00.00.00");
+    $("input[name='ebook_category']").val("所有分类");
+    $("input[name='pcategory_path']").val("01.00.00.00.00.00");
+    $("input[name='pbook_category']").val("所有分类");
+}
+})();
+function close_select(){
+    $("#sh_lowd").hide();
+    $("#sh_highd").hide();    
+    $("#sh_book_start_year").hide();
+    $("#sh_book_start_month").hide();
+    $("#sh_book_end_year").hide();
+    $("#sh_book_end_month").hide();
+    $("#sh_elowd").hide();
+    $("#sh_ehighd").hide();
+    $("#sh_ebook_start_year").hide();
+    $("#sh_ebook_start_month").hide();
+    $("#sh_ebook_end_year").hide();
+    $("#sh_ebook_end_month").hide();
+    $(".show_class.clearfix").hide();
+}
+//日期段转换成时间戳
+function timetostamp(time_str, fix_time){
+    if(time_str) {//有日期段
+        var time_arr = time_str.split('-');
+        if (3 === time_arr.length) {
+            var year = parseInt(time_arr[0]) - 0;
+            var month = parseInt(time_arr[1]) - 0 - 1;//月份是从0开始的
+            var day = parseInt(time_arr[2]) - 0;
+            if(fix_time) {//有时间段
+                var fix_arr = fix_time.split(':');
+                if (3 === fix_arr.length) {
+                    var hour = parseInt(fix_arr[0]) - 0;
+                    var minute = parseInt(fix_arr[1]) - 0;
+                    var second = parseInt(fix_arr[2]) - 0;
+                    time_stamp = (new Date(year, month, day, hour, minute, second)).getTime()/1000;
+                }
+            }else{
+                time_stamp = (new Date(year, month, day)).getTime()/1000;
+            }
+         }
+     }else{
+         time_stamp = "";
+     }
+   return time_stamp;
+}
+
+//表单元素验证
+function check_submit(params){
+    var count = params.length;
+    var falg_array = new Array();
+    var flag = 1;
+    var null_count = 0;
+    for(var i=0;i<count;i++){
+        var text_obj = params[i];
+        var error_obj = $("#"+text_obj.attr("id")+"_error");
+        var len1 = cnlength(text_obj.val());
+        var trim_val = $.trim(text_obj.val());
+        var len = cnlength(trim_val);
+        if(len != len1){
+            text_obj.val(trim_val);
+        }
+        error_obj.html("");
+        if(len > 0){
+            if(len<2){
+                  falg_array.push(0);
+                  error_obj.html("搜索词太短，请重新输入");
+            }else if(len>70){
+                falg_array.push(0);
+                error_obj.html("搜索词太长，请重新输入");
+            }else{
+                falg_array.push(1);
+            }
+        }else{
+            null_count +=1;
+        }
+        if($.trim(error_obj.html())!=""){
+            error_obj.removeClass("hidden");
+        }else{
+            error_obj.addClass("hidden");
+        }
+    }
+    for (var i = 0; i < falg_array.length; i++) {
+            if (falg_array[i] == 0) {
+                flag = 2;break;
+            }
+    }
+    if(null_count == count){
+        flag = 3;
+    }
+    return flag;
+}
+
+//字符长度验证 start
+function cnlength(str){
+    return str.replace(/[^x00-xff]/gi,'dd').length;
+}
+//商品价格验证
+function filterPrice(){
+    var price = $(this).val();
+    var re = /^[^0-9]/i;
+    if(re.test(price)){
+       $(this).val(''); return;
+    }
+    price = $(this).val();
+    if(price.length>15){
+        var new_value = price.substr(0,15);
+        $(this).attr('value',new_value);
+    };
+    re = /[^\d|\.]/i;
+    price = $(this).val();
+    if(re.test(price)){
+        var new_value = price.substr(0,price.search(re));
+        $(this).attr('value',new_value);
+    }
+    re = /\.[0-9]{3}/i;
+    price = $(this).val();
+    if(re.test(price)){
+        var new_value = price.substr(0,price.indexOf('.')+3);
+        $(this).attr('value',new_value);return;
+    }
+    re = /\.[0-9]*\.+/i;
+    price = $(this).val();
+    if(re.test(price)){
+        var new_value = price.substr(0,price.indexOf('.')+1);
+        if(!isNaN(price.substr(price.indexOf('.')+1,1))){
+            new_value = price.substr(0,price.indexOf('.')+2);
+            if(!isNaN(price.substr(price.indexOf('.')+2,1))){
+                new_value = price.substr(0,price.indexOf('.')+3);
+            }
+         }
+        $(this).attr('value',new_value);return;
+    }
+    return;
+}
+</script>
+</div><div class="spacer"></div><div class="" ddt-area=17878044357 ddt-expose="on"  name=m1787804_pid0_t4357><div id='component_1787804'></div><div class="con " ddt-area=17878044358 ddt-expose="on"  name=m1787804_pid0_t4358><div class="fix_back">
+<!--    <iframe src="" frameborder="0" class="fix_box_iframe"></iframe>-->
+    <div class="fix_erweima" id="fix_erweima"><iframe src="" frameborder="0" style="display: none;"></iframe><a href="javascript:void(0);" class="little" style="cursor: default; text-decoration: none;"></a><a href="javascript:void(0);" class="big" style="display: none; cursor: default; text-decoration: none;"></a></div>
+    <a href="//survey.dangdang.com/html/2530.html" class="fix_box_survey" title="意见反馈" target="_blank">意见反馈</a>
+    <a href="javascript:void(0);" class="fix_box_back_up" id="back_top" dd_name="返回顶部">返回顶部</a>
+</div>
+<script>
+    $(function(){
+        $('.fix_erweima').hover(function(){
+            $(this).find('.big').show();
+        },function(){
+            $(this).find('.big').hide();
+        })
+        if($(window).scrollTop()==0){
+            $("#back_top").hide();
+        }
+        $(window).scroll(function(){       
+            var ViewHeight = $(window).height();
+            if($(window).scrollTop() >= (ViewHeight-10)){
+                $("#back_top").show();
+            }else{
+                $("#back_top").hide();
+            }
+        });
+        $("#back_top").click(function(){
+            $('body,html').animate({scrollTop:0},50);
+            return false;
+        });        
+    });
+</script>
+</div></div><div class="spacer"></div></div></div><!--<script type="text/javascript" src="js/mix.js"></script>-->
+<!--<script type="text/javascript" src="js/jquery/jquery.jtab.js"></script>-->
+<!--<script type="text/javascript" src="js/jquery/jquery.livequery.min.js"></script>-->
+<script type="text/javascript" defer="" async="" src="//static.dangdang.com/js/header2012/pagetop_accessbility.min.js?v=202201191934" ></script>
+<script charset="gb2312" type="text/javascript">var width = 1; narrow = 0;</script>
+<script src="//static.dangdang.com/js/header2012/pagetop2015_0827.js?20211105" charset="gb2312" type="text/javascript"></script>
+<script src="//static.dangdang.com/js/header2012/dd.menu-aim.js?20211105" charset="gb2312" type="text/javascript"></script>
+<script type="text/javascript">
+var newsuggesturl = "//schprompt.dangdang.com/suggest_new.php?";
+var nick_num = 1;
+initHeaderOperate();Suggest_Initialize("key_S");
+if(!window.onload){
+    window.onload=function(){if(sug_gid("label_key").style.visibility=="visible")sug_gid(search_input_id).value="";}
+}else{
+    var funcload=window.onload;
+    window.onload=function(){funcload();if(sug_gid("label_key").style.visibility=="visible")sug_gid(search_input_id).value="";}
+}
+ddmenuaim(document.getElementById("menulist_content"),{activate: activateSubmenu,deactivate: deactivateSubmenu});
+</script>
+<script type="text/javascript">
+(function(){
+$(".logo_line #default_key").val($('.logo_line #label_key').html());
+//点击清空表单搜索条件
+$(".clearVal").bind("click", function(){ 
+    $(".detail_error").html("");
+    var formname = $(this).attr("name");
+    var medium_book = $("input[name='medium_book']:checked").val();
+    var selectid = $("input[name='selectid']").val();
+    $("#"+formname).each(function() { this.reset();});
+    if(formname == "form1"){
+       $("input[name='medium_book']").attr("checked",false);
+       if(selectid != ""){
+           $("#"+selectid).removeClass("current");
+       }
+       if(medium_book === "22"){
+           $("input[name='medium_book']").eq(1).attr("checked",true)
+       }else{
+          $("input[name='medium_book']").eq(0).attr("checked","checked");
+       }
+    }
+    return;
+});
+//价格选择 纸书 当当价
+if($("input[name='dd_price']").attr("checked") == "checked"){
+    $("input[name='dd_hprice']").removeAttr("disabled");
+    $("input[name='dd_lprice']").removeAttr("disabled");
+    $("input[name='mk_hprice']").attr("disabled","disabled");
+    $("input[name='mk_lprice']").attr("disabled","disabled");
+}
+//纸书 定价
+if($("input[name='mk_price']").attr("checked") == "checked"){
+    $("input[name='mk_hprice']").removeAttr("disabled");
+    $("input[name='mk_lprice']").removeAttr("disabled");
+    $("input[name='dd_hprice']").attr("disabled","disabled");
+    $("input[name='dd_lprice']").attr("disabled","disabled");
+}
+//电子书 当当价
+if($("input[name='edd_price']").attr("checked") == "checked"){
+    $("input[name='edd_hprice']").removeAttr("disabled");
+    $("input[name='edd_lprice']").removeAttr("disabled");
+    $("input[name='emk_hprice']").attr("disabled","disabled");
+    $("input[name='emk_lprice']").attr("disabled","disabled");
+}
+//电子书 定价
+if($("input[name='emk_price']").attr("checked") == "checked"){
+    $("input[name='emk_hprice']").removeAttr("disabled");
+    $("input[name='emk_lprice']").removeAttr("disabled");
+    $("input[name='edd_hprice']").attr("disabled","disabled");
+    $("input[name='edd_lprice']").attr("disabled","disabled");
+}
+//定价
+$("input[name='mk_price']").bind("click", function() {
+    $("input[name='dd_price']").removeAttr("checked");
+    $("input[name='mk_price']").attr("checked","checked");
+    $("input[name='mk_hprice']").removeAttr("disabled");
+    $("input[name='mk_lprice']").removeAttr("disabled");
+    $("input[name='dd_hprice']").val('');
+    $("input[name='dd_lprice']").val('');
+    $("input[name='dd_hprice']").attr("disabled","disabled");
+    $("input[name='dd_lprice']").attr("disabled","disabled");
+});
+$("input[name='dd_price']").bind("click", function() {
+    $("input[name='mk_price']").removeAttr("checked");
+    $("input[name='dd_price']").attr("checked","checked");
+    $("input[name='mk_hprice']").val('');
+    $("input[name='mk_lprice']").val('');
+    $("input[name='dd_hprice']").removeAttr("disabled");
+    $("input[name='dd_lprice']").removeAttr("disabled");
+    $("input[name='mk_hprice']").attr("disabled","disabled");
+    $("input[name='mk_lprice']").attr("disabled","disabled");
+});
+//电子书
+$("input[name='emk_price']").bind("click", function() {
+    $("input[name='edd_price']").removeAttr("checked");
+    $("input[name='emk_price']").attr("checked","checked");
+    $("input[name='emk_hprice']").removeAttr("disabled");
+    $("input[name='emk_lprice']").removeAttr("disabled");
+    $("input[name='edd_hprice']").val('');
+    $("input[name='edd_lprice']").val('');
+    $("input[name='edd_hprice']").attr("disabled","disabled");
+    $("input[name='edd_lprice']").attr("disabled","disabled");
+});
+$("input[name='edd_price']").bind("click", function() {
+    $("input[name='emk_price']").removeAttr("checked");
+    $("input[name='edd_price']").attr("checked","checked");
+    $("input[name='emk_hprice']").val('');
+    $("input[name='emk_lprice']").val('');
+    $("input[name='edd_hprice']").removeAttr("disabled");
+    $("input[name='edd_lprice']").removeAttr("disabled");
+    $("input[name='emk_hprice']").attr("disabled","disabled");
+    $("input[name='emk_lprice']").attr("disabled","disabled");
+});
+//价格验证
+$(".money").keyup(filterPrice);
+//错误信息 处理 start
+$(".detail_error").prev().blur(function(){
+    $val = $.trim($(this).val());
+    if($val == ""){
+        $(this).next().html('');
+    }
+});
+//图书 分类列表显示和隐藏 start
+var bntCatlist = $(".cat_list");
+var catListObj = $(".show_class.clearfix");
+$(".close_sc").bind("click",function(){
+    bntCatlist.removeClass("down");
+    $(this).parent().hide();
+});
+$(document).click(function(event){
+    var tagname = event.srcElement?event.srcElement:event.target;
+    //关闭列表框
+    close_select();
+    if(tagname.tagName.toLowerCase() !="i"){
+        $(".close_select").removeClass("down");
+        $(".cat_list").removeClass("down");
+    }
+});
+$(".show_class.clearfix").click(function(event){
+    var $this = event.srcElement?event.srcElement:event.target;
+    if($this.tagName.toLowerCase() == 'a'){
+        //关闭列表框
+        close_select();
+        var category_path = $this.name;
+        var category_val = $this.innerHTML;
+        var selectid = $this.id;
+        var selectid_old = $("input[name='selectid']").val();
+        if(selectid_old == "book_1" || selectid_old == "ebook_1"){
+            $("#"+selectid_old).attr("class","all");
+        }else{
+            if(selectid_old != ""){
+                $("#"+selectid_old).attr("class","");
+            }
+        }
+        $("input[name='selectid']").val(selectid);
+        $("#"+selectid).attr("class","current");
+        var flag = $("input[name='medium_book']").eq(1).attr("checked");
+        if(flag == "checked"){
+            $("input[name='ecategory_path']").val(category_path);
+            $("input[name='ebook_category']").val(category_val);
+        }else{
+            $("input[name='pcategory_path']").val(category_path);
+            $("input[name='pbook_category']").val(category_val);
+        }
+        bntCatlist.removeClass("down");
+        catListObj.hide();
+    }
+    event.stopPropagation();return false;
+});
+//点击表单提交
+$(".formsubmit").bind("click",function(){
+    var formname = $(this).attr("name");
+    form_submit(formname);
+});
+//回车事件表单提交
+$(document).bind("keyup",function(event){
+    var searchVal = { key:1,key1:1,key2:1,key3:1,key4:1};
+    var searchformname = { form1:1,form2:1,form3:1,form4:1,form5:1};
+    var targets = event.srcElement?event.srcElement:event.target;
+    var target = targets.tagName.toLowerCase();
+    var keycode = event.keyCode;
+    var thisClassName =searchVal[targets.name];
+    var parentCode = $(targets).parents("form").attr("name");
+    if(keycode == 13 && target == "input" && thisClassName==1 && searchformname[parentCode] == 1){
+        var tab_size = $(".nav_list a").size();
+        for(var i=0;i<tab_size;i++){
+            var index_active = $(".nav_list a").eq(i).attr("class").indexOf("active");
+            if(index_active > 0){
+                var formname = $(".nav_list a").eq(i).attr("name");
+                form_submit(formname);return false;
+            }
+        }
+    }
+    return false;
+});
+//点击 回车 表单提交验证
+function form_submit(formname){
+    if(formname == "form1"){ //图书
+        formbook(0);return false;
+    }else if(formname == "form2"){ //音乐
+        return_result = check_submit([$("#music_key1"),$("#music_key2"),$("#music_key3")]);
+        if(return_result == 2 || return_result == 3){
+            return false;
+        }
+    }else if(formname == "form3"){ // 影视
+        return_result = check_submit([$("#video_key1"),$("#video_key3"),$("#video_key2")]);
+        if(return_result == 2 || return_result == 3){
+            return false;
+        }
+    }else if(formname == "form4"){ //百货
+        var return_result = check_submit([$("#category_key")]);
+        if(return_result == 2 || return_result == 3){
+            var selectVal = $("select[name='category_id']").val();
+            if(selectVal !=="" && selectVal !=="undefined"){
+                $("#"+formname).each(function() { this.submit();});
+            }
+            return false;
+        }
+    }else if(formname == "form5"){ //数字商品
+        return_result = check_submit([$("#ebook_key1"),$("#ebook_key4"),$("#ebook_key2"),$("#ebook_key3")]);
+        if(return_result == 2 || return_result == 3){
+            return false;
+        }
+    }
+    $("#"+formname).each(function() { this.submit();});
+     if(!window.XMLHttpRequest){
+            window.event.returnValue = false;
+        }   
+}
+//表单一部分值长短验证
+$(".checkinput").bind("blur",function(){check_submit([$(this)]);});
+//图书表单提交
+function formbook(flag){
+    var check_sub = check_submit([$("#book_key1"),$("#book_key2"),$("#book_key"),$("#book_key3"),$("#book_key4")]);
+    if(check_sub == 2){ return false;}
+    var medium='';
+    $("input[name='medium_book']:checked").each(function(){
+         medium=this.value;
+    });
+    var key1 = $("#book_key1").val();
+    var key2 = $("#book_key2").val();
+    var key = $("#book_key").val();
+    var key3 = $("#book_key3").val();
+    var key4 = $("#book_key4").val();
+    var packchk = '';
+    $('input[name="pbookpack"]:checked').each(function(){
+        packchk+=this.value+",";
+    });
+    //packchk = packchk.substr(0,(packchk.length-1));
+    var pbook_category = $("input[name='pcategory_path']").val();
+    var dd_lprice = $("input[name='dd_lprice']").val();
+    var dd_hprice = $("input[name='dd_hprice']").val();
+    var mk_lprice = $("input[name='mk_lprice']").val();
+    var mk_hprice = $("input[name='mk_hprice']").val();
+    var pub_start = $("input[name='pub_start']").val();
+    var pub_end = $("input[name='pub_end']").val();
+    var book_lowd = $("input[name='lowd']").val();
+    var book_highd = $("input[name='highd']").val();
+    var book_start_year = $("input[name='book_start_year']").val();
+    var book_start_month = $("input[name='book_start_month']").val();
+    var book_end_year = $("input[name='book_end_year']").val();
+    var book_end_month = $("input[name='book_end_month']").val();
+    var filter = '';
+    $("input[name='pbook_filter']:checked").each(function(){
+        filter=this.value;
+    });
+    var ebook_category = $("input[name='ecategory_path']").val();
+    var edd_lprice = $("input[name='edd_lprice']").val();
+    var edd_hprice = $("input[name='edd_hprice']").val();
+    var emk_lprice = $("input[name='emk_lprice']").val();
+    var emk_hprice = $("input[name='emk_hprice']").val();
+    var epub_start = $("input[name='epub_start']").val();
+    var epub_end = $("input[name='epub_end']").val();
+    var ebook_lowd = $("input[name='elowd']").val();
+    var ebook_highd = $("input[name='ehighd']").val();
+    var ebook_start_year = $("input[name='ebook_start_year']").val();
+    var ebook_start_month = $("input[name='ebook_start_month']").val();
+    var ebook_end_year =$("input[name='ebook_end_year']").val();
+    var ebook_end_month = $("input[name='ebook_end_month']").val();
+    var e_device = "";
+    $("input[name='e_device']:checked").each(function(){
+        e_device+=parseInt(this.value)+",";
+    });
+    //e_device = e_device.substr(0,(e_device.length-1));
+   var url = 'http://search.dangdang.com/?medium='+medium;
+    if(key!=''){url += '&key='+key; }
+    if(key1!=''){url += '&key1='+key1; }
+    if(key2!=''){url += '&key2='+key2; }
+    if(key3!=''){url += '&key3='+key3; }
+    if(key4!=''){url += '&key4='+key4; }
+    var getday = {1:31,2:28,3:31,4:30,5:31,6:30,7:31,8:31,9:30,10:31,11:30,12:31};
+    var getday_run = {1:31,2:29,3:31,4:30,5:31,6:30,7:31,8:31,9:30,10:31,11:30,12:31};
+    if(medium == '01'){
+        url += '&category_path='+ pbook_category;
+        //zhe kou
+        if((book_lowd !="" && book_highd =="") || (book_lowd =="" && book_highd !="")){
+            alert("折扣格式不正确，请重新选择！");return false;
+        }
+        if(book_lowd != "" && book_highd !=""){
+          var lowd = (book_lowd=="免费")? 0 : book_lowd.replace("折","");
+          var highd = (book_highd=="不打折") ? 10 : book_highd.replace("折","");
+          if(lowd >= highd){
+              alert("折扣格式不正确，请重新选择！");return false;
+          }
+          url += '&lowd='+lowd+'&highd='+highd;
+        }
+        //出版时间
+        if(book_start_year != "" && book_end_year !=""){
+          if(parseInt(book_start_year) > parseInt(book_end_year)){
+                alert("出版时间设置有误！");return false;
+          }
+        }
+        if((book_start_month !="" && book_start_year =="") || (book_end_month !="" && book_end_year =="")){
+                alert("出版时间不能仅选择月份哟！");return false;
+        }
+        if(book_start_month !="" && book_start_year !="" && book_end_year !="" && book_end_month!="" && book_end_year == book_start_year){
+            if(parseInt(book_start_month)>parseInt(book_end_month)){
+                alert("出版时间设置有误！");return false;
+            }
+        }
+        if(book_start_year != ""){
+          var book_month = book_start_month !="" ? parseInt(book_start_month):1;
+          var y_m_d = book_start_year+"-"+book_month+"-1";
+          var pubstart = timetostamp(y_m_d);
+          url += '&pubstart='+pubstart;
+        }
+        if(book_end_year != ""){
+          var book_month = book_end_month !="" ? parseInt(book_end_month):12;
+          if((book_end_year % 4 ==0 && book_end_year % 100 !=0) || book_end_year % 400 ==0){
+                   var day = getday_run[book_month];
+          }else{
+          	var day = getday[book_month];
+          }
+          var y_m_d = book_end_year+"-"+book_month+"-"+day;         
+          var pubend = timetostamp(y_m_d);
+          url += '&pubend='+pubend;
+        }
+        if(packchk!=''){url += '&pack='+packchk; }
+            var temp_p = 0;
+            if(dd_lprice!='' &&　dd_hprice!=''){
+                if(parseInt(dd_lprice) > parseInt(dd_hprice)){
+                    temp_p = dd_lprice;
+                    dd_lprice = dd_hprice;
+                    dd_hprice = temp_p;
+                }
+        }
+        if(dd_lprice!=''){ url += '&lowp='+dd_lprice;}
+        if(dd_hprice!=''){ url += '&highp='+dd_hprice;}
+        var temp_p = 0;
+        if(mk_lprice !='' && mk_hprice !=''){
+            if(parseInt(mk_lprice) > parseInt(mk_hprice)){
+                temp_p = mk_lprice;
+                mk_lprice = mk_hprice;
+                mk_hprice = temp_p;
+            }
+        }
+        if(mk_lprice !=''){ url += '&mlowp='+mk_lprice;}
+        if(mk_hprice !=''){ url += '&mhighp='+mk_hprice;}
+        if(filter == '1'){url += '&filter=0%7C0%7C1%7C0%7C0%7C0%7C'; }
+        if(flag == 1 && url == "http://search.dangdang.com/?category_path=01.00.00.00.00.00&medium=01"){ return false; }
+        window.location.href=url;
+         if(!window.XMLHttpRequest){
+            window.event.returnValue = false;
+        }
+    }else if(medium == '22'){
+        url += '&category_path='+ ebook_category;
+        //zhe kou
+        if((ebook_lowd !="" && ebook_highd =="") || (ebook_lowd =="" && ebook_highd !="")){
+            alert("折扣格式不正确，请重新选择！");return false;
+        }
+        if(ebook_lowd != "" && ebook_highd !=""){
+          var lowd = (ebook_lowd=="免费")? 0 : ebook_lowd.replace("折","");
+          var highd = (ebook_highd=="不打折") ? 10 : ebook_highd.replace("折","");
+          if(lowd >= highd){
+              alert("折扣格式不正确，请重新选择！");return false;
+          }
+          url += '&lowd='+lowd+'&highd='+highd;
+        }
+        //出版时间
+        if(ebook_start_year != "" && ebook_end_year !=""){
+          if(parseInt(ebook_start_year) > parseInt(ebook_end_year)){
+                alert("出版时间设置有误！");return false;
+          }
+        }
+        if((ebook_start_month !="" && ebook_start_year =="") || (ebook_end_month !="" && ebook_end_year =="")){
+                alert("出版时间不能仅选择月份哟！");return false;
+        }
+        if(ebook_start_month !="" && ebook_start_year !="" && ebook_end_year !="" && ebook_end_month!="" && ebook_end_year == ebook_start_year){
+            if(parseInt(ebook_start_month)>parseInt(ebook_end_month)){
+                alert("出版时间设置有误！");return false;
+            }
+        }
+        if(ebook_start_year != ""){
+          var book_month = ebook_start_month !="" ? parseInt(ebook_start_month):1;
+          var y_m_d = ebook_start_year+"-"+book_month+"-1";
+          var pubstart = timetostamp(y_m_d);
+          url += '&pubstart='+pubstart;
+        }
+        if(ebook_end_year != ""){
+          var book_month = ebook_end_month !="" ? parseInt(ebook_end_month):12;
+          if((ebook_end_year % 4 ==0 && ebook_end_year % 100 !=0) || (ebook_end_year % 400 ==0)){
+                   var day = getday_run[book_month];
+          }else{
+          	var day = getday[book_month];
+          }
+          var y_m_d = ebook_end_year+"-"+book_month+"-"+day;
+          var pubend = timetostamp(y_m_d);
+          url += '&pubend='+pubend;
+        }
+        var temp_p = 0;
+        if(edd_lprice != "" && edd_hprice != ""){
+            if(parseInt(edd_lprice) > parseInt(edd_hprice)){
+                temp_p = edd_lprice;
+                edd_lprice = edd_hprice;
+                edd_hprice = temp_p;
+            }
+        }
+        if(edd_lprice != ''){ url += '&lowp='+edd_lprice;}
+        if(edd_hprice !=''){ url += '&highp='+edd_hprice;}
+        var temp_p = 0;
+        if(emk_lprice!='' && emk_hprice!=''){
+            if(parseInt(emk_lprice) > parseInt(emk_hprice)){
+                temp_p = emk_lprice;
+                emk_lprice = emk_hprice;
+                emk_hprice = temp_p;
+            }
+        }
+        if(emk_lprice != ''){ url += '&mlowp='+emk_lprice; }
+        if(emk_hprice != ''){ url += '&mhighp='+emk_hprice;}
+        if(e_device!=0){url += '&device='+e_device;}
+        if(flag == 1 && url == "http://search.dangdang.com/?medium=22&category_path=98.00.00.00.00.00"){ return false;}
+        window.location.href=url;
+        if(!window.XMLHttpRequest){
+            window.event.returnValue = false;
+        }
+    }
+}
+})();
+</script><script>
+     $(function(){
+        $.each(skudata,function(index,ele){
+           $('li#'+index).attr('sku',ele[0]);
+           $('li#p'+index).attr('sku',ele[0]);
+           /*$('li#'+index+' ul li').each(function(i,e){
+                $(this).attr('sku',ele[i]);
+           });*/
+        });
+        $('a[name="collect"]').click(function(){
+            var sku = $(this).parents('li').attr('sku');
+            if(sku != null){
+                addtofavorlist(sku);
+            }
+        });
+         
+    });
+</script>
+<script src='//static.ddimg.cn/js/login/LoginWindow.js?20210630' type="text/javascript"></script>
+<script type="text/javascript" src="//a.dangdang.com/getJS.php?cpc=true&cpm=true&cpt=true"></script>
+<!-- 单品线上js -->
+<script src="//product.dangdang.com/js/lib/layer/3.0.3/layer.min.js?20210630"></script>
+            <div id="footer">
+<link href="//static.dangdang.com/css/header2012/footer_150526.css?20170626" rel="stylesheet" type="text/css">
+<div class="footer" dd_name="页尾">
+	<div class="footer_pic_new">
+		<div class="footer_pic_new_inner" style="width:740px;">
+		    <a name="foot_1" href="http://help.dangdang.com/details/page13" target="_blank" class="footer_pic01"><span>正规渠道正品保障</span></a>
+		    <!--<a name="foot_2" class="footer_pic02" href="http://help.dangdang.com/details/page237" target="_blank"><span>放心购物货到付款</span></a>-->
+		    <a name="foot_3" class="footer_pic03" href="http://help.dangdang.com/details/page16" target="_blank"><span>150城市次日送达</span></a>
+		    <a name="foot_4" class="footer_pic04" href="http://help.dangdang.com/details/page28" target="_blank"><span>上门退换 购物无忧</span></a>
+		</div>
+	</div>
+	<div class="public_footer_new">
+		<div class="footer_sort footer_nvice">
+			<span class="f_title">购物指南</span>
+			<ul>
+			    <li><a name="foot_gouwu" href="http://help.dangdang.com/details/page2" target="_blank" class="main" rel="nofollow">购物流程</a></li>
+			    <li><a name="foot_jifen" href="http://help.dangdang.com/details/page6" target="_blank" rel="nofollow">发票制度</a></li>
+			    <li><a name="foot_fapiao" href="http://help.dangdang.com/details/page12" target="_blank" rel="nofollow">服务协议</a></li>
+			    <li><a name="foot_mydangdang" href="http://help.dangdang.com/details/page8" target="_blank" rel="nofollow">会员优惠</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_pay">
+			<span class="f_title">支付方式</span>
+			<ul>
+			    <li><a name="foot_tuihuanhuo" href="http://help.dangdang.com/details/page22" target="_blank" rel="nofollow">网上支付</a></li>
+			    <li><a name="foot_huanhuo" href="http://help.dangdang.com/details/page24" target="_blank" rel="nofollow">礼品卡支付</a></li>
+			    <li><a name="foot_tuihuo" href="http://help.dangdang.com/details/page23" target="_blank" rel="nofollow">银行转帐</a></li>				
+				<li><a name="foot_tuihuanhuoliucheng" href="http://help.dangdang.com/details/page25" target="_blank" rel="nofollow">礼券支付</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_characteristic">
+			<span class="f_title">订单服务</span>
+			<ul>
+			    <li><a name="foot_jifen" href="http://help.dangdang.com/details/page400" target="_blank" class="main" rel="nofollow">配送服务查询</a></li>
+			    <li><a name="foot_lipinka" href="http://help.dangdang.com/details/page4" target="_blank" rel="nofollow">订单状态说明</a></li>
+			    <li><a name="foot_ershoushu" href="http://myhome.dangdang.com/myOrder" target="_blank" rel="nofollow">自助取消订单</a></li>
+			    <li><a name="foot_shouji" href="http://myhome.dangdang.com/myOrder" target="_blank" rel="nofollow">自助修改订单</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_distribution">
+			<span class="f_title">配送方式</span>
+			<ul>
+			    <li><a name="foot_huodaofukuan" href="http://help.dangdang.com/details/page232" target="_blank" class="main" rel="nofollow">当日递</a></li>
+			    <li><a name="foot_yinhangzhuanzhang" href="http://help.dangdang.com/details/page233" target="_blank" class="main" rel="nofollow">次日达</a></li>
+			    <li><a name="foot_dangdanglijuan" href="http://help.dangdang.com/details/page500" target="_blank" rel="nofollow">订单自提</a></li>
+			    <li><a name="foot_dangdanglijuan" href="http://help.dangdang.com/details/page20" target="_blank" rel="nofollow">验货与签收</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_help">
+			<span class="f_title">退换货</span>
+			<ul>
+			    <li><a name="foot_faq" href="http://help.dangdang.com/details/page28" target="_blank" rel="nofollow">退换货服务查询</a></li>
+			    <li><a name="foot_zhaohuimima" href="http://return.dangdang.com/reverseapplyselect.aspx" target="_blank" rel="nofollow">自助申请退换货</a></li>
+			    <li><a name="foot_huikuandan" href="http://return.dangdang.com/reverseapplylist.aspx" target="_blank" rel="nofollow">退换货进度查询</a></li>
+			    <li><a name="foot_tuiding" href="http://help.dangdang.com/details/page31" target="_blank" rel="nofollow">退款方式和时间</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_shangjia">
+			<span class="f_title">商家服务</span>
+			<ul>
+			    
+			    <li><a name="foot_zhaohuimima" href="http://shop.dangdang.com/shangjia" target="_blank" rel="nofollow">商家中心</a></li>
+			    <li><a name="foot_huikuandan" href="http://outlets.dangdang.com/merchants_cooperation" target="_blank" rel="nofollow">运营服务</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="footer_nav_box">
+		<div class="footer_nav"><a href="http://t.dangdang.com/companyInfo" target="_blank" rel="nofollow">公司简介</a><span class="sep">|</span><a 
+
+href="http://zhaopin.dangdang.com" target="_blank">诚聘英才</a><span class="sep">|</span><a 
+
+href="http://union.dangdang.com/" target="_blank">网站联盟</a><span 
+
+class="sep">|</span><a href="http://outlets.dangdang.com/merchants_open" target="_blank">当当招商</a><span class="sep">|</span><a 
+
+href="http://giftcard.dangdang.com/giftcardCompany" target="_blank" rel="nofollow">机构销售</a><span class="sep">|</span><a 
+
+href="//static.dangdang.com/topic/744/200778.shtml" target="_blank">手机当当</a><span class="sep">|</span><a href="http://blog.dangdang.com/" target="_blank">官方
+
+Blog</a>
+<span class="sep">|</span><div class="footer_hot_search"><a href="http://www.dangdang.com/sales/brands/" target="_blank" class="footer_a" id="hot_search" onmouseover="showghotsearch('hot_search','hot_search_content')" onmouseout="hidehotsearch('hot_search','hot_search_content');">热词搜索</a><div class="pos_a_box" style="display: none;" id="hot_search_content" onmouseover="showghotsearch('hot_search','hot_search_content')" onmouseout="hidehotsearch('hot_search','hot_search_content');">
+<a href="http://www.dangdang.com/sales/brands/a-1.html" target="_blank" >A</a><a href="http://www.dangdang.com/sales/brands/b-1.html" target="_blank" >B</a><a href="http://www.dangdang.com/sales/brands/c-1.html" target="_blank" >C</a><a href="http://www.dangdang.com/sales/brands/d-1.html" target="_blank" >D</a><a href="http://www.dangdang.com/sales/brands/e-1.html" target="_blank" >E</a><a href="http://www.dangdang.com/sales/brands/f-1.html" target="_blank" >F</a><a href="http://www.dangdang.com/sales/brands/g-1.html" target="_blank" >G</a>
+<a href="http://www.dangdang.com/sales/brands/h-1.html" target="_blank" >H</a><a href="http://www.dangdang.com/sales/brands/i-1.html" target="_blank" >I</a><a href="http://www.dangdang.com/sales/brands/j-1.html" target="_blank" >J</a><a href="http://www.dangdang.com/sales/brands/k-1.html" target="_blank" >K</a><a href="http://www.dangdang.com/sales/brands/l-1.html" target="_blank" >L</a><a href="http://www.dangdang.com/sales/brands/m-1.html" target="_blank" >M</a><a href="http://www.dangdang.com/sales/brands/n-1.html" target="_blank" >N</a>
+<a href="http://www.dangdang.com/sales/brands/o-1.html" target="_blank" >O</a><a href="http://www.dangdang.com/sales/brands/p-1.html" target="_blank" >P</a><a href="http://www.dangdang.com/sales/brands/q-1.html" target="_blank" >Q</a><a href="http://www.dangdang.com/sales/brands/r-1.html" target="_blank" >R</a><a href="http://www.dangdang.com/sales/brands/s-1.html" target="_blank" >S</a><a href="http://www.dangdang.com/sales/brands/t-1.html" target="_blank" >T</a><a href="http://www.dangdang.com/sales/brands/u-1.html" target="_blank" >U</a>
+<a href="http://www.dangdang.com/sales/brands/v-1.html" target="_blank" >V</a><a href="http://www.dangdang.com/sales/brands/w-1.html" target="_blank" >W</a><a href="http://www.dangdang.com/sales/brands/x-1.html" target="_blank" >X</a><a href="http://www.dangdang.com/sales/brands/y-1.html" target="_blank" >Y</a><a href="http://www.dangdang.com/sales/brands/z-1.html" target="_blank" >Z</a><a href="http://www.dangdang.com/sales/brands/other-1.html" target="_blank" >0-9</a>
+<i></i></div></div>
+<script>
+    var setTo = null;
+    function showghotsearch(){
+        clearTimeout(setTo);
+        document.getElementById("hot_search_content").style.display="block";
+    }
+    function hidehotsearch(){
+        setTo = setTimeout(function(){
+          document.getElementById("hot_search_content").style.display="none";
+        },100)                        
+    }
+
+$(document).ready(function(){ 
+    $("#__ddnav_sort16").remove();
+}); 
+
+$("#li_label_16").mouseover(function(){
+	$("#li_label_16").addClass("on");
+  $("#li_label_16").css("border-right","2px solid #ff2832");
+  
+});
+
+$("#li_label_16").mouseout(function(){
+	$("#li_label_16").removeClass("on");
+});
+</script>  
+</div>
+		<div class="footer_copyright"><span>Copyright  2004 - 2021 当当网. All Rights Reserved</span><span class="sep">|</span><a href="http://beian.miit.gov.cn" target="_blank" ><span>京ICP备17043473号-1</span></a><a href="http://www.hd315.gov.cn/beian/view.asp?
+
+bianhao=010202001051000098" target="_blank" class="footer_img" rel="nofollow"><img src="//img60.ddimg.cn/upload_img/00459/index/validate.gif"></a><span>京ICP证041189号</span><span class="sep">|</span><span>出版物经营许可证 新出发京批字第直0673号</span></div>
+	</div>
+</div>
+</div>
+<div id="footer_end"></div>
+<!--CreateDate  2023-04-12 16:00:01-->    <div class="foot_tip_ad">广告</div>
+    <style>
+        .foot_tip_ad { width:40px; height:40px; font:12px/40px "simsun"; text-align:center; color:#fff; background-color:#474747; position:fixed; right:0; bottom:10px;_position:absolute; _bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));}
+    </style>
+<script src="//static.dangdang.com/js/login/check_snbrowse.js?20230412" type="text/javascript"></script>
+<script  type="text/javascript">login_session.browsePageOperate();</script>
+<script type="text/javascript" src="//click.dangdang.com/js_tracker.js?20230412"></script>
+<script type="text/javascript" src="//databack.dangdang.com/collect.js?20230412"></script>
+<script type="text/javascript" src="//databack.dangdang.com/store.js?20230412"></script>
+
+<!-- 
+5.16.56
+mem
+ --><!-- 
+5.16.56
+mem
+ --><!-- 
+5.16.56
+mem
+ -->        </body>
+    </html>
+    

@@ -1,0 +1,558 @@
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+        <head>
+                <base href="http://sales.dangdang.com/Standard/Sales/Extend/hosts/" />
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312">
+<title>品牌排行榜索引H-当当网品牌馆</title>
+<meta name="description" content="当当网囊括图书、音像、母婴、美妆、家居、数码3C、服装、鞋包等几十大类全球知名品牌,及时更新知名品牌排行榜,正品行货,低至2折;选知名品牌,来当当,购物享当当!" />
+<meta name="keywords" content="知名品牌,品牌大全,知名品牌排行榜" />
+<link rel="canonical" href="http://www.dangdang.com/sales/brands/h-1.html"/>        <link rel="stylesheet" type="text/css" href="css/theme_1.css"/>
+    <link rel="Stylesheet" type="text/css" href="css/model/home.css" />
+<style> .spacer{display:none;}
+.vspacer{display:none;}html{background:#fff;font-size:12px;font-weight:normal;font-family:"Hiragino Sans GB","SimSun","arial";}body,div,ul,li,h1,h2,h3,h4,h5,h6,form,input,button,textarea,p{margin:0;padding:0;}img{border:0;}em,i{font-style:inherit;font-weight:inherit;}li{list-style:none;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;}input,button,textarea,select{*font-size:100%;}.clearfix{zoom:1;}.clearfix:after{clear:both;content:" ";display:block;font-size:0;height:0;visibility:hidden;}
+
+.sales_wrap{width:1200px;margin:0 auto;}
+.sales_wrap .search_toppanel{padding:20px 0 0 18px;color:#666;}
+.sales_wrap .search_toppanel h1{display:inline;color:#19458d;margin-left:5px;}
+.sales_wrap .search_toppanel a,.sales_wrap .search_toppanel a:hover{color:#666;text-decoration:none;margin:0 5px;}
+.sales_wrap .search_toppanel a:hover{color:#fa5000;text-decoration:underline;}
+.sales_wrap a{text-decoration:none;}
+.sales_wrap a:hover{text-decoration:underline;}
+.sales_wrap .hot{color:#fa5000;}
+
+/* 频道导航 */
+.sales_wrap .sales_title{clear:both;color:#e73809;font:18px/28px "Microsoft YaHei";padding:12px 0 0 18px;}
+.sales_wrap .sales_nav_num{margin-top:6px;border:1px solid #d6d6d6;color:#3d3e43;height:26px;line-height:26px;background:#e6e6e6;font-size:14px;overflow:hidden;}
+.sales_wrap .sales_nav_num b{float:left;width:90px;padding-left:18px;font-weight:bold;}
+.sales_wrap .sales_nav_num a,.sales_wrap .sales_nav_num a:hover{float:left;width:36px;height:28px;line-height:28px;margin:-1px 0;border-right:1px solid #dcdcdc;color:#3d3e43;text-decoration:none;text-align:center;}
+.sales_wrap .sales_nav_num a.now,.sales_wrap .sales_nav_num a:hover{color:#fff;background:#fd5115;position:relative;}
+.sales_nav_list{width:1200px;overflow:hidden;padding-top:2px;border-bottom:8px solid #ededed;}
+.sales_nav_list ul{width:1206px;overflow:hidden;}
+.sales_nav_list ul li{width:180px;height:40px;line-height:40px;text-align:left;border-right:1px solid #fff;padding-left:20px;float:left;font-size:14px;overflow:hidden;white-space:nowrap;}
+.sales_nav_list ul li a,.sales_nav_list ul li a:hover{width:170px;display:block;color:#3d3e43;text-decoration:none;font-size:14px;}
+.sales_nav_list ul li a:hover{color:#fa5000;}
+.sales_nav_list ul li.deep{background-color:#ededed;}
+.sales_nav_title{height:27px;margin:20px 0 8px;border-top:1px solid #e7e7e7;background-color:#fafafa;}
+.sales_nav_title h3{padding:0 20px;height:26px;line-height:26px;border-top:2px solid #ff7428;margin-top:-1px;position:relative;font-size:14px;font-weight:bold;float:left;}
+.sales_nav_list_all{border-bottom:none;padding-bottom:10px;}
+
+/*分页*/
+.paginating{width:1200px;height:40px;text-align:center;margin-top:50px;color:#666;}
+.paginating .paging{position:relative;float:left;left:50%;}
+.paginating ul{display:inline-block;*display:inline;zoom:1;margin:0 auto;position:relative;left:-50%;}
+.paginating ul li{float:left;width:40px;height:40px;margin-left:-1px;*position:relative;}
+.paginating ul li a,.paginating ul li a:hover{display:block;float:left;width:38px;height:38px;border:1px solid #e7e7e9;line-height:38px;font-family:Arial,simsun;font-size:18px;color:#666;text-decoration:none;}
+.paginating ul li span{display:block;line-height:32px;height:38px;font-family:tahoma,Arial;overflow:hidden;border:1px solid #e7e7e9;}
+.paginating ul li a:hover,.paginating ul li a.current{background-color:#fd5115;border-color:#fd5115;color:#fff;text-decoration:none;}
+.paginating ul li a.current{cursor:default;}
+.paginating ul li.prev,.paginating ul li.next{width:38px;}
+.paginating ul li.prev a,.paginating ul li.next a{width:38px;background:url(images/model/vsearch/sales_sprites.gif) no-repeat 14px 13px;text-indent:-9999px;cursor:pointer;}
+.paginating ul li.next a{background-position:-13px 13px;}
+.paginating ul li.prev a:hover,.paginating ul li.next a:hover{border-color:#e7e7e9;background-color:#fff;}
+.paginating ul li.end{width:70px;margin:0 6px;}
+.paginating ul li.end a,.paginating ul li.end a:hover{background:#f1f1f1;font-size:14px;width:68px;cursor:pointer;}
+.paginating ul li.end a:hover{background:#fd5115;}
+.paginating ul li.page_input{width:auto;margin-left:15px;_display:inline;}
+.paginating ul li.page_input span{display:block;float:left;height:40px;line-height:40px;margin:0 5px;font-family:Arial;border:0;}
+.paginating ul li .number{float:left;height:24px;line-height:24px;padding:3px 2px;width:52px;border:1px solid #e7e7e7;margin-top:4px;outline:none;text-align:center;}
+.paginating ul li .number_hover{border-color:#e7e7e9;}
+.paginating ul li .button{background:#fa5000;height:30px;line-height:28px;width:70px;margin-top:4px;float:left;color:#fff;cursor:pointer;outline:none;margin-left:8px;border:none;font-size:14px;}
+.paginating ul li .button:hover{background-color:#fa2f00;color:#fff;}
+.paginating ul li .button:active{background-position:0 -67px;}
+.paginating ul li.none a{display:none;}
+.narrow_page .paginating{width:720px;}
+.left .paginating{width:960px;}</style>                    </head>
+        <body>
+            <script language="javascript">var minsize=1210;var screensize=screen.width;if (screensize<minsize){document.body.className="narrow_page"}</script>
+<script type="text/javascript" src="http://img4.ddimg.cn/mix/js/jquery.js"></script>
+<script type="text/javascript">
+    var arrayObj=new Array();
+    var mix_ajax_api = '/Standard/Framework/Core/hosts/ajax_api.php';
+</script><link rel="Stylesheet" type="text/css" href="//static.dangdang.com/css/header2012/header_150803.css?20211105" /><script>var accessbilityUrl = "//static.dangdang.com/fed/accessbility/1.0.0/accessbility.min.js";var accessbilitySwitch = "1";</script>
+<script type="text/javascript">
+    eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('r(1c 1H=="O"){o U;(p(){o k={1d:"1I.1J",1e:\'1K\',D:\'O\',1f:\'O\'};k.1g={1h:0,1L:"",F:8,1i:p(a){o b=l.1h?"1M":"1N";o c="";P(o i=0;i<a.B*4;i++){c+=b.1j((a[i>>2]>>((i%4)*8+4))&1k)+b.1j((a[i>>2]>>((i%4)*8))&1k)}u c},1l:p(x,e){x[e>>5]|=1O<<((e)%32);x[(((e+1P)>>>9)<<4)+14]=e;o a=1Q;o b=-1R;o c=-1S;o d=1T;P(o i=0;i<x.B;i+=16){o f=a;o g=b;o h=c;o j=d;a=l.v(a,b,c,d,x[i+0],7,-1U);d=l.v(d,a,b,c,x[i+1],12,-1V);c=l.v(c,d,a,b,x[i+2],17,1W);b=l.v(b,c,d,a,x[i+3],22,-1X);a=l.v(a,b,c,d,x[i+4],7,-1Y);d=l.v(d,a,b,c,x[i+5],12,1Z);c=l.v(c,d,a,b,x[i+6],17,-24);b=l.v(b,c,d,a,x[i+7],22,-25);a=l.v(a,b,c,d,x[i+8],7,26);d=l.v(d,a,b,c,x[i+9],12,-27);c=l.v(c,d,a,b,x[i+10],17,-28);b=l.v(b,c,d,a,x[i+11],22,-29);a=l.v(a,b,c,d,x[i+12],7,2a);d=l.v(d,a,b,c,x[i+13],12,-2b);c=l.v(c,d,a,b,x[i+14],17,-2c);b=l.v(b,c,d,a,x[i+15],22,2d);a=l.w(a,b,c,d,x[i+1],5,-2e);d=l.w(d,a,b,c,x[i+6],9,-2f);c=l.w(c,d,a,b,x[i+11],14,2g);b=l.w(b,c,d,a,x[i+0],20,-2h);a=l.w(a,b,c,d,x[i+5],5,-2i);d=l.w(d,a,b,c,x[i+10],9,2j);c=l.w(c,d,a,b,x[i+15],14,-2k);b=l.w(b,c,d,a,x[i+4],20,-2l);a=l.w(a,b,c,d,x[i+9],5,2m);d=l.w(d,a,b,c,x[i+14],9,-2n);c=l.w(c,d,a,b,x[i+3],14,-2o);b=l.w(b,c,d,a,x[i+8],20,2p);a=l.w(a,b,c,d,x[i+13],5,-2q);d=l.w(d,a,b,c,x[i+2],9,-2r);c=l.w(c,d,a,b,x[i+7],14,2s);b=l.w(b,c,d,a,x[i+12],20,-2t);a=l.z(a,b,c,d,x[i+5],4,-2u);d=l.z(d,a,b,c,x[i+8],11,-2v);c=l.z(c,d,a,b,x[i+11],16,2w);b=l.z(b,c,d,a,x[i+14],23,-2x);a=l.z(a,b,c,d,x[i+1],4,-2y);d=l.z(d,a,b,c,x[i+4],11,2z);c=l.z(c,d,a,b,x[i+7],16,-2A);b=l.z(b,c,d,a,x[i+10],23,-2B);a=l.z(a,b,c,d,x[i+13],4,2C);d=l.z(d,a,b,c,x[i+0],11,-2D);c=l.z(c,d,a,b,x[i+3],16,-2E);b=l.z(b,c,d,a,x[i+6],23,2F);a=l.z(a,b,c,d,x[i+9],4,-2G);d=l.z(d,a,b,c,x[i+12],11,-2H);c=l.z(c,d,a,b,x[i+15],16,2I);b=l.z(b,c,d,a,x[i+2],23,-2J);a=l.A(a,b,c,d,x[i+0],6,-2K);d=l.A(d,a,b,c,x[i+7],10,2L);c=l.A(c,d,a,b,x[i+14],15,-2M);b=l.A(b,c,d,a,x[i+5],21,-2N);a=l.A(a,b,c,d,x[i+12],6,2O);d=l.A(d,a,b,c,x[i+3],10,-2P);c=l.A(c,d,a,b,x[i+10],15,-2Q);b=l.A(b,c,d,a,x[i+1],21,-2R);a=l.A(a,b,c,d,x[i+8],6,2S);d=l.A(d,a,b,c,x[i+15],10,-2T);c=l.A(c,d,a,b,x[i+6],15,-2U);b=l.A(b,c,d,a,x[i+13],21,2V);a=l.A(a,b,c,d,x[i+4],6,-2W);d=l.A(d,a,b,c,x[i+11],10,-2X);c=l.A(c,d,a,b,x[i+2],15,2Y);b=l.A(b,c,d,a,x[i+9],21,-2Z);a=l.C(a,f);b=l.C(b,g);c=l.C(c,h);d=l.C(d,j)}u V(a,b,c,d)},J:p(q,a,b,x,s,t){u l.C(l.1m(l.C(l.C(a,q),l.C(x,t)),s),b)},v:p(a,b,c,d,x,s,t){u l.J((b&c)|((~b)&d),a,b,x,s,t)},w:p(a,b,c,d,x,s,t){u l.J((b&d)|(c&(~d)),a,b,x,s,t)},z:p(a,b,c,d,x,s,t){u l.J(b^c^d,a,b,x,s,t)},A:p(a,b,c,d,x,s,t){u l.J(c^(b|(~d)),a,b,x,s,t)},1n:p(a){o b=V();o c=(1<<l.F)-1;P(o i=0;i<a.B*l.F;i+=l.F)b[i>>5]|=(a.30(i/l.F)&c)<<(i%32);u b},C:p(x,y){o a=(x&W)+(y&W);o b=(x>>16)+(y>>16)+(a>>16);u(b<<16)|(a&W)},1m:p(a,b){u(a<<b)|(a>>>(32-b))},1o:p(s){u l.1i(l.1l(l.1n(s),s.B*l.F))}};k.X={1p:p(a){o b=Y(a)+"=",Q=K.L.E(b),Z=1q;r(Q>-1){o c=K.L.E(";",Q);r(c==-1){c=K.L.B}Z=31(K.L.18(Q+b.B,c))}u Z},19:p(a,b,c,d,e,f){o g=Y(a)+"="+Y(b);r(c 33 N){g+="; 34="+c.36()}r(d){g+="; 37="+d}r(e){g+="; 38="+e}r(f){g+="; 39"}K.L=g},3a:p(a,b,c,d){l.19(a,"",G N(0),b,c,d)}};k.3b={3c:p(a){o b=G 3d();r(a.E("?")>0){o c=a.18(a.E("?")+1);r(c.E("#")>0){c=c.18(0,c.E("#"))}o d=c.1a("&");P(o i=0;i<d.B;i++){b[d[i].1a("=")[0]]=d[i].1a("=")[1]}}u b}};k.3e=p(a,b,c){r(a.1r){a.1r(b,c,1s)}R r(a.1t){a.1t("T"+b,c)}R{a["T"+b]=c}};k.3f=p(a,b,c){r(a.1u){a.1u(b,c,1s)}R r(a.1v){a.1v("T"+b,c)}R{a["T"+b]=1q}};k.3g=p(x){o a=3h(x);r(3i(a)){u 0.1w}o a=I.3j(x*1x)/1x;o b=a.3k();o c=b.E(\'.\');r(c<0){c=b.B;b+=\'.\'}3l(b.B<=c+2){b+=\'0\'}u b};k.1y=p(){o n=G N();o y=n.3m()+\'\';o m=n.3n()+1;r(m<10)m="0"+m;o d=n.3o();r(d<10)d="0"+d;o H=n.3p();r(H<10)H="0"+H;o M=n.3q();r(M<10)M="0"+M;o S=n.3r();r(S<10)S="0"+S;o a="1w"+n.3s();a=a.1b(a.B-3,3);o b=I.1z(1A+I.1B()*1C);o c=I.1z(1A+I.1B()*1C);o e=y+m+d+H+M+S+a+b+c+k.1e;o f=k.1g.1o(e);f=k.1D(f);u y+m+d+H+M+S+a+f+b+c};k.1D=p(a){o b=3t(a.1b(0,8),16);o c=3u(b).1b(0,6);o d=c.B;r(d<6){c+=k.1E(\'0\',I.3v(6-d))}u c};k.1E=p(a,b){u G V(b+1).3w(a)};k.1F=p(){o t=G N();u t.3x()};k.1G=p(){k.D=k.X.1p("D");r(1c k.D==\'O\'||!/^\\d{35}$/.3y(k.D)){o a=G N(3z,1,1);k.D=k.1y();k.X.19("D",k.D,a,"/",k.1d)}k.1f=k.1F()};U=k;U.1G()})()}',62,222,'|||||||||||||||||||||this|||var|function||if|||return|md5_ff|md5_gg|||md5_hh|md5_ii|length|safe_add|__permanent_id|indexOf|chrsz|new||Math|md5_cmn|document|cookie||Date|undefined|for|cookieStart|else||on|ddclick_head_functions|Array|0xFFFF|CookieUtil|encodeURIComponent|cookieValue|||||||||substring|set|split|substr|typeof|__cookieDomain|__ddclick_hash_key|__timestap|Md5Util|hexcase|binl2hex|charAt|0xF|core_md5|bit_rol|str2binl|hex_md5|get|null|addEventListener|false|attachEvent|removeEventListener|detachEvent|00|100|createPermanentID|floor|100000|random|900000|formatHashCode|str_repeat|initTime|init|ddclick_page_tracker|dangdang|com|DDClick521|b64pad|0123456789ABCDEF|0123456789abcdef|0x80|64|1732584193|271733879|1732584194|271733878|680876936|389564586|606105819|1044525330|176418897|1200080426|||||1473231341|45705983|1770035416|1958414417|42063|1990404162|1804603682|40341101|1502002290|1236535329|165796510|1069501632|643717713|373897302|701558691|38016083|660478335|405537848|568446438|1019803690|187363961|1163531501|1444681467|51403784|1735328473|1926607734|378558|2022574463|1839030562|35309556|1530992060|1272893353|155497632|1094730640|681279174|358537222|722521979|76029189|640364487|421815835|530742520|995338651|198630844|1126891415|1416354905|57434055|1700485571|1894986606|1051523|2054922799|1873313359|30611744|1560198380|1309151649|145523070|1120210379|718787259|343485551|charCodeAt|decodeURIComponent||instanceof|expires||toGMTString|path|domain|secure|unset|URLUtil|getKeyValueArray|Object|addEventHandler|removeEventHandler|changeTwoDecimal|parseFloat|isNaN|round|toString|while|getFullYear|getMonth|getDate|getHours|getMinutes|getSeconds|getMilliseconds|parseInt|String|abs|join|getTime|test|2020'.split('|'),0,{}))</script>
+<script type="text/javascript">
+function is_narrow(){
+    var datanav="";
+    if(screen.width < 1210){
+       datanav='<li ><a name="nav1" href="http://book.dangdang.com/" target="_blank">图书</a></li><li ><a name="nav1" href="http://e.dangdang.com/index_page.html" target="_blank">电子书</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4004344.html" target="_blank">童装童鞋</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4003844.html" target="_blank">女装</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002145.html" target="_blank">食品</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002061.html" target="_blank">母婴玩具</a></li>';
+    }else{
+    datanav='<li ><a name="nav1" href="https://book.dangdang.com" target="_blank">图书</a></li><li ><a name="nav1" href="http://e.dangdang.com/index_page.html" target="_blank">电子书</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4004344.html" target="_blank">童装童鞋</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4003844.html" target="_blank">女装</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002145.html" target="_blank">食品</a></li><li ><a name="nav1" href="http://category.dangdang.com/cid4002061.html" target="_blank">母婴玩具</a></li>';
+    }
+    return datanav;
+}
+</script>
+
+
+
+
+
+
+<div id="hd">
+<div id="tools">
+  <div class="tools">
+    <div class="ddnewhead_operate" dd_name="顶链接">
+      <div class="ddnewhead_area">
+        <a href="javascript:void(0);" id="area_one" class="ddnewhead_area_a" onmouseover="show_area_list();"
+          onmouseout="hidden_area_list();">送至：<span id="curent_area"></span></a>
+        <ul class="ddnewhead_area_list" style="display: none;" id="area_list" onmouseover="this.style.display='block';"
+          onmouseout="this.style.display='none';">
+          <li><a href="javascript:void(0);" onclick="change_area('111','北京')" num="111">北京</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('112','天津')" num="112">天津</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('113','河北')" num="113">河北</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('114','山西')" num="114">山西</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('115','内蒙古')" num="115">内蒙古</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('121','辽宁')" num="121">辽宁</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('122','吉林')" num="122">吉林</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('123','黑龙江')" num="123">黑龙江</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('131','上海')" num="131">上海</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('132','江苏')" num="132">江苏</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('133','浙江')" num="133">浙江</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('134','安徽')" num="134">安徽</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('135','福建')" num="135">福建</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('136','江西')" num="136">江西</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('137','山东')" num="137">山东</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('141','河南')" num="141">河南</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('142','湖北')" num="142">湖北</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('143','湖南')" num="143">湖南</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('144','广东')" num="144">广东</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('145','广西')" num="145">广西</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('146','海南')" num="146">海南</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('150','重庆')" num="150">重庆</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('151','四川')" num="151">四川</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('152','贵州')" num="152">贵州</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('153','云南')" num="153">云南</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('154','西藏')" num="154">西藏</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('161','陕西')" num="161">陕西</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('162','甘肃')" num="162">甘肃</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('163','青海')" num="163">青海</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('164','宁夏')" num="164">宁夏</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('165','新疆')" num="165">新疆</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('171','台湾')" num="171">台湾</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('172','香港')" num="172">香港</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('173','澳门')" num="173">澳门</a></li>
+          <li><a href="javascript:void(0);" onclick="change_area('174','钓鱼岛')" num="174">钓鱼岛</a></li>
+        </ul>
+      </div>
+
+      <div style="float:right">
+        <div class="ddnewhead_welcome" display="none;" style="float:left">
+          <span id="nickname"><span class="hi hi_none">欢迎光临当当，请</span><a
+              href="https://login.dangdang.com/signin.aspx?returnurl=http%3A//www.dangdang.com/"
+              class="login_link">登录</a><a href="https://login.dangdang.com/Register.aspx">免费注册</a></span>
+          <div class="tel_pop" style="display:none" id="__ddnav_sjdd"
+            onmouseover="showgaoji('a_phonechannel','__ddnav_sjdd');"
+            onmouseout="hideotherchannel('a_phonechannel','__ddnav_sjdd');">
+            <a target="_blank" href="http://t.dangdang.com/20130220_ydmr" class="title"><i
+                class="icon_tel"></i>手机当当</a><i class="title_shadow"></i>
+            <ul class="tel_pop_box">
+              <li><a href="http://t.dangdang.com/20130220_ydmr" dd_name="手机二维码"><span>当当手机客户端</span><img
+                    src="//img3.ddimg.cn/00363/doc/erweima2.png"><span class="text">随手查订单<br>随时享优惠</span></a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="new_head_znx" id="znx_content" style="display:none;float:left;"></div>
+
+        <ul class="ddnewhead_operate_nav" style="float:left">
+          <li><a target="_blank" href="http://e.dangdang.com/ebook/listUserEbooks.do" name="我的云书房"
+              dd_name="我的云书房">我的云书房</a></li>
+          <li class="my_dd"><a class="menu_btn" target="_blank" href="http://myhome.dangdang.com/" name="我的当当"
+              dd_name="我的当当" id="a_myddchannel" onmouseover="showgaoji('a_myddchannel','__ddnav_mydd')"
+              onmouseout="hideotherchannel('a_myddchannel','__ddnav_mydd');">我的当当</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_mydd" onmouseover="showgaoji('a_myddchannel','__ddnav_mydd')"
+              onmouseout="hideotherchannel('a_myddchannel','__ddnav_mydd');">
+              <li><a target="_blank" href="http://myhome.dangdang.com/myOrder" name="mydd_7" dd_name="新_我的订单">我的订单</a>
+              </li>
+              <li><a target="_blank" href="http://shopping.dangdang.com/shoppingcart/shopping_cart.aspx" name="mydd_8"
+                  dd_name="新_购物车" rel="nofollow">购物车</a></li>
+              <li><a target="_blank" href="http://myhome.dangdang.com/mypoint?ref=my-0-L" name="mydd_4" dd_name="银铃铛抵现"
+                  rel="nofollow">银铃铛抵现</a></li>
+              <li><a target="_blank" href="http://myhome.dangdang.com/myFavorite" name="mydd_1" dd_name="我的收藏"
+                  rel="nofollow">我的收藏</a></li>
+              <li><a target="_blank" href="http://noncash.dangdang.com/balance/" name="mydd_5" dd_name="我的余额"
+                  rel="nofollow">我的余额</a></li>
+              <li><a target="_blank" href="http://comment.dangdang.com/comment" name="mydd_4" dd_name="我的评论"
+                  rel="nofollow">我的评论</a></li>
+              <li><a target="_blank" href="http://newaccount.dangdang.com/payhistory/mycoupon.aspx" name="mydd_2"
+                  dd_name="礼券/礼品卡" rel="nofollow">礼券/礼品卡</a></li>
+            </ul>
+          </li>
+          <li class="pc_mina"><a class="menu_btn" target="_blank" href="http://t.dangdang.com/pintuan_list" name="当当拼团"
+              dd_name="当当拼团" id="a_minachannel" onmouseover="showgaoji('a_minachannel','__ddnav_mina')"
+              onmouseout="hideotherchannel('a_minachannel','__ddnav_mina');">当当拼团</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_mina" onmouseover="showgaoji('a_minachannel','__ddnav_mina')"
+              onmouseout="hideotherchannel('a_minachannel','__ddnav_mina');">
+              <!--
+                    <li><a target="_blank" href="http://t.dangdang.com/freetry_list" name="mina_1" dd_name="0元领物" rel="nofollow">0元领物</a></li>
+            -->
+              <li><a target="_blank" href="http://t.dangdang.com/pintuan_list" name="mina_2" dd_name="当当拼团"
+                  rel="nofollow">当当拼团</a></li>
+              <!--
+                    <li><a target="_blank" href="http://t.dangdang.com/kanjia_list" name="mina_3" dd_name="1元砍价" rel="nofollow">1元砍价</a></li>
+                    <li><a target="_blank" href="http://t.dangdang.com/choujiang_list" name="mina_4" dd_name="1分抽奖" rel="nofollow">1分抽奖</a></li>
+            -->
+            </ul>
+          </li>
+          <li><a target="_blank" href="http://e.dangdang.com/media/h5/pc/zhuangti/zhengwen2017/essay.html" name="mydd_7"
+              dd_name="小说投稿">小说投稿</a></li>
+          <li><a class="menu_btn" href="javascript:void(0);" style="cursor:default;" name="qycg" dd_name="企业采购"
+              id="a_qycgchannel" onmouseover="showgaoji('a_qycgchannel','__ddnav_qycg');"
+              onmouseout="hideotherchannel('a_qycgchannel','__ddnav_qycg');">企业采购</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_qycg" onmouseover="showgaoji('a_qycgchannel','__ddnav_qycg');"
+              onmouseout="hideotherchannel('a_qycgchannel','__ddnav_qycg');">
+              <li><a target="_blank" href="http://giftcard.dangdang.com/giftcardCompany" name="qycg_1"
+                  dd_name="大宗采购">大宗采购</a></li>
+              <li><a target="_blank" href="http://giftcard.dangdang.com/" name="qycg_2" dd_name="礼品卡采购">礼品卡采购</a></li>
+              <li><a target="_blank" href="http://newaccount.dangdang.com/payhistory/mymoney.aspx" name="gqycg_3"
+                  dd_name="礼品卡激活" rel="nofollow">礼品卡激活</a></li>
+              <li><a target="_blank" href="http://help.dangdang.com/details/page24" name="qycg_4"
+                  dd_name="礼品卡使用">礼品卡使用</a></li>
+              <li><a target="_blank" href="http://b2b.dangdang.com" name="qycg_5" dd_name="分销/荐购">分销/荐购</a></li>
+              <li><a target="_blank" href="http://giftcard.dangdang.com/goods?type=mall" name="qycg_6"
+                  dd_name="礼品卡专区">礼品卡专区</a></li>
+            </ul>
+          </li>
+          <li class="hover "><a class="menu_btn" href="javascript:void(0);" style="cursor:default;" name="ddkf_0"
+              dd_name="客户服务" id="a_bzzxchannel" onmouseover="showgaoji('a_bzzxchannel','__ddnav_bzzx');"
+              onmouseout="hideotherchannel('a_bzzxchannel','__ddnav_bzzx');">客户服务</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_bzzx" onmouseover="showgaoji('a_bzzxchannel','__ddnav_bzzx');"
+              onmouseout="hideotherchannel('a_bzzxchannel','__ddnav_bzzx');">
+              <li><a target="_blank" href="http://help.dangdang.com/index" name="ddkf_2" dd_name="帮助中心">帮助中心</a></li>
+              <li><a target="_blank" href="http://return.dangdang.com/reverseapplyselect.aspx" name="ddkf_3"
+                  dd_name="自助退换货">自助退换货</a></li>
+              <li><a target="_blank" href="http://order.dangdang.com/InvoiceApply/InvoiceOnlineReissue.aspx"
+                  name="tsjy_2" dd_name="自助发票" rel="nofollow">自助发票</a></li>
+              <li><a target="_blank" href="http://help.dangdang.com/details/page206" name="ddkf_4"
+                  dd_name="联系客服">联系客服</a>
+              </li>
+              <li><a target="_blank" href="http://help.dangdang.com/details/page206" name="tsjy_1" dd_name="我要投诉"
+                  rel="nofollow">我要投诉</a></li>
+            </ul>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+  </div>
+</div>
+<div id="header_end"></div>
+<!--CreateDate  2023-03-31 14:00:01--><div style="position:relative;" class="logo_line_out" ddaccregion="mutual">
+<div class="logo_line" dd_name="搜索框">
+    <div class="logo"><img src="http://img60.ddimg.cn/2022/12/13/2022121310164598761.png" usemap="#logo_link"/>
+                         <map name="logo_link" id="logo_link" dd_name="logo区" ><area shape="rect" coords="0,18,200,93" href="http://www.dangdang.com" title="当当" onfocus="this.blur();" tabindex="-1">
+                         <area shape="rect" coords="200,18,320,93" href="http://www.dangdang.com/" title="" target="_blank" onfocus="this.blur();" tabindex="-1"></map></div>
+    <div class="search">
+        <form action="//search.dangdang.com" name="searchform"  id="form_search_new" onsubmit="return searchsubmit();"  method="GET">
+            <label  for="key_S" class="label_search" id="label_key" onclick="this.style.color='rgb(255, 255, 255)';" style="visibility: visible; color: rgb(102, 102, 102);" >作家评选</label>
+            <input type="text" class="text gray"  name="key" ID="key_S" autocomplete="off" onclick="key_onclick(event);" onfocus="key_onfocus(event);"  onblur="key_onblur();" onbeforepaste="onpaste_search();"/><a href="javascript:void(0);" onclick="clearkeys();" class="del-keywords" tabindex="-1"></a><span class="select"  onmouseover="allCategoryShow();"  onmouseleave="allCategoryHide();" onmouseout='if("\v"!="v"){ allCategoryHide();}'><span id="Show_Category_Name" dd_name="全部分类">全部分类</span><span class="icon"></span>
+                <div id="search_all_category" class="select_pop" style="height:0px;padding: 0px;border-width: 0px;" dd_name="搜索分类">
+                    <a href="javascript:void(0);" onclick="selectCategory('',this);" ><span id="Show_Category_Name" dd_name="全部分类" tabindex="-1">全部分类</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('100000',this);" dd_name="尾品汇"><span>尾品汇</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('01.00.00.00.00.00',this);" dd_name="图书"><span>图书</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('98.00.00.00.00.00',this);" dd_name="电子书"><span>电子书</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('03.00.00.00.00.00',this);" dd_name="音像"><span>音像</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory('05.00.00.00.00.00',this);" dd_name="影视"><span>影视</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002074,this);" dd_name="时尚美妆"><span>时尚美妆</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4001940,this);" dd_name="母婴用品"><span>母婴用品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002061,this);" dd_name="玩具"><span>玩具</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4004866,this);" dd_name="孕婴服饰"><span>孕婴服饰</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4004344,this);" dd_name="童装童鞋"><span>童装童鞋</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003900,this);" dd_name="家居日用"><span>家居日用</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003760,this);" dd_name="家具装饰"><span>家具装饰</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003844,this);" dd_name="服装"><span>服装</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003872,this);" dd_name="鞋"><span>鞋</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4001829,this);" dd_name="箱包皮具"><span>箱包皮具</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003639,this);" dd_name="手表饰品"><span>手表饰品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003728,this);" dd_name="运动户外"><span>运动户外</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002429,this);" dd_name="汽车用品"><span>汽车用品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4002145,this);" dd_name="食品"><span>食品</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4006497,this);" dd_name="手机通讯"><span>手机通讯</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003613,this);" dd_name="数码影音"><span>数码影音</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4003819,this);" dd_name="电脑办公"><span>电脑办公</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4007241,this);" dd_name="大家电"><span>大家电</span></a>
+                                        <a href="javascript:void(0);" onclick="selectCategory(4001001,this);" dd_name="家用电器"><span>家用电器</span></a>
+                                    </div>
+            </span>
+            <input type="hidden" id="default_key" value="作家评选"/>
+            <input type="hidden" id="default_key_link" value="http://book.dangdang.com/20230324_byhi" mid1_value="0" api_step="d"/>
+            <input type="submit" id="search_btn" dd_name="搜索按钮"  style="display:none"/>
+            <input id="SearchFromTop" style="display:none" type="hidden" name="SearchFromTop" value="1"/>
+            <input type="button" id="suggest_product_btn" name="suggestproduct_btn"  style="display:none" onclick="void(0)"/>
+            <input type="button" id="suggest_class_btn" name="suggestclass_btn"  style="display:none" onclick="void(0)"/>
+            <input type="submit" id="suggest_searchkey_btn" name="suggestsearchkey_btn"  style="display:none" dd_name="搜索按钮"/>
+            <input type="hidden" id="catalog_S" name="catalog" value="" >
+            <input type="button" class="button" dd_name="搜索按钮" onclick="javascript:document.getElementById('search_btn').click();"/>
+        </form>
+    </div>
+    <div class="search_bottom">
+        <div class="search_hot">热搜: <a href="http://search.dangdang.com/?key=%B0%AE%B6%C1%CE%F7%D3%CE%BC%C7&act=input" name="hotword" target="_blank">爱读西游记</a><a href="http://search.dangdang.com/?key=%C8%CB%C9%FA&act=input" name="hotword" target="_blank">人生</a><a href="http://search.dangdang.com/?key=%BA%F4%C0%BC%BA%D3%B4%AB&act=input" name="hotword" target="_blank">呼兰河传</a><a href="http://search.dangdang.com/?key=妫�椹�" name="hotword" target="_blank">森马</a><a href="http://search.dangdang.com/?key=%B1%BB%CC%D6%D1%E1%B5%C4%D3%C2%C6%F8&act=input" name="hotword" target="_blank">被讨厌的勇气</a><a href="http://search.dangdang.com/?key=%BA%A2%D7%D3%B5%C4%C4%DA%C7%FD%C1%A6&act=input" name="hotword" target="_blank">孩子的内驱力</a></div>
+        <a href="http://search.dangdang.com/advsearch" class="search_advs" target="_blank" name="ddnav_adv_s" dd_name="高级搜索">高级搜索</a>
+    </div>
+    <div id="suggest_key" class="suggest_key" style="display:none;" ></div>
+    <div class="ddnew_cart"><a href="javascript:AddToShoppingCart(0);" name="购物车" dd_name="购物车"><i class="icon_card"></i>购物车<b id="cart_items_count"></b></a></div>
+    <div class="ddnew_order"><a target="_blank" href="http://myhome.dangdang.com/myOrder" name="我的订单" dd_name="我的订单" rel="nofollow">我的订单<b id="unpaid_num" style="color:#ff2832;font:bold 12px Arial;"></b></a></div>
+</div>
+</div><div class="nav_top" dd_name="一级导航条">
+<div class="nav_top">
+    <ul>
+        <li class="all"><a href="http://category.dangdang.com/?ref=www-0-C" id="a_category" name="cate" class="sort_button" onmouseover=showCategory('a_category','__ddnav_sort','//static.dangdang.com/js/header2012/categorydata_new.js?20211105'); onmouseout=closeCategory('__ddnav_sort'); dd_name="全部商品分类" target="_blank">全部商品分类</a></li>
+        <script language="javascript">document.write(is_narrow());</script>
+    </ul>
+</div>
+</div><div class="home_nav_l_box">
+<div class="home_nav_l" id="nav_l" style="display:none;">
+
+<div class="new_pub_nav_box"  dd_name="左侧分类导航" style="display:none;" id="__ddnav_sort" onmouseover="showdiv(event,'__ddnav_sort');" onmouseout="hiddenCategory(event,'__ddnav_sort');">
+    <span class="new_pub_line_a"></span>
+    <span class="new_pub_line_b"></span>
+    <div class="new_pub_nav_shadow" id="menu_list">
+		<ul class="new_pub_nav" id="menulist_content">
+            			<li class="n_b first"  dd_name="图书童书"  id="li_label_1" data-submenu-id="__ddnav_sort1" data_index="1" data_key="34102" data_type="'goods'" >
+                <span class="nav" id="categoryh_1">
+                    <a name="newcate1"  dd_name="图书" id="cate_34242" href="http://book.dangdang.com" target="_blank">图书</a>、<a name="newcate1"  dd_name="童书" id="cate_34252" href="http://book.dangdang.com/children?ref=book-01-A" target="_blank">童书</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="电子书"  id="li_label_2" data-submenu-id="__ddnav_sort2" data_index="2" data_key="56262" data_type="'book'" >
+                <span class="nav" id="categoryh_2">
+                    <a name="newcate2"  dd_name="电子书" id="cate_56263" href="http://e.dangdang.com/index_page.html" target="_blank">电子书</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="创意文具"  id="li_label_3" data-submenu-id="__ddnav_sort3" data_index="3" data_key="55442" data_type="'goods'" >
+                <span class="nav" id="categoryh_3">
+                    <a name="newcate3"  dd_name="创意文具" id="cate_55469" href="http://art.dangdang.com/" target="_blank">创意文具</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="服饰内衣"  id="li_label_4" data-submenu-id="__ddnav_sort4" data_index="4" data_key="34202" data_type="'goods'" >
+                <span class="nav" id="categoryh_4">
+                    <a name="newcate4"  dd_name="服饰" id="cate_57622" href="javascript:void(0);" target="_blank">服饰</a>、<a name="newcate4"  dd_name="内衣" id="cate_53062" href="http://category.dangdang.com/cid10010337.html" target="_blank">内衣</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="鞋靴箱包"  id="li_label_5" data-submenu-id="__ddnav_sort5" data_index="5" data_key="34212" data_type="'goods'" >
+                <span class="nav" id="categoryh_5">
+                    <a name="newcate5"  dd_name="鞋靴" id="cate_45532" href="http://category.dangdang.com/cid4003872.html" target="_blank">鞋靴</a>、<a name="newcate5"  dd_name="箱包" id="cate_53072" href="http://category.dangdang.com/cid4001829.html" target="_blank">箱包</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="运动户外"  id="li_label_6" data-submenu-id="__ddnav_sort6" data_index="6" data_key="34232" data_type="'goods'" >
+                <span class="nav" id="categoryh_6">
+                    <a name="newcate6"  dd_name="运动户外" id="cate_45552" href="http://fashion.dangdang.com/sports" target="_blank">运动户外</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="孕婴童"  id="li_label_7" data-submenu-id="__ddnav_sort7" data_index="7" data_key="34112" data_type="'goods'" >
+                <span class="nav" id="categoryh_7">
+                    <a name="newcate7"  dd_name="孕" id="cate_35772" href="http://category.dangdang.com/cid4004866.html" target="_blank">孕</a>、<a name="newcate7"  dd_name="婴" id="cate_35782" href="http://category.dangdang.com/cid4001940.html" target="_blank">婴</a>、<a name="newcate7"  dd_name="童" id="cate_35792" href="http://category.dangdang.com/cid4004344.html" target="_blank">童</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="家居家纺汽车"  id="li_label_8" data-submenu-id="__ddnav_sort8" data_index="8" data_key="34142" data_type="'goods'" >
+                <span class="nav" id="categoryh_8">
+                    <a name="newcate8"  dd_name="家居" id="cate_38642" href="http://category.dangdang.com/cid4003900.html" target="_blank">家居</a>、<a name="newcate8"  dd_name="家纺" id="cate_53032" href="http://category.dangdang.com/cid4010918.html" target="_blank">家纺</a>、<a name="newcate8"  dd_name="汽车" id="cate_57231" href="http://category.dangdang.com/cid4002429.html" target="_blank">汽车</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="家具家装康体"  id="li_label_9" data-submenu-id="__ddnav_sort9" data_index="9" data_key="34132" data_type="'goods'" >
+                <span class="nav" id="categoryh_9">
+                    <a name="newcate9"  dd_name="家具" id="cate_52282" href="http://category.dangdang.com/cid4010897.html" target="_blank">家具</a>、<a name="newcate9"  dd_name="家装" id="cate_54045" href="http://category.dangdang.com/cid4010894.html" target="_blank">家装</a>、<a name="newcate9"  dd_name="康体" id="cate_54046" href="http://category.dangdang.com/cid4010857.html" target="_blank">康体</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="个人护理清洁"  id="li_label_10" data-submenu-id="__ddnav_sort10" data_index="10" data_key="34122" data_type="'goods'" >
+                <span class="nav" id="categoryh_10">
+                    <a name="newcate10"  dd_name="个人护理" id="cate_54231" href="http://category.dangdang.com/cid4002135.html" target="_blank">个人护理</a>、<a name="newcate10"  dd_name="清洁" id="cate_54230" href="http://category.dangdang.com/cid4003638.html" target="_blank">清洁</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="食品茶酒"  id="li_label_11" data-submenu-id="__ddnav_sort11" data_index="11" data_key="34152" data_type="'goods'" >
+                <span class="nav" id="categoryh_11">
+                    <a name="newcate11"  dd_name="食品" id="cate_40152" href="javascript:void(0);" target="_blank">食品</a>、<a name="newcate11"  dd_name="茶酒" id="cate_53794" href="javascript:void(0);" target="_blank">茶酒</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="珠宝饰品"  id="li_label_12" data-submenu-id="__ddnav_sort12" data_index="12" data_key="34222" data_type="'goods'" >
+                <span class="nav" id="categoryh_12">
+                    <a name="newcate12"  dd_name="珠宝饰品" id="cate_45542" href="http://category.dangdang.com/cid4007338.html" target="_blank">珠宝饰品</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="手机数码电脑办公"  id="li_label_13" data-submenu-id="__ddnav_sort13" data_index="13" data_key="34162" data_type="'goods'" >
+                <span class="nav" id="categoryh_13">
+                    <a name="newcate13"  dd_name="手机" id="cate_41592" href="http://category.dangdang.com/cid4006497.html" target="_blank">手机</a>、<a name="newcate13"  dd_name="数码" id="cate_41602" href="http://category.dangdang.com/cid4003613.html" target="_blank">数码</a>、<a name="newcate13"  dd_name="电脑办公" id="cate_57480" href="http://category.dangdang.com/cid4003819.html" target="_blank">电脑办公</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="家用电器"  id="li_label_14" data-submenu-id="__ddnav_sort14" data_index="14" data_key="34182" data_type="'goods'" >
+                <span class="nav" id="categoryh_14">
+                    <a name="newcate14"  dd_name="家用电器" id="cate_44162" href="http://category.dangdang.com/cid4001001.html" target="_blank">家用电器</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name="当当礼品卡生活服务"  id="li_label_15" data-submenu-id="__ddnav_sort15" data_index="15" data_key="54895" data_type="'goods'" >
+                <span class="nav" id="categoryh_15">
+                    <a name="newcate15"  dd_name="当当礼品卡" id="cate_54896" href="http://giftcard.dangdang.com/" target="_blank">当当礼品卡</a>、<a name="newcate15"  dd_name="生活服务" id="cate_55733" href="http://category.dangdang.com/cid11618.html" target="_blank">生活服务</a></span><span class="sign"></span>
+            </li>
+            			<li class="n_b"  dd_name=""  id="li_label_16" data-submenu-id="__ddnav_sort16" data_index="16" data_key="34172" data_type="'goods'" >
+                <span class="nav" id="categoryh_16">
+                    </span><span class="sign"></span>
+            </li>
+            		</ul>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort1"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort2"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort3"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort4"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort5"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort6"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort7"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort8"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort9"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort10"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort11"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort12"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort13"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort14"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort15"></div>
+                <div class="new_pub_nav_pop" style="display: none;" id="__ddnav_sort16"></div>
+            </div>
+</div>
+</div></div>
+<div class="sub">
+    <ul>
+                <li><a name='nav2'  target=_blank  href=http://bang.dangdang.com/books/childrensbooks>童书榜</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid4003844.html>女装热卖</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid10010336.html>男士服装</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid4009359.html>童装</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid4003728.html>运动户外</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid4002852.html>帆布鞋</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid4001829.html>箱包皮具</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid4001976.html>奶粉</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid4002074.html>美妆</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid4002061.html>玩具童车</a></li>
+                        <li><a name='nav2'  target=_blank  href=http://category.dangdang.com/cid4006504.html>电子教育</a></li>
+                    </ul>
+</div></div>
+
+<!--DOC-HEAD-END-->            
+            <div  id="bd"   name=14693><div  class="con sales_wrap" name=14694><div  id="14695"  class="con 14695" name=14695><div id='component_1805094'></div>  
+    <div class="search_toppanel">
+      <span>您现在的位置：<a href="http://www.dangdang.com/" target="_blank" rel="nofollow">当当网</a>&gt;<a href="http://www.dangdang.com/sales/brands/" target="_blank">品牌大全</a>&gt;</span>
+      <h1>品牌搜索词索引（H）</h1>
+    </div>
+    <div class="sales_title">当当品牌馆.品牌列表</div>
+    <div class="sales_nav_num"><b>按字母分类：</b><a href="http://www.dangdang.com/sales/brands/a-1.html" target="_blank" name="letter_a">A</a><a href="http://www.dangdang.com/sales/brands/b-1.html" target="_blank" name="letter_b">B</a><a href="http://www.dangdang.com/sales/brands/c-1.html" target="_blank" name="letter_c">C</a><a href="http://www.dangdang.com/sales/brands/d-1.html" target="_blank" name="letter_d">D</a><a href="http://www.dangdang.com/sales/brands/e-1.html" target="_blank" name="letter_e">E</a><a href="http://www.dangdang.com/sales/brands/f-1.html" target="_blank" name="letter_f">F</a><a href="http://www.dangdang.com/sales/brands/g-1.html" target="_blank" name="letter_g">G</a><a href="http://www.dangdang.com/sales/brands/h-1.html" target="_blank" name="letter_h">H</a><a href="http://www.dangdang.com/sales/brands/i-1.html" target="_blank" name="letter_i">I</a><a href="http://www.dangdang.com/sales/brands/j-1.html" target="_blank" name="letter_j">J</a><a href="http://www.dangdang.com/sales/brands/k-1.html" target="_blank" name="letter_k">K</a><a href="http://www.dangdang.com/sales/brands/l-1.html" target="_blank" name="letter_l">L</a><a href="http://www.dangdang.com/sales/brands/m-1.html" target="_blank" name="letter_m">M</a><a href="http://www.dangdang.com/sales/brands/n-1.html" target="_blank" name="letter_n">N</a><a href="http://www.dangdang.com/sales/brands/o-1.html" target="_blank" name="letter_o">O</a><a href="http://www.dangdang.com/sales/brands/p-1.html" target="_blank" name="letter_p">P</a><a href="http://www.dangdang.com/sales/brands/q-1.html" target="_blank" name="letter_q">Q</a><a href="http://www.dangdang.com/sales/brands/r-1.html" target="_blank" name="letter_r">R</a><a href="http://www.dangdang.com/sales/brands/s-1.html" target="_blank" name="letter_s">S</a><a href="http://www.dangdang.com/sales/brands/t-1.html" target="_blank" name="letter_t">T</a><a href="http://www.dangdang.com/sales/brands/u-1.html" target="_blank" name="letter_u">U</a><a href="http://www.dangdang.com/sales/brands/v-1.html" target="_blank" name="letter_v">V</a><a href="http://www.dangdang.com/sales/brands/w-1.html" target="_blank" name="letter_w">W</a><a href="http://www.dangdang.com/sales/brands/x-1.html" target="_blank" name="letter_x">X</a><a href="http://www.dangdang.com/sales/brands/y-1.html" target="_blank" name="letter_y">Y</a><a href="http://www.dangdang.com/sales/brands/z-1.html" target="_blank" name="letter_z">Z</a><a href="http://www.dangdang.com/sales/brands/other-1.html" target="_blank" name="letter_other">其他</a></div>
+<script>
+$(function(){
+    var obj = $(".sales_nav_num a");
+    $(obj).click(function(){
+        $(this).addClass("now").siblings().removeClass("now");
+    });
+});
+</script><div class="spacer"></div></div><div class="spacer"></div><div  id="14696"  class="con 14696" name=14696><div id='component_1805095'></div>  <div class="sales_nav_list">
+      <ul>
+      <li class="deep"><a href="http://www.dangdang.com/sales/brands/147368.html" title="花花公子男包手拿包" target="_blank" name="bid_147368">花花公子男包手拿包</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147365.html" title="红豆羽绒服男修身" target="_blank" name="bid_147365">红豆羽绒服男修身</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147349.html" title="孩儿面沐浴露" target="_blank" name="bid_147349">孩儿面沐浴露</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147342.html" title="后视镜行车记录仪4.3" target="_blank" name="bid_147342">后视镜行车记录仪4.3</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147313.html" title="黑色中长款羽绒服" target="_blank" name="bid_147313">黑色中长款羽绒服</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147312.html" title="华研外语专八" target="_blank" name="bid_147312">华研外语专八</a></li><li><a href="http://www.dangdang.com/sales/brands/147307.html" title="h6后备箱" target="_blank" name="bid_147307">h6后备箱</a></li><li><a href="http://www.dangdang.com/sales/brands/147303.html" title="华大时尚女包" target="_blank" name="bid_147303">华大时尚女包</a></li><li><a href="http://www.dangdang.com/sales/brands/147294.html" title="黄色毛呢裙子" target="_blank" name="bid_147294">黄色毛呢裙子</a></li><li><a href="http://www.dangdang.com/sales/brands/147276.html" title="花花公子立领羽绒服" target="_blank" name="bid_147276">花花公子立领羽绒服</a></li><li><a href="http://www.dangdang.com/sales/brands/147263.html" title="花花公子羽绒服男短" target="_blank" name="bid_147263">花花公子羽绒服男短</a></li><li><a href="http://www.dangdang.com/sales/brands/147255.html" title="华伟发电机" target="_blank" name="bid_147255">华伟发电机</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147228.html" title="花王尿不湿l54" target="_blank" name="bid_147228">花王尿不湿l54</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147227.html" title="好奇纸尿片m" target="_blank" name="bid_147227">好奇纸尿片m</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147206.html" title="回音壁家庭影院" target="_blank" name="bid_147206">回音壁家庭影院</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147202.html" title="辉叶按摩披肩" target="_blank" name="bid_147202">辉叶按摩披肩</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147200.html" title="哈尔斯保温饭盒桶" target="_blank" name="bid_147200">哈尔斯保温饭盒桶</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147194.html" title="宏基威戈包" target="_blank" name="bid_147194">宏基威戈包</a></li><li><a href="http://www.dangdang.com/sales/brands/147183.html" title="韩美伊时尚" target="_blank" name="bid_147183">韩美伊时尚</a></li><li><a href="http://www.dangdang.com/sales/brands/147177.html" title="花珠珍珠" target="_blank" name="bid_147177">花珠珍珠</a></li><li><a href="http://www.dangdang.com/sales/brands/147173.html" title="华光挂烫机" target="_blank" name="bid_147173">华光挂烫机</a></li><li><a href="http://www.dangdang.com/sales/brands/147167.html" title="环保椰棕床垫" target="_blank" name="bid_147167">环保椰棕床垫</a></li><li><a href="http://www.dangdang.com/sales/brands/147161.html" title="混合坚果" target="_blank" name="bid_147161">混合坚果</a></li><li><a href="http://www.dangdang.com/sales/brands/147143.html" title="红酒酒具" target="_blank" name="bid_147143">红酒酒具</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147131.html" title="韩国遮阳帽男户外" target="_blank" name="bid_147131">韩国遮阳帽男户外</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147118.html" title="汉王人脸指纹考勤机" target="_blank" name="bid_147118">汉王人脸指纹考勤机</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147095.html" title="惠科平板电脑" target="_blank" name="bid_147095">惠科平板电脑</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147080.html" title="韩单羽绒服" target="_blank" name="bid_147080">韩单羽绒服</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147075.html" title="海尔电热水器80升" target="_blank" name="bid_147075">海尔电热水器80升</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/147074.html" title="华驰皮鞋" target="_blank" name="bid_147074">华驰皮鞋</a></li><li><a href="http://www.dangdang.com/sales/brands/147069.html" title="海藻面膜颗粒" target="_blank" name="bid_147069">海藻面膜颗粒</a></li><li><a href="http://www.dangdang.com/sales/brands/147047.html" title="户外防水照明灯具" target="_blank" name="bid_147047">户外防水照明灯具</a></li><li><a href="http://www.dangdang.com/sales/brands/147033.html" title="红瑞家纺冬被" target="_blank" name="bid_147033">红瑞家纺冬被</a></li><li><a href="http://www.dangdang.com/sales/brands/146984.html" title="惠普hp1020plus" target="_blank" name="bid_146984">惠普hp1020plus</a></li><li><a href="http://www.dangdang.com/sales/brands/146956.html" title="华为荣耀6手机壳" target="_blank" name="bid_146956">华为荣耀6手机壳</a></li><li><a href="http://www.dangdang.com/sales/brands/146948.html" title="红双喜乒乓球底板" target="_blank" name="bid_146948">红双喜乒乓球底板</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146941.html" title="韩束蜗牛眼霜" target="_blank" name="bid_146941">韩束蜗牛眼霜</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146932.html" title="惠普1108打印机" target="_blank" name="bid_146932">惠普1108打印机</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146907.html" title="海宁皮衣女真皮风衣" target="_blank" name="bid_146907">海宁皮衣女真皮风衣</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146898.html" title="华为交换机s5700" target="_blank" name="bid_146898">华为交换机s5700</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146896.html" title="韩国面膜贴" target="_blank" name="bid_146896">韩国面膜贴</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146893.html" title="好孩子婴儿床" target="_blank" name="bid_146893">好孩子婴儿床</a></li><li><a href="http://www.dangdang.com/sales/brands/146879.html" title="航嘉电脑电源" target="_blank" name="bid_146879">航嘉电脑电源</a></li><li><a href="http://www.dangdang.com/sales/brands/146878.html" title="好迪洗发水" target="_blank" name="bid_146878">好迪洗发水</a></li><li><a href="http://www.dangdang.com/sales/brands/146874.html" title="护膝保暖冬季" target="_blank" name="bid_146874">护膝保暖冬季</a></li><li><a href="http://www.dangdang.com/sales/brands/146862.html" title="韩国好丽友" target="_blank" name="bid_146862">韩国好丽友</a></li><li><a href="http://www.dangdang.com/sales/brands/146830.html" title="哈而斯真空保温杯" target="_blank" name="bid_146830">哈而斯真空保温杯</a></li><li><a href="http://www.dangdang.com/sales/brands/146797.html" title="华三交换机" target="_blank" name="bid_146797">华三交换机</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146794.html" title="韩版女中大童运动鞋" target="_blank" name="bid_146794">韩版女中大童运动鞋</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146775.html" title="鸿星尔克跑鞋" target="_blank" name="bid_146775">鸿星尔克跑鞋</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146760.html" title="花洒喷头" target="_blank" name="bid_146760">花洒喷头</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146715.html" title="红龙足球鞋" target="_blank" name="bid_146715">红龙足球鞋</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146713.html" title="华为usb无线网卡" target="_blank" name="bid_146713">华为usb无线网卡</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146709.html" title="惠氏s-26" target="_blank" name="bid_146709">惠氏s-26</a></li><li><a href="http://www.dangdang.com/sales/brands/146677.html" title="宏星积木玩具熊出没" target="_blank" name="bid_146677">宏星积木玩具熊出没</a></li><li><a href="http://www.dangdang.com/sales/brands/146662.html" title="韩版潮男双肩包" target="_blank" name="bid_146662">韩版潮男双肩包</a></li><li><a href="http://www.dangdang.com/sales/brands/146654.html" title="海尔斯钉鞋" target="_blank" name="bid_146654">海尔斯钉鞋</a></li><li><a href="http://www.dangdang.com/sales/brands/146648.html" title="华雄灯管" target="_blank" name="bid_146648">华雄灯管</a></li><li><a href="http://www.dangdang.com/sales/brands/146637.html" title="华为4g手机" target="_blank" name="bid_146637">华为4g手机</a></li><li><a href="http://www.dangdang.com/sales/brands/146636.html" title="红翡翠吊坠" target="_blank" name="bid_146636">红翡翠吊坠</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146609.html" title="和情焦糖饼干124g" target="_blank" name="bid_146609">和情焦糖饼干124g</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146604.html" title="汉米尔顿表带" target="_blank" name="bid_146604">汉米尔顿表带</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146589.html" title="户外保温大容量水壶" target="_blank" name="bid_146589">户外保温大容量水壶</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146582.html" title="和兴收纳柜" target="_blank" name="bid_146582">和兴收纳柜</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146579.html" title="花花公子夹克" target="_blank" name="bid_146579">花花公子夹克</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146570.html" title="护颈枕头颈椎治疗枕" target="_blank" name="bid_146570">护颈枕头颈椎治疗枕</a></li><li><a href="http://www.dangdang.com/sales/brands/146558.html" title="韩束眼霜" target="_blank" name="bid_146558">韩束眼霜</a></li><li><a href="http://www.dangdang.com/sales/brands/146523.html" title="花木剪刀" target="_blank" name="bid_146523">花木剪刀</a></li><li><a href="http://www.dangdang.com/sales/brands/146516.html" title="海尔电热水器50" target="_blank" name="bid_146516">海尔电热水器50</a></li><li><a href="http://www.dangdang.com/sales/brands/146483.html" title="海尔净水器" target="_blank" name="bid_146483">海尔净水器</a></li><li><a href="http://www.dangdang.com/sales/brands/146461.html" title="好孩子婴儿洗护用品" target="_blank" name="bid_146461">好孩子婴儿洗护用品</a></li><li><a href="http://www.dangdang.com/sales/brands/146443.html" title="htc4g手机" target="_blank" name="bid_146443">htc4g手机</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146391.html" title="韩伊cc霜" target="_blank" name="bid_146391">韩伊cc霜</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146357.html" title="海宁羽绒皮衣" target="_blank" name="bid_146357">海宁羽绒皮衣</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146353.html" title="黑皮鞋男童" target="_blank" name="bid_146353">黑皮鞋男童</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146349.html" title="海信k370" target="_blank" name="bid_146349">海信k370</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146313.html" title="红豆保暖内衣女冬厚" target="_blank" name="bid_146313">红豆保暖内衣女冬厚</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146309.html" title="好兵帅克历险记" target="_blank" name="bid_146309">好兵帅克历险记</a></li><li><a href="http://www.dangdang.com/sales/brands/146293.html" title="黑檀木茶盘茶托" target="_blank" name="bid_146293">黑檀木茶盘茶托</a></li><li><a href="http://www.dangdang.com/sales/brands/146289.html" title="韩国农心" target="_blank" name="bid_146289">韩国农心</a></li><li><a href="http://www.dangdang.com/sales/brands/146264.html" title="韩国台历" target="_blank" name="bid_146264">韩国台历</a></li><li><a href="http://www.dangdang.com/sales/brands/146251.html" title="韩版潮男裤子" target="_blank" name="bid_146251">韩版潮男裤子</a></li><li><a href="http://www.dangdang.com/sales/brands/146222.html" title="哈尔斯玻璃杯" target="_blank" name="bid_146222">哈尔斯玻璃杯</a></li><li><a href="http://www.dangdang.com/sales/brands/146215.html" title="华杰文件夹" target="_blank" name="bid_146215">华杰文件夹</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146208.html" title="红豆珊瑚绒睡衣" target="_blank" name="bid_146208">红豆珊瑚绒睡衣</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146204.html" title="好卷一年级" target="_blank" name="bid_146204">好卷一年级</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146202.html" title="红环自由钢笔" target="_blank" name="bid_146202">红环自由钢笔</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146193.html" title="皇冠手表" target="_blank" name="bid_146193">皇冠手表</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146175.html" title="好帮手拖把" target="_blank" name="bid_146175">好帮手拖把</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146124.html" title="华凌空调遥控器" target="_blank" name="bid_146124">华凌空调遥控器</a></li><li><a href="http://www.dangdang.com/sales/brands/146115.html" title="好好金钱肉" target="_blank" name="bid_146115">好好金钱肉</a></li><li><a href="http://www.dangdang.com/sales/brands/146109.html" title="回力白球鞋" target="_blank" name="bid_146109">回力白球鞋</a></li><li><a href="http://www.dangdang.com/sales/brands/146064.html" title="哈咪奇棉衣" target="_blank" name="bid_146064">哈咪奇棉衣</a></li><li><a href="http://www.dangdang.com/sales/brands/146057.html" title="海尔笔记本电脑包" target="_blank" name="bid_146057">海尔笔记本电脑包</a></li><li><a href="http://www.dangdang.com/sales/brands/146049.html" title="红豆保暖背心" target="_blank" name="bid_146049">红豆保暖背心</a></li><li><a href="http://www.dangdang.com/sales/brands/146045.html" title="胡须刀飞科" target="_blank" name="bid_146045">胡须刀飞科</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/146015.html" title="好想你红枣" target="_blank" name="bid_146015">好想你红枣</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145991.html" title="惠润洗发水600ml" target="_blank" name="bid_145991">惠润洗发水600ml</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145965.html" title="华硕k42j" target="_blank" name="bid_145965">华硕k42j</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145950.html" title="宏�10寸笔记本电脑" target="_blank" name="bid_145950">宏�10寸笔记本电脑</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145944.html" title="哈利波特项链" target="_blank" name="bid_145944">哈利波特项链</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145908.html" title="滑雪裤童" target="_blank" name="bid_145908">滑雪裤童</a></li><li><a href="http://www.dangdang.com/sales/brands/145894.html" title="户外运动休闲鞋四季" target="_blank" name="bid_145894">户外运动休闲鞋四季</a></li><li><a href="http://www.dangdang.com/sales/brands/145890.html" title="华为荣耀3c移动" target="_blank" name="bid_145890">华为荣耀3c移动</a></li><li><a href="http://www.dangdang.com/sales/brands/145883.html" title="海尔迷你洗衣机" target="_blank" name="bid_145883">海尔迷你洗衣机</a></li><li><a href="http://www.dangdang.com/sales/brands/145867.html" title="黑曜石黄玉貔貅手链" target="_blank" name="bid_145867">黑曜石黄玉貔貅手链</a></li><li><a href="http://www.dangdang.com/sales/brands/145843.html" title="琥珀桃仁" target="_blank" name="bid_145843">琥珀桃仁</a></li><li><a href="http://www.dangdang.com/sales/brands/145821.html" title="韩版多功能双肩包" target="_blank" name="bid_145821">韩版多功能双肩包</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145810.html" title="海尔冰箱三门235" target="_blank" name="bid_145810">海尔冰箱三门235</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145786.html" title="花羽绒服" target="_blank" name="bid_145786">花羽绒服</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145772.html" title="花椒精油" target="_blank" name="bid_145772">花椒精油</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145764.html" title="hr内衣文胸" target="_blank" name="bid_145764">hr内衣文胸</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145753.html" title="海绵宝宝水杯吸管杯" target="_blank" name="bid_145753">海绵宝宝水杯吸管杯</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145751.html" title="浩顺指纹机" target="_blank" name="bid_145751">浩顺指纹机</a></li><li><a href="http://www.dangdang.com/sales/brands/145743.html" title="宏�w3" target="_blank" name="bid_145743">宏�w3</a></li><li><a href="http://www.dangdang.com/sales/brands/145714.html" title="惠氏沐浴露二合一" target="_blank" name="bid_145714">惠氏沐浴露二合一</a></li><li><a href="http://www.dangdang.com/sales/brands/145703.html" title="绘儿乐50色水彩笔" target="_blank" name="bid_145703">绘儿乐50色水彩笔</a></li><li><a href="http://www.dangdang.com/sales/brands/145700.html" title="鸿星尔克棉衣羽绒" target="_blank" name="bid_145700">鸿星尔克棉衣羽绒</a></li><li><a href="http://www.dangdang.com/sales/brands/145667.html" title="hitech海泰滤镜" target="_blank" name="bid_145667">hitech海泰滤镜</a></li><li><a href="http://www.dangdang.com/sales/brands/145646.html" title="韩版休闲大头皮鞋" target="_blank" name="bid_145646">韩版休闲大头皮鞋</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145644.html" title="花朵上衣" target="_blank" name="bid_145644">花朵上衣</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145642.html" title="华硕g41" target="_blank" name="bid_145642">华硕g41</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145597.html" title="号手泳衣女温泉" target="_blank" name="bid_145597">号手泳衣女温泉</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145584.html" title="惠普2548" target="_blank" name="bid_145584">惠普2548</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145581.html" title="红豆居家睡衣珊瑚绒" target="_blank" name="bid_145581">红豆居家睡衣珊瑚绒</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145566.html" title="韩国文具" target="_blank" name="bid_145566">韩国文具</a></li><li><a href="http://www.dangdang.com/sales/brands/145561.html" title="婚庆床上用品六件套" target="_blank" name="bid_145561">婚庆床上用品六件套</a></li><li><a href="http://www.dangdang.com/sales/brands/145551.html" title="韩束面膜补水" target="_blank" name="bid_145551">韩束面膜补水</a></li><li><a href="http://www.dangdang.com/sales/brands/145540.html" title="韩元素面膜" target="_blank" name="bid_145540">韩元素面膜</a></li><li><a href="http://www.dangdang.com/sales/brands/145532.html" title="婚房装饰" target="_blank" name="bid_145532">婚房装饰</a></li><li><a href="http://www.dangdang.com/sales/brands/145531.html" title="海翔渔具包" target="_blank" name="bid_145531">海翔渔具包</a></li><li><a href="http://www.dangdang.com/sales/brands/145502.html" title="hp鼠标" target="_blank" name="bid_145502">hp鼠标</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145433.html" title="红都男装外套" target="_blank" name="bid_145433">红都男装外套</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145419.html" title="红色拉杆箱" target="_blank" name="bid_145419">红色拉杆箱</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145386.html" title="活佛济公" target="_blank" name="bid_145386">活佛济公</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145338.html" title="海边情侣装蜜月" target="_blank" name="bid_145338">海边情侣装蜜月</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145325.html" title="惠普电脑包女14寸" target="_blank" name="bid_145325">惠普电脑包女14寸</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145304.html" title="寒思羽绒服" target="_blank" name="bid_145304">寒思羽绒服</a></li><li><a href="http://www.dangdang.com/sales/brands/145300.html" title="花色毛呢大衣" target="_blank" name="bid_145300">花色毛呢大衣</a></li><li><a href="http://www.dangdang.com/sales/brands/145291.html" title="华生油烟机" target="_blank" name="bid_145291">华生油烟机</a></li><li><a href="http://www.dangdang.com/sales/brands/145280.html" title="海尔燃气热水器12升" target="_blank" name="bid_145280">海尔燃气热水器12升</a></li><li><a href="http://www.dangdang.com/sales/brands/145276.html" title="黑曜石手链108" target="_blank" name="bid_145276">黑曜石手链108</a></li><li><a href="http://www.dangdang.com/sales/brands/145239.html" title="韩彩内衣" target="_blank" name="bid_145239">韩彩内衣</a></li><li><a href="http://www.dangdang.com/sales/brands/145230.html" title="惠普激光打印机hp1020" target="_blank" name="bid_145230">惠普激光打印机hp1020</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145215.html" title="海贝衬衣衬衫" target="_blank" name="bid_145215">海贝衬衣衬衫</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145203.html" title="火车轨道玩具套装" target="_blank" name="bid_145203">火车轨道玩具套装</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145193.html" title="海尔冰柜冷冻" target="_blank" name="bid_145193">海尔冰柜冷冻</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145141.html" title="惠氏启赋" target="_blank" name="bid_145141">惠氏启赋</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145095.html" title="韩国耳环耳饰" target="_blank" name="bid_145095">韩国耳环耳饰</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/145074.html" title="航嘉电源450" target="_blank" name="bid_145074">航嘉电源450</a></li><li><a href="http://www.dangdang.com/sales/brands/145068.html" title="浩酷iphone6手机壳软" target="_blank" name="bid_145068">浩酷iphone6手机壳软</a></li><li><a href="http://www.dangdang.com/sales/brands/145063.html" title="环球雅思网校" target="_blank" name="bid_145063">环球雅思网校</a></li><li><a href="http://www.dangdang.com/sales/brands/145040.html" title="哈士奇玩具狗布娃娃" target="_blank" name="bid_145040">哈士奇玩具狗布娃娃</a></li><li><a href="http://www.dangdang.com/sales/brands/145005.html" title="霍尼韦尔口罩" target="_blank" name="bid_145005">霍尼韦尔口罩</a></li><li><a href="http://www.dangdang.com/sales/brands/145004.html" title="惠普88a硒鼓" target="_blank" name="bid_145004">惠普88a硒鼓</a></li><li><a href="http://www.dangdang.com/sales/brands/144982.html" title="化妆箱大号" target="_blank" name="bid_144982">化妆箱大号</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144919.html" title="海军风连衣裙" target="_blank" name="bid_144919">海军风连衣裙</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144863.html" title="行李箱保罗" target="_blank" name="bid_144863">行李箱保罗</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144841.html" title="韩妙面贴膜" target="_blank" name="bid_144841">韩妙面贴膜</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144833.html" title="黑色礼服长裙" target="_blank" name="bid_144833">黑色礼服长裙</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144813.html" title="花花公子圆领羊毛衫" target="_blank" name="bid_144813">花花公子圆领羊毛衫</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144809.html" title="辉柏嘉宝珠笔" target="_blank" name="bid_144809">辉柏嘉宝珠笔</a></li><li><a href="http://www.dangdang.com/sales/brands/144764.html" title="韩版风衣女冬装" target="_blank" name="bid_144764">韩版风衣女冬装</a></li><li><a href="http://www.dangdang.com/sales/brands/144746.html" title="韩国时尚女表真皮" target="_blank" name="bid_144746">韩国时尚女表真皮</a></li><li><a href="http://www.dangdang.com/sales/brands/144740.html" title="宏亚77松塔" target="_blank" name="bid_144740">宏亚77松塔</a></li><li><a href="http://www.dangdang.com/sales/brands/144732.html" title="花香菇干货" target="_blank" name="bid_144732">花香菇干货</a></li><li><a href="http://www.dangdang.com/sales/brands/144728.html" title="黑色打底针织衫" target="_blank" name="bid_144728">黑色打底针织衫</a></li><li><a href="http://www.dangdang.com/sales/brands/144721.html" title="幻响移动电源" target="_blank" name="bid_144721">幻响移动电源</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144711.html" title="好奇金装m" target="_blank" name="bid_144711">好奇金装m</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144687.html" title="红豆男士内裤平角裤" target="_blank" name="bid_144687">红豆男士内裤平角裤</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144646.html" title="红蜻蜓女靴" target="_blank" name="bid_144646">红蜻蜓女靴</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144617.html" title="黑胶cd" target="_blank" name="bid_144617">黑胶cd</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144589.html" title="华为g7手机套" target="_blank" name="bid_144589">华为g7手机套</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144560.html" title="汉王翻页笔" target="_blank" name="bid_144560">汉王翻页笔</a></li><li><a href="http://www.dangdang.com/sales/brands/144541.html" title="皇冠丝圈脚垫" target="_blank" name="bid_144541">皇冠丝圈脚垫</a></li><li><a href="http://www.dangdang.com/sales/brands/144517.html" title="花花公子男士手包" target="_blank" name="bid_144517">花花公子男士手包</a></li><li><a href="http://www.dangdang.com/sales/brands/144507.html" title="华味亨夏威夷果" target="_blank" name="bid_144507">华味亨夏威夷果</a></li><li><a href="http://www.dangdang.com/sales/brands/144504.html" title="海渗干货" target="_blank" name="bid_144504">海渗干货</a></li><li><a href="http://www.dangdang.com/sales/brands/144495.html" title="海立卫浴" target="_blank" name="bid_144495">海立卫浴</a></li><li><a href="http://www.dangdang.com/sales/brands/144480.html" title="海豚银饰" target="_blank" name="bid_144480">海豚银饰</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144465.html" title="花花公子男包" target="_blank" name="bid_144465">花花公子男包</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144463.html" title="红色毛呢大衣女冬装" target="_blank" name="bid_144463">红色毛呢大衣女冬装</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144443.html" title="华图模块宝典第九版" target="_blank" name="bid_144443">华图模块宝典第九版</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144438.html" title="户外音响" target="_blank" name="bid_144438">户外音响</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144437.html" title="花开富贵玉吊坠" target="_blank" name="bid_144437">花开富贵玉吊坠</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144429.html" title="华为mate7手机皮套" target="_blank" name="bid_144429">华为mate7手机皮套</a></li><li><a href="http://www.dangdang.com/sales/brands/144423.html" title="合生元3段" target="_blank" name="bid_144423">合生元3段</a></li><li><a href="http://www.dangdang.com/sales/brands/144411.html" title="海尔斯慢跑鞋" target="_blank" name="bid_144411">海尔斯慢跑鞋</a></li><li><a href="http://www.dangdang.com/sales/brands/144409.html" title="合生元益生菌成人" target="_blank" name="bid_144409">合生元益生菌成人</a></li><li><a href="http://www.dangdang.com/sales/brands/144285.html" title="海氏海诺消毒" target="_blank" name="bid_144285">海氏海诺消毒</a></li><li><a href="http://www.dangdang.com/sales/brands/144257.html" title="华为3c钢化膜" target="_blank" name="bid_144257">华为3c钢化膜</a></li><li><a href="http://www.dangdang.com/sales/brands/144220.html" title="虹猫蓝兔男童" target="_blank" name="bid_144220">虹猫蓝兔男童</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144208.html" title="华硕i7笔记本电脑" target="_blank" name="bid_144208">华硕i7笔记本电脑</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144206.html" title="悍途户外鞋" target="_blank" name="bid_144206">悍途户外鞋</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144130.html" title="汉道多功能" target="_blank" name="bid_144130">汉道多功能</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144120.html" title="好想你枣" target="_blank" name="bid_144120">好想你枣</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144109.html" title="化妆品收纳盒大号木" target="_blank" name="bid_144109">化妆品收纳盒大号木</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/144097.html" title="徽墨墨条8两" target="_blank" name="bid_144097">徽墨墨条8两</a></li><li><a href="http://www.dangdang.com/sales/brands/144094.html" title="黑狗空气净化器" target="_blank" name="bid_144094">黑狗空气净化器</a></li><li><a href="http://www.dangdang.com/sales/brands/144081.html" title="华为荣耀4x皮套" target="_blank" name="bid_144081">华为荣耀4x皮套</a></li><li><a href="http://www.dangdang.com/sales/brands/144079.html" title="护发素发膜毛躁" target="_blank" name="bid_144079">护发素发膜毛躁</a></li><li><a href="http://www.dangdang.com/sales/brands/144020.html" title="花色长款衬衫" target="_blank" name="bid_144020">花色长款衬衫</a></li><li><a href="http://www.dangdang.com/sales/brands/144009.html" title="汉王电纸书黄金屋3" target="_blank" name="bid_144009">汉王电纸书黄金屋3</a></li><li><a href="http://www.dangdang.com/sales/brands/144003.html" title="花色连衣裙" target="_blank" name="bid_144003">花色连衣裙</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143966.html" title="豪妙纸尿裤" target="_blank" name="bid_143966">豪妙纸尿裤</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143957.html" title="狐客男士休闲皮鞋" target="_blank" name="bid_143957">狐客男士休闲皮鞋</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143949.html" title="鸿星尔克运动裤女冬" target="_blank" name="bid_143949">鸿星尔克运动裤女冬</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143923.html" title="韩非风情" target="_blank" name="bid_143923">韩非风情</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143922.html" title="鸿业暖通" target="_blank" name="bid_143922">鸿业暖通</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143908.html" title="花种子水栽" target="_blank" name="bid_143908">花种子水栽</a></li><li><a href="http://www.dangdang.com/sales/brands/143894.html" title="华钟秋冬打底裤" target="_blank" name="bid_143894">华钟秋冬打底裤</a></li><li><a href="http://www.dangdang.com/sales/brands/143874.html" title="荷叶边下摆上衣" target="_blank" name="bid_143874">荷叶边下摆上衣</a></li><li><a href="http://www.dangdang.com/sales/brands/143873.html" title="虎牌儿童水杯" target="_blank" name="bid_143873">虎牌儿童水杯</a></li><li><a href="http://www.dangdang.com/sales/brands/143866.html" title="海飞丝去屑洗发露750" target="_blank" name="bid_143866">海飞丝去屑洗发露750</a></li><li><a href="http://www.dangdang.com/sales/brands/143843.html" title="辉柏嘉水溶彩铅单支" target="_blank" name="bid_143843">辉柏嘉水溶彩铅单支</a></li><li><a href="http://www.dangdang.com/sales/brands/143836.html" title="红贝羽绒服女中长款" target="_blank" name="bid_143836">红贝羽绒服女中长款</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143819.html" title="胡须造型剃须刀" target="_blank" name="bid_143819">胡须造型剃须刀</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143810.html" title="华硕内胆包" target="_blank" name="bid_143810">华硕内胆包</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143798.html" title="韩版大衣外套毛呢" target="_blank" name="bid_143798">韩版大衣外套毛呢</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143771.html" title="呵宝703" target="_blank" name="bid_143771">呵宝703</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143753.html" title="亨得利双肩包男背包" target="_blank" name="bid_143753">亨得利双肩包男背包</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143747.html" title="蝴蝶结围巾" target="_blank" name="bid_143747">蝴蝶结围巾</a></li><li><a href="http://www.dangdang.com/sales/brands/143744.html" title="还珠格格小说" target="_blank" name="bid_143744">还珠格格小说</a></li><li><a href="http://www.dangdang.com/sales/brands/143742.html" title="皇室玩具摇铃" target="_blank" name="bid_143742">皇室玩具摇铃</a></li><li><a href="http://www.dangdang.com/sales/brands/143730.html" title="烘焙工具蛋糕模具" target="_blank" name="bid_143730">烘焙工具蛋糕模具</a></li><li><a href="http://www.dangdang.com/sales/brands/143728.html" title="华美a16s" target="_blank" name="bid_143728">华美a16s</a></li><li><a href="http://www.dangdang.com/sales/brands/143714.html" title="黑爵游戏鼠标" target="_blank" name="bid_143714">黑爵游戏鼠标</a></li><li><a href="http://www.dangdang.com/sales/brands/143700.html" title="活性炭口罩有机" target="_blank" name="bid_143700">活性炭口罩有机</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143688.html" title="鸿星尔克男鞋板鞋" target="_blank" name="bid_143688">鸿星尔克男鞋板鞋</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143649.html" title="烘焙原料饼干" target="_blank" name="bid_143649">烘焙原料饼干</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143642.html" title="皇冠旅行箱" target="_blank" name="bid_143642">皇冠旅行箱</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143640.html" title="韩熙贞粉底液" target="_blank" name="bid_143640">韩熙贞粉底液</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143611.html" title="哈吉斯衬衫" target="_blank" name="bid_143611">哈吉斯衬衫</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143609.html" title="哈利波特魔杖正版" target="_blank" name="bid_143609">哈利波特魔杖正版</a></li><li><a href="http://www.dangdang.com/sales/brands/143604.html" title="花花公子休闲鞋" target="_blank" name="bid_143604">花花公子休闲鞋</a></li><li><a href="http://www.dangdang.com/sales/brands/143592.html" title="黄色的裙子" target="_blank" name="bid_143592">黄色的裙子</a></li><li><a href="http://www.dangdang.com/sales/brands/143585.html" title="菏泽牡丹茶" target="_blank" name="bid_143585">菏泽牡丹茶</a></li><li><a href="http://www.dangdang.com/sales/brands/143584.html" title="赫曼德多用锅" target="_blank" name="bid_143584">赫曼德多用锅</a></li><li><a href="http://www.dangdang.com/sales/brands/143578.html" title="韩国丝地毯" target="_blank" name="bid_143578">韩国丝地毯</a></li><li><a href="http://www.dangdang.com/sales/brands/143560.html" title="好孩子婴儿车高景观" target="_blank" name="bid_143560">好孩子婴儿车高景观</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143559.html" title="红茶茶具玻璃" target="_blank" name="bid_143559">红茶茶具玻璃</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143558.html" title="后视镜套套装" target="_blank" name="bid_143558">后视镜套套装</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143557.html" title="韩伊olive橄榄护发素" target="_blank" name="bid_143557">韩伊olive橄榄护发素</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143505.html" title="红色高跟鞋粗跟" target="_blank" name="bid_143505">红色高跟鞋粗跟</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143459.html" title="哈尔斯真空水壶" target="_blank" name="bid_143459">哈尔斯真空水壶</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143457.html" title="韩国护肤套装" target="_blank" name="bid_143457">韩国护肤套装</a></li><li><a href="http://www.dangdang.com/sales/brands/143411.html" title="恒源祥女士套头毛衣" target="_blank" name="bid_143411">恒源祥女士套头毛衣</a></li><li><a href="http://www.dangdang.com/sales/brands/143408.html" title="黑色高跟鞋粗跟" target="_blank" name="bid_143408">黑色高跟鞋粗跟</a></li><li><a href="http://www.dangdang.com/sales/brands/143407.html" title="红迪丝棉服" target="_blank" name="bid_143407">红迪丝棉服</a></li><li><a href="http://www.dangdang.com/sales/brands/143401.html" title="好孩子童车婴儿推车" target="_blank" name="bid_143401">好孩子童车婴儿推车</a></li><li><a href="http://www.dangdang.com/sales/brands/143387.html" title="画画笔水彩笔" target="_blank" name="bid_143387">画画笔水彩笔</a></li><li><a href="http://www.dangdang.com/sales/brands/143370.html" title="虎牌茶杯" target="_blank" name="bid_143370">虎牌茶杯</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143346.html" title="韩彩男士内裤" target="_blank" name="bid_143346">韩彩男士内裤</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143334.html" title="呵护家纺" target="_blank" name="bid_143334">呵护家纺</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143330.html" title="幻响智能健康手环" target="_blank" name="bid_143330">幻响智能健康手环</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143316.html" title="泓涛钓鱼竿" target="_blank" name="bid_143316">泓涛钓鱼竿</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143289.html" title="户外水壶军用" target="_blank" name="bid_143289">户外水壶军用</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143275.html" title="华图模块宝典全套" target="_blank" name="bid_143275">华图模块宝典全套</a></li><li><a href="http://www.dangdang.com/sales/brands/143274.html" title="花牌短靴" target="_blank" name="bid_143274">花牌短靴</a></li><li><a href="http://www.dangdang.com/sales/brands/143270.html" title="海底泥面膜" target="_blank" name="bid_143270">海底泥面膜</a></li><li><a href="http://www.dangdang.com/sales/brands/143259.html" title="回力懒人鞋" target="_blank" name="bid_143259">回力懒人鞋</a></li><li><a href="http://www.dangdang.com/sales/brands/143232.html" title="哈米奇秋冬" target="_blank" name="bid_143232">哈米奇秋冬</a></li><li><a href="http://www.dangdang.com/sales/brands/143226.html" title="韩国不粘锅炒锅无烟" target="_blank" name="bid_143226">韩国不粘锅炒锅无烟</a></li><li><a href="http://www.dangdang.com/sales/brands/143217.html" title="花齿轮魔芋" target="_blank" name="bid_143217">花齿轮魔芋</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143192.html" title="黄冈小状元三年级下" target="_blank" name="bid_143192">黄冈小状元三年级下</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143188.html" title="户外用品便携" target="_blank" name="bid_143188">户外用品便携</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143181.html" title="华佗佳人血压计" target="_blank" name="bid_143181">华佗佳人血压计</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143163.html" title="花花公子夹克男秋冬" target="_blank" name="bid_143163">花花公子夹克男秋冬</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143153.html" title="化妆工具" target="_blank" name="bid_143153">化妆工具</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143148.html" title="华为联通3g手机" target="_blank" name="bid_143148">华为联通3g手机</a></li><li><a href="http://www.dangdang.com/sales/brands/143132.html" title="海尔笔记本电脑" target="_blank" name="bid_143132">海尔笔记本电脑</a></li><li><a href="http://www.dangdang.com/sales/brands/143131.html" title="好娃娃童车" target="_blank" name="bid_143131">好娃娃童车</a></li><li><a href="http://www.dangdang.com/sales/brands/143123.html" title="哈尔斯真空保温杯" target="_blank" name="bid_143123">哈尔斯真空保温杯</a></li><li><a href="http://www.dangdang.com/sales/brands/143116.html" title="绘儿乐白板笔" target="_blank" name="bid_143116">绘儿乐白板笔</a></li><li><a href="http://www.dangdang.com/sales/brands/143096.html" title="海尔波轮洗衣机7kg" target="_blank" name="bid_143096">海尔波轮洗衣机7kg</a></li><li><a href="http://www.dangdang.com/sales/brands/143076.html" title="韩国进口床品" target="_blank" name="bid_143076">韩国进口床品</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143046.html" title="海尔阿里电视" target="_blank" name="bid_143046">海尔阿里电视</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143014.html" title="汉王f30" target="_blank" name="bid_143014">汉王f30</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143009.html" title="幻走羽绒服" target="_blank" name="bid_143009">幻走羽绒服</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/143004.html" title="好学宝电脑" target="_blank" name="bid_143004">好学宝电脑</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/142997.html" title="海尔吸尘器zw1200-201" target="_blank" name="bid_142997">海尔吸尘器zw1200-201</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/142966.html" title="哈雷戴维森883" target="_blank" name="bid_142966">哈雷戴维森883</a></li><li><a href="http://www.dangdang.com/sales/brands/142964.html" title="灰色白领毛衣" target="_blank" name="bid_142964">灰色白领毛衣</a></li><li><a href="http://www.dangdang.com/sales/brands/142961.html" title="合生元儿童益生菌" target="_blank" name="bid_142961">合生元儿童益生菌</a></li><li><a href="http://www.dangdang.com/sales/brands/142942.html" title="好梦来家纺四件套" target="_blank" name="bid_142942">好梦来家纺四件套</a></li><li><a href="http://www.dangdang.com/sales/brands/142941.html" title="惠氏奶粉三段" target="_blank" name="bid_142941">惠氏奶粉三段</a></li><li><a href="http://www.dangdang.com/sales/brands/142908.html" title="环球女鞋冬季加绒" target="_blank" name="bid_142908">环球女鞋冬季加绒</a></li><li><a href="http://www.dangdang.com/sales/brands/142897.html" title="花印水漾" target="_blank" name="bid_142897">花印水漾</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/142877.html" title="禾煜红枣" target="_blank" name="bid_142877">禾煜红枣</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/142873.html" title="华生取暖器" target="_blank" name="bid_142873">华生取暖器</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/142862.html" title="海威尔羽绒服" target="_blank" name="bid_142862">海威尔羽绒服</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/142839.html" title="韩版修身毛呢大衣" target="_blank" name="bid_142839">韩版修身毛呢大衣</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/142828.html" title="韩版小包包斜跨复古" target="_blank" name="bid_142828">韩版小包包斜跨复古</a></li><li class="deep"><a href="http://www.dangdang.com/sales/brands/142820.html" title="亨氏星星面" target="_blank" name="bid_142820">亨氏星星面</a></li><li><a href="http://www.dangdang.com/sales/brands/142812.html" title="合生元超级金装4段" target="_blank" name="bid_142812">合生元超级金装4段</a></li><li><a href="http://www.dangdang.com/sales/brands/142811.html" title="幻响i-mu智能手环" target="_blank" name="bid_142811">幻响i-mu智能手环</a></li><li><a href="http://www.dangdang.com/sales/brands/142805.html" title="红色内衣文胸套装" target="_blank" name="bid_142805">红色内衣文胸套装</a></li><li><a href="http://www.dangdang.com/sales/brands/142785.html" title="海尔液晶电视" target="_blank" name="bid_142785">海尔液晶电视</a></li><li><a href="http://www.dangdang.com/sales/brands/142781.html" title="惠普m1005一体机" target="_blank" name="bid_142781">惠普m1005一体机</a></li><li><a href="http://www.dangdang.com/sales/brands/142758.html" title="护舒宝日用" target="_blank" name="bid_142758">护舒宝日用</a></li>      </ul>
+  </div><div class="spacer"></div><div class=""   name=m1805096_pid0_t14676><div id='component_1805096'></div><div class="con paginating clearfix"   name=m1805096_pid0_t14677>    <div class="paging">
+        <ul  name="brandFy">
+                            <li class="prev none"><a>上一页</a></li>
+                                    <li><a href="http://www.dangdang.com/sales/brands/h-1.html" class=" current" name="bottom-page-turn">1</a></li>
+                                        <li><a href="http://www.dangdang.com/sales/brands/h-2.html" class="null" name="bottom-page-turn">2</a></li>
+                                        <li><a href="http://www.dangdang.com/sales/brands/h-3.html" class="null" name="bottom-page-turn">3</a></li>
+                                        <li><a href="http://www.dangdang.com/sales/brands/h-4.html" class="null" name="bottom-page-turn">4</a></li>
+                                        <li><a href="http://www.dangdang.com/sales/brands/h-5.html" class="null" name="bottom-page-turn">5</a></li>
+                                        <li><a href="http://www.dangdang.com/sales/brands/h-6.html" class="null" name="bottom-page-turn">6</a></li>
+                                        <li><a href="http://www.dangdang.com/sales/brands/h-7.html" class="null" name="bottom-page-turn">7</a></li>
+                                        <li><a href="http://www.dangdang.com/sales/brands/h-8.html" class="null" name="bottom-page-turn">8</a></li>
+                                        <li><a href="http://www.dangdang.com/sales/brands/h-9.html" class="null" name="bottom-page-turn">9</a></li>
+                                        <li><a href="http://www.dangdang.com/sales/brands/h-10.html" class="null" name="bottom-page-turn">10</a></li>
+                                        <li><span>...</span></li>
+                    <li><a href="http://www.dangdang.com/sales/brands/h-32.html" class="null" name="bottom-page-turn">32</a></li>
+                    
+
+                                <li class="next"><a href="http://www.dangdang.com/sales/brands/h-2.html" title="下一页">下一页</a></li>
+                            <li class="page_input">
+                <span>到第</span> <input id='t__cp' type='text' class='number'  value='1'/>
+                <span>页</span>
+                <input class="button" id="click_get_page" value="确定" type="button" name="bottom-page-turn" /></li>
+        </ul>
+    </div>
+<script type='text/javascript'>
+    $(function(){     
+        $('#t__cp').keydown(function(e){
+            if(e.keyCode==13){
+                verifyListPages();
+            }
+        });
+        $('#click_get_page').click(function(){
+            verifyListPages();
+        });
+    });
+
+    function verifyListPages(){
+        var page=$.trim($('#t__cp').val());
+        var max_page=32;
+        re = /^[1-9]*[0-9]*[0-9]$/i; 
+        if(!re.test(page)||page==0){                  
+            alert('您好，请输入正确页码。');
+            return false;                   
+        }else{
+            if(parseInt(page)>100){
+                alert('>100');
+                return false;
+            }else{       
+                if(parseInt(page)>max_page){
+                    alert('您好，请输入正确页码。');
+                    return false;
+                }else{
+                    var href_url = 'http://www.dangdang.com/sales/brands/h-none.html';
+                    end_url = href_url.replace('none',page);
+                    window.location.href = end_url;
+                }
+            }
+        }
+    }
+</script>
+
+
+
+
+
+</div></div><div class="spacer"></div></div></div></div><script type="text/javascript" src="js/jquery/lazyload181.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.imgmask.js"></script>
+<script type="text/javascript" src="js/mix.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.jtab.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.livequery.min.js"></script>
+<script type="text/javascript" defer="" async="" src="//static.dangdang.com/js/header2012/pagetop_accessbility.min.js?v=202201191934" ></script>
+<script charset="gb2312" type="text/javascript">var width = 1; narrow = 0;</script>
+<script src="//static.dangdang.com/js/header2012/pagetop2015_0827.js?20211105" charset="gb2312" type="text/javascript"></script>
+<script src="//static.dangdang.com/js/header2012/dd.menu-aim.js?20211105" charset="gb2312" type="text/javascript"></script>
+<script type="text/javascript">
+var newsuggesturl = "//schprompt.dangdang.com/suggest_new.php?";
+var nick_num = 1;
+initHeaderOperate();Suggest_Initialize("key_S");
+if(!window.onload){
+    window.onload=function(){if(sug_gid("label_key").style.visibility=="visible")sug_gid(search_input_id).value="";}
+}else{
+    var funcload=window.onload;
+    window.onload=function(){funcload();if(sug_gid("label_key").style.visibility=="visible")sug_gid(search_input_id).value="";}
+}
+ddmenuaim(document.getElementById("menulist_content"),{activate: activateSubmenu,deactivate: deactivateSubmenu});
+</script>
+            <div id="footer">
+<link href="//static.dangdang.com/css/header2012/footer_150526.css?20170626" rel="stylesheet" type="text/css">
+<div class="footer" dd_name="页尾">
+	<div class="footer_pic_new">
+		<div class="footer_pic_new_inner" style="width:740px;">
+		    <a name="foot_1" href="http://help.dangdang.com/details/page13" target="_blank" class="footer_pic01"><span>正规渠道正品保障</span></a>
+		    <!--<a name="foot_2" class="footer_pic02" href="http://help.dangdang.com/details/page237" target="_blank"><span>放心购物货到付款</span></a>-->
+		    <a name="foot_3" class="footer_pic03" href="http://help.dangdang.com/details/page16" target="_blank"><span>150城市次日送达</span></a>
+		    <a name="foot_4" class="footer_pic04" href="http://help.dangdang.com/details/page28" target="_blank"><span>上门退换 购物无忧</span></a>
+		</div>
+	</div>
+	<div class="public_footer_new">
+		<div class="footer_sort footer_nvice">
+			<span class="f_title">购物指南</span>
+			<ul>
+			    <li><a name="foot_gouwu" href="http://help.dangdang.com/details/page2" target="_blank" class="main" rel="nofollow">购物流程</a></li>
+			    <li><a name="foot_jifen" href="http://help.dangdang.com/details/page6" target="_blank" rel="nofollow">发票制度</a></li>
+			    <li><a name="foot_fapiao" href="http://help.dangdang.com/details/page12" target="_blank" rel="nofollow">服务协议</a></li>
+			    <li><a name="foot_mydangdang" href="http://help.dangdang.com/details/page8" target="_blank" rel="nofollow">会员优惠</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_pay">
+			<span class="f_title">支付方式</span>
+			<ul>
+			    <li><a name="foot_tuihuanhuo" href="http://help.dangdang.com/details/page22" target="_blank" rel="nofollow">网上支付</a></li>
+			    <li><a name="foot_huanhuo" href="http://help.dangdang.com/details/page24" target="_blank" rel="nofollow">礼品卡支付</a></li>
+			    <li><a name="foot_tuihuo" href="http://help.dangdang.com/details/page23" target="_blank" rel="nofollow">银行转帐</a></li>				
+				<li><a name="foot_tuihuanhuoliucheng" href="http://help.dangdang.com/details/page25" target="_blank" rel="nofollow">礼券支付</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_characteristic">
+			<span class="f_title">订单服务</span>
+			<ul>
+			    <li><a name="foot_jifen" href="http://help.dangdang.com/details/page400" target="_blank" class="main" rel="nofollow">配送服务查询</a></li>
+			    <li><a name="foot_lipinka" href="http://help.dangdang.com/details/page4" target="_blank" rel="nofollow">订单状态说明</a></li>
+			    <li><a name="foot_ershoushu" href="http://myhome.dangdang.com/myOrder" target="_blank" rel="nofollow">自助取消订单</a></li>
+			    <li><a name="foot_shouji" href="http://myhome.dangdang.com/myOrder" target="_blank" rel="nofollow">自助修改订单</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_distribution">
+			<span class="f_title">配送方式</span>
+			<ul>
+			    <li><a name="foot_huodaofukuan" href="http://help.dangdang.com/details

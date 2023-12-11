@@ -1,0 +1,179 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+        <head>
+            <meta http-equiv="X-UA-Compatible" content="IE=8,9,10" />
+                <script language="javascript">var minsize=1210;var screensize=screen.width;if (screensize<minsize){window.location.href='//t.dangdang.com/companyInfo?wide_type=1'}</script>
+<link rel="dns-prefetch" href="http://v.dangdang.com">
+<link rel="dns-prefetch" href="//book.dangdang.com">
+<link rel="dns-prefetch" href="http://ddyoupin.dangdang.com">
+<link rel="dns-prefetch" href="//t.dangdang.com">
+<link rel="dns-prefetch" href="//baby.dangdang.com">
+<link rel="dns-prefetch" href="//fashion.dangdang.com">
+<link rel="dns-prefetch" href="//help.dangdang.com">
+<link rel="dns-prefetch" href="http://kids.dangdang.com">
+<link rel="dns-prefetch" href="http://e.dangdang.com">
+<link rel="dns-prefetch" href="//baobao.dangdang.com">
+<link rel="dns-prefetch" href="//3c.dangdang.com">
+<link rel="dns-prefetch" href="//living.dangdang.com">
+<link rel="dns-prefetch" href="//img3.ddimg.cn">
+<link rel="dns-prefetch" href="//img4.ddimg.cn">
+<link rel="dns-prefetch" href="//img30.ddimg.cn">
+<link rel="dns-prefetch" href="//img31.ddimg.cn">
+<link rel="dns-prefetch" href="//img32.ddimg.cn">
+<link rel="dns-prefetch" href="//img33.ddimg.cn">
+<link rel="dns-prefetch" href="//img34.ddimg.cn">
+<link rel="dns-prefetch" href="//img35.ddimg.cn">
+<link rel="dns-prefetch" href="//img36.ddimg.cn">
+<link rel="dns-prefetch" href="//img37.ddimg.cn">
+<link rel="dns-prefetch" href="//img38.ddimg.cn">
+<link rel="dns-prefetch" href="//img39.ddimg.cn">
+
+    <base href="//t.dangdang.com/Standard/T/Extend/hosts/" />
+<title>公司简介</title>
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312">
+<meta name="description" content="" />
+<meta name="keywords" content="" /><meta name="ddclick_static" content="path:786779|sdate:|edate:|sid: "/><link rel="stylesheet" type="text/css" href="//t.dangdang.com/Standard/Framework/Extend/hosts/css/theme_1.css"/>
+<link rel="Stylesheet" type="text/css" href="//t.dangdang.com/Standard/Framework/Extend/hosts/css/model/home.css" />
+<style>.s3031{width:960px;}.s3032{width:960px;}</style>                        <script  type="text/javascript">
+                var firstbyteTime=new Date().getTime();
+                var firstScreenStartTime=new Date().getTime();
+                var mix_imglist=[];
+            </script>
+        </head>
+        <body ddt-page="mix_786779">
+            <script language="javascript">var minsize=1210;var screensize=screen.width;if (screensize<minsize){document.body.className="narrow_page"}</script>
+<script type="text/javascript" src="//img13.ddimg.cn/mix/js/jquery.js"></script>
+<script type="text/javascript">
+    var arrayObj=new Array();
+    var mix_ajax_api = '/Standard/Framework/Core/hosts/ajax_api.php';
+</script>
+
+            <div  id="bd"   name=3030><div  id="d3031"  class="con s3031" name=3031><div id='component_5978314'></div><div      component_map_id="5978314" >
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<title>
+公司简介
+- 当当网</title>
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: 宋体;
+	font-size: 12px;
+}
+-->
+</style>
+</head>
+<body>
+<!--#include virtual="/_fetch_/incHeader.html"-->
+<center>
+  <STYLE type=text/css>
+	/*reset*/
+	body,h1,h2,h3,h4,h5,h6,p,ul,li{margin:0;padding:0;}
+	h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+	ul,li{list-style:none;}
+	img{border:none;}
+	.clear{clear:both;font-size:0;height:0;line-height:0;overflow:hidden;}
+	.clearfix:after{clear:both;content:" ";display:block;font-size:0;height:0;visibility:hidden;}
+	.clearfix{zoom:1;}
+
+	/* 共用  */
+	body{ font-family:宋体,Arial,Helvetica,sans-serif; font-size:12px; color:#404040}
+	a{color:#1a66b3;text-decoration:none; }
+	a:hover{color:#1a66b3;text-decoration:underline;}
+
+	/*页面*/
+	.layout_main{margin:0 auto; width:960px; color:#878787;text-align:left;}
+	.about_head{margin:2px 0 5px; padding:2px 0 5px;}
+	.about_nav {float:left;width:174px;}
+	.about_nav h4{border-bottom:1px solid #EAEAEA;font-size:0;height:31px;lin-height:0;overflow:hidden;width:134px;}
+	.about_nav ul{ margin-left:35px;}
+	.about_nav ul li{background: url(http://img4.ddimg.cn/00030/job/ico_dot.gif) no-repeat;margin-top:13px;padding:0 0 0 17px;}
+	.about_nav ul li a { color:#878787;}
+	.about_nav ul li a:hover {color:#f60;}
+	.about_nav ul li.black a,.about_nav ul li.black a:hover {color:#404040;cursor:default;font-weight:bold;text-decoration:none;}
+	
+	.about_nav .dd_brief {background:url(http://img4.ddimg.cn/00038/job/about_brief.gif) no-repeat 0 0;margin:20px;margin-top:0;}
+	.about_nav .dd_culture{background:url(http://img4.ddimg.cn/00038/job/about_culture.gif) no-repeat 0 0;border-top:1px solid #EAEAEA;margin:20px;}
+
+
+	.text_last{ padding-bottom:8px;}
+	.about_content{float:right;}
+	.about_content .title{ border-left:1px solid #dddddd; border-right:1px solid #dddddd; width:784px;margin:0;padding:0;height:80px;}
+	.intro_dd{ font-size:14px; font-weight:bold; background:url("http://img4.ddimg.cn/00012/dang/about_dd.gif") no-repeat scroll 10px 25px transparent;height:56px;padding-left:10px;width:100px;padding-top:1px;}
+	.title ul{height:52px; padding-top:20px; background:url(http://img4.ddimg.cn/00012/dang/content_line.gif) no-repeat 0 bottom;}
+	.title ul li{ float:left;}
+	.bg_left{ margin-left:17px;}
+	.about_content .content{clear:left; border-left:1px solid #dddddd; border-right:1px solid #dddddd;padding-bottom:80px; width:784px;}
+	
+	.content p{line-height:20px; padding-left:65px;width:643px; padding-top:35px;text-indent: 28px;}
+	p.first{background:url("http://img3.ddimg.cn/00111/logo/logo_dd.gif") no-repeat scroll 549px 30px transparent; padding-right:200px; padding-top:46px; width:460px;}
+	p.last{padding-bottom:120px;}
+	
+	.about_nav ul li a:hover{color:#ff6600;}
+	.about_content img {display:block;}
+	a{ color:#878787;}
+	
+	
+	ul.first{padding-top:36px;}
+	ul.last{padding-bottom:120px;}
+	.content ul.mission_list li{line-height:25px;}
+	
+	.mission_list{ padding-left:88px; width:614px;}
+	.mission_list li{ background:url("http://img4.ddimg.cn/00012/dang/ico_dot.gif") no-repeat scroll 0 5px transparent;line-height:20px;padding-left:10px;}
+	.intro_title{font-size:14px; font-weight:bold; height:56px;padding-left:10px;width:100px;}
+</STYLE>
+
+<DIV class=layout_main>
+<DIV class=about_head><IMG style="WIDTH: 960px; MARGIN: 0px auto; DISPLAY: block" src="http://img4.ddimg.cn/00012/dang/banner.gif"> </DIV>
+<DIV class=about_nav>
+<H4 class=dd_brief></H4>
+<UL class=company>
+<LI class=black><A href="http://t.dangdang.com/companyInfo">当当简介</A> 
+<LI><A href="http://t.dangdang.com/oursHistory">发展历程</A> 
+<LI><A href="http://t.dangdang.com/oursMission">公司使命</A> 
+<LI><A href="http://t.dangdang.com/businessModel">经营模式</A> 
+<LI><A href="http://t.dangdang.com/socialResponsibilt">社会责任</A> </LI></UL>
+<H4 class=dd_culture></H4>
+<UL class=culture>
+<LI><A href="http://t.dangdang.com/help_ec">企业文化</A></LI>
+<LI><A href="http://t.dangdang.com/talk">对话当当</A> 
+<LI><A href="http://t.dangdang.com/servicePledge">服务承诺</A> </LI></UL></DIV>
+<DIV class=about_content><IMG src="http://img4.ddimg.cn/00012/dang/bg_t.gif"> 
+<DIV class=title>
+<UL>
+<LI class=bg_left><IMG src="http://img4.ddimg.cn/00012/dang/about_left.gif"> </LI>
+<LI class="intro_title intro_dd">当当简介 </LI></UL></DIV>
+<DIV class=content>
+<P class=first>当当网（www.dangdang.com）是全球知名的综合性网上购物商城，由国内著名出版机构科文公司、美国老虎基金、美国IDG集团、卢森堡剑桥集团、亚洲创业投资基金（原名软银中国创业基金）共同投资成立。</P>
+<P class=second>从1999年11月当当网(www.dangdang.com) 正式开通至今，当当已从早期的网上卖书拓展到网上卖各品类百货，包括图书音像、美妆、家居、母婴、服装和3C数码等几十个大类，其中在库图书、音像商品超过80万种，百货50余万种；目前当当网的注册用户遍及全国32个省、市、自治区和直辖市，每天有450万独立UV，每天要发出20多万个包裹；物流方面，当当在全国11个城市设有21个仓库，共37万多平，并在21个城市提供当日达服务，在158个城市提供次日达服务， 在11个城市提供夜间递服务。</P>
+<P class=second>除图书以外，母婴、美妆、服装、家居家纺是当当着力发展的四大目标品类，其中当当婴童已经是中国领先线上商店，美妆则是中国排名前五的线上店。当当还在大力发展自有品牌当当优品。在业态从网上百货商场拓展到网上购物中心的同时，当当也在大力开放平台，目前当当平台平台商店数量已超过1.4万家，2012年Q3并新增2000家入驻商家，同时当当还积极的走出去，在腾讯、天猫等平台开设旗舰店。</P>
+<P class=second>当当网于美国时间2010年12月8日在纽约证券交易所正式挂牌上市，成为中国第一家完全基于线上业务、在美国上市的B2C网上商城。自路演阶段，当当网就以广阔的发展前景而受到大批基金和股票投资人的追捧，上市当天股价即上涨86%，并以103倍的高PE和3亿1千3百万美金的IPO融资额，连创中国公司境外上市市盈率和亚太区2010年高科技公司融资额度两项历史新高。</P></DIV><IMG src="http://img4.ddimg.cn/00012/dang/bg_b.gif"> </DIV></DIV><BR style="CLEAR: both">
+</center>
+<!--#include virtual="/_fetch_/incFooter.html"-->
+</body>
+</html> 
+</div>
+<div class="spacer c_spacer"></div></div><div class="spacer"></div></div><script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/jquery/lazyload181.js"></script>
+<script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/jquery/jquery.imgmask.js"></script>
+<script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/mix.js"></script>
+<script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/jquery/jquery.jtab.js"></script>
+<script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/jquery/jquery.livequery.min.js"></script>
+            <!-- 
+.7.41.9
+file
+ --><!-- 
+.7.41.9
+mem
+ --><!-- 
+.7.41.9
+mem
+ --><!-- 
+.7.41.9
+mem
+ -->        </body>
+    </html>
+    

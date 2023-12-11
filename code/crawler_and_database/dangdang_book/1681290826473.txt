@@ -1,0 +1,329 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+        <head>
+            <meta http-equiv="X-UA-Compatible" content="IE=8,9,10" />
+                <script language="javascript">var minsize=1210;var screensize=screen.width;if (screensize<minsize){window.location.href='//t.dangdang.com/freetry_list?wide_type=1'}</script>
+<link rel="dns-prefetch" href="http://v.dangdang.com">
+<link rel="dns-prefetch" href="//book.dangdang.com">
+<link rel="dns-prefetch" href="http://ddyoupin.dangdang.com">
+<link rel="dns-prefetch" href="//t.dangdang.com">
+<link rel="dns-prefetch" href="//baby.dangdang.com">
+<link rel="dns-prefetch" href="//fashion.dangdang.com">
+<link rel="dns-prefetch" href="//help.dangdang.com">
+<link rel="dns-prefetch" href="http://kids.dangdang.com">
+<link rel="dns-prefetch" href="http://e.dangdang.com">
+<link rel="dns-prefetch" href="//baobao.dangdang.com">
+<link rel="dns-prefetch" href="//3c.dangdang.com">
+<link rel="dns-prefetch" href="//living.dangdang.com">
+<link rel="dns-prefetch" href="//img3.ddimg.cn">
+<link rel="dns-prefetch" href="//img4.ddimg.cn">
+<link rel="dns-prefetch" href="//img30.ddimg.cn">
+<link rel="dns-prefetch" href="//img31.ddimg.cn">
+<link rel="dns-prefetch" href="//img32.ddimg.cn">
+<link rel="dns-prefetch" href="//img33.ddimg.cn">
+<link rel="dns-prefetch" href="//img34.ddimg.cn">
+<link rel="dns-prefetch" href="//img35.ddimg.cn">
+<link rel="dns-prefetch" href="//img36.ddimg.cn">
+<link rel="dns-prefetch" href="//img37.ddimg.cn">
+<link rel="dns-prefetch" href="//img38.ddimg.cn">
+<link rel="dns-prefetch" href="//img39.ddimg.cn">
+
+    <base href="//t.dangdang.com/Standard/T/Extend/hosts/" />
+<title>PC零元领活动</title>
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312">
+<meta name="description" content="" />
+<meta name="keywords" content="" /><meta name="ddclick_static" content="path:836006|sdate:|edate:|sid: "/><link rel="stylesheet" type="text/css" href="//t.dangdang.com/Standard/Framework/Extend/hosts/css/theme_1.css"/>
+<link rel="Stylesheet" type="text/css" href="//t.dangdang.com/Standard/Framework/Extend/hosts/css/model/home.css" />
+<style>.s3031{width:960px;}.s3032{width:960px;}</style>                        <script  type="text/javascript">
+                var firstbyteTime=new Date().getTime();
+                var firstScreenStartTime=new Date().getTime();
+                var mix_imglist=[];
+            </script>
+        </head>
+        <body ddt-page="mix_836006">
+            <script language="javascript">var minsize=1210;var screensize=screen.width;if (screensize<minsize){document.body.className="narrow_page"}</script>
+<script type="text/javascript" src="//img13.ddimg.cn/mix/js/jquery.js"></script>
+<script type="text/javascript">
+    var arrayObj=new Array();
+    var mix_ajax_api = '/Standard/Framework/Core/hosts/ajax_api.php';
+</script>
+<link rel="Stylesheet" type="text/css" href="//static.dangdang.com/css/header2012/header_960_150611.css?20211105" /><script>var accessbilityUrl = "//static.dangdang.com/fed/accessbility/1.0.0/accessbility.min.js";var accessbilitySwitch = "1";</script>
+
+
+
+
+
+
+<div id="hd">
+<div id="tools">
+  <div class="tools">
+    <div class="ddnewhead_operate" dd_name="顶链接">
+      <div style="float:right">
+        <div class="new_head_znx" id="znx_content" style="display:none;float:left"></div>
+        <div class="ddnewhead_welcome" display="none;" style="float:left">
+          <span id="nickname"><span class="hi hi_none">欢迎光临当当，请</span><a
+              href="https://login.dangdang.com/signin.aspx?returnurl=http%3A//www.dangdang.com/"
+              class="login_link">登录</a><a href="https://login.dangdang.com/Register.aspx">免费注册</a></span>
+          <div class="tel_pop" style="display:none" id="__ddnav_sjdd"
+            onmouseover="showgaoji('a_phonechannel','__ddnav_sjdd');"
+            onmouseout="hideotherchannel('a_phonechannel','__ddnav_sjdd');">
+            <a target="_blank" href="http://t.dangdang.com/20130220_ydmr" class="title"><i
+                class="icon_tel"></i>手机当当</a><i class="title_shadow"></i>
+            <ul class="tel_pop_box">
+              <li><a href="http://t.dangdang.com/20130220_ydmr" dd_name="手机二维码"><span>当当手机客户端</span><img
+                    src="//img3.ddimg.cn/00363/doc/erweima2.png"><span class="text">随手查订单<br>随时享优惠</span></a></li>
+            </ul>
+          </div>
+        </div>
+
+        <ul class="ddnewhead_operate_nav" style="float:left">
+          <li class="ddnewhead_cart"><a href="javascript:AddToShoppingCart(0);" name="购物车" dd_name="购物车"><i
+                class="icon_card"></i>购物车<b id="cart_items_count"></b></a></li>
+          <li><a target="_blank" href="http://myhome.dangdang.com/myOrder" name="我的订单" dd_name="我的订单"
+              rel="nofollow">我的订单<b id="unpaid_num" style="color:#ff2832;font:bold 12px Arial;"></b></a></li>
+          <li><a target="_blank" href="http://e.dangdang.com/ebook/listUserEbooks.do" name="我的云书房"
+              dd_name="我的云书房">我的云书房</a></li>
+          <li class="my_dd"><a class="menu_btn" target="_blank" href="http://myhome.dangdang.com/" name="我的当当"
+              dd_name="我的当当" id="a_myddchannel" onmouseover="showgaoji('a_myddchannel','__ddnav_mydd')"
+              onmouseout="hideotherchannel('a_myddchannel','__ddnav_mydd');">我的当当</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_mydd" onmouseover="showgaoji('a_myddchannel','__ddnav_mydd')"
+              onmouseout="hideotherchannel('a_myddchannel','__ddnav_mydd');">
+              <li><a target="_blank" href="http://myhome.dangdang.com/myOrder" name="mydd_7" dd_name="新_我的订单">我的订单</a>
+              </li>
+              <li><a target="_blank" href="http://shopping.dangdang.com/shoppingcart/shopping_cart.aspx" name="mydd_8"
+                  dd_name="新_购物车" rel="nofollow">购物车</a></li>
+              <li><a target="_blank" href="http://myhome.dangdang.com/mypoint?ref=my-0-L" name="mydd_4" dd_name="我的银铃铛"
+                  rel="nofollow">银铃铛抵现</a></li>
+              <li><a target="_blank" href="http://myhome.dangdang.com/myFavorite" name="mydd_1" dd_name="我的收藏"
+                  rel="nofollow">我的收藏</a></li>
+              <li><a target="_blank" href="http://noncash.dangdang.com/balance/" name="mydd_5" dd_name="我的余额"
+                  rel="nofollow">我的余额</a></li>
+              <li><a target="_blank" href="http://comment.dangdang.com/comment" name="mydd_4" dd_name="我的评论"
+                  rel="nofollow">我的评论</a></li>
+              <li><a target="_blank" href="http://newaccount.dangdang.com/payhistory/mycoupon.aspx" name="mydd_2"
+                  dd_name="礼券/礼品卡" rel="nofollow">礼券/礼品卡</a></li>
+            </ul>
+          </li>
+          <li class="pc_mina"><a class="menu_btn" target="_blank" href="http://t.dangdang.com/pintuan_list" name="当当拼团"
+              dd_name="当当拼团" id="a_minachannel" onmouseover="showgaoji('a_minachannel','__ddnav_mina')"
+              onmouseout="hideotherchannel('a_minachannel','__ddnav_mina');">当当拼团</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_mina" onmouseover="showgaoji('a_minachannel','__ddnav_mina')"
+              onmouseout="hideotherchannel('a_minachannel','__ddnav_mina');">
+              <!--
+                <li><a target="_blank" href="http://t.dangdang.com/freetry_list" name="mina_1" dd_name="0元领物" rel="nofollow">0元领物</a></li>
+				-->
+              <li><a target="_blank" href="http://t.dangdang.com/pintuan_list" name="mina_2" dd_name="当当拼团"
+                  rel="nofollow">当当拼团</a></li>
+              <!--
+                <li><a target="_blank" href="http://t.dangdang.com/kanjia_list" name="mina_3" dd_name="1元砍价" rel="nofollow">1元砍价</a></li>
+                <li><a target="_blank" href="http://t.dangdang.com/choujiang_list" name="mina_4" dd_name="1分抽奖" rel="nofollow">1分抽奖</a></li>
+				-->
+            </ul>
+          </li>
+          <li><a target="_blank" href="http://e.dangdang.com/media/h5/pc/zhuangti/zhengwen2017/essay.html" name="mydd_7"
+              dd_name="小说投稿">小说投稿</a></li>
+
+          <li><a class="menu_btn" href="javascript:void(0);" style="cursor:default;" name="qycg" dd_name="企业采购"
+              id="a_qycgchannel" onmouseover="showgaoji('a_qycgchannel','__ddnav_qycg');"
+              onmouseout="hideotherchannel('a_qycgchannel','__ddnav_qycg');">企业采购</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_qycg" onmouseover="showgaoji('a_qycgchannel','__ddnav_qycg');"
+              onmouseout="hideotherchannel('a_qycgchannel','__ddnav_qycg');">
+              <li><a target="_blank" href="http://giftcard.dangdang.com/giftcardCompany" name="qycg_1"
+                  dd_name="大宗采购">大宗采购</a></li>
+              <li><a target="_blank" href="http://giftcard.dangdang.com/" name="qycg_2" dd_name="礼品卡采购">礼品卡采购</a></li>
+              <li><a target="_blank" href="http://account.dangdang.com/payhistory/mymoney.aspx" name="gqycg_3"
+                  dd_name="礼品卡激活" rel="nofollow">礼品卡激活</a></li>
+              <li><a target="_blank" href="http://help.dangdang.com/details/page24" name="qycg_4"
+                  dd_name="礼品卡使用">礼品卡使用</a></li>
+			  <li><a target="_blank" href="http://b2b.dangdang.com" name="qycg_5" dd_name="分销/荐购">分销/荐购</a></li>
+              <li><a target="_blank" href="http://giftcard.dangdang.com/goods?type=mall" name="qycg_6"
+                  dd_name="礼品卡专区">礼品卡专区</a></li>
+            </ul>
+          </li>
+          <li class="hover "><a class="menu_btn" href="javascript:void(0);" style="cursor:default;" name="ddkf_0"
+              dd_name="客户服务" id="a_bzzxchannel" onmouseover="showgaoji('a_bzzxchannel','__ddnav_bzzx');"
+              onmouseout="hideotherchannel('a_bzzxchannel','__ddnav_bzzx');">客户服务</a>
+            <ul class="ddnewhead_gcard_list" id="__ddnav_bzzx" onmouseover="showgaoji('a_bzzxchannel','__ddnav_bzzx');"
+              onmouseout="hideotherchannel('a_bzzxchannel','__ddnav_bzzx');">
+              <li><a target="_blank" href="http://help.dangdang.com/index" name="ddkf_2" dd_name="帮助中心">帮助中心</a></li>
+              <li><a target="_blank" href="http://return.dangdang.com/reverseapplyselect.aspx" name="ddkf_3"
+                  dd_name="自助退换货">自助退换货</a></li>
+              <li><a target="_blank" href="http://order.dangdang.com/InvoiceApply/InvoiceOnlineReissue.aspx"
+                  name="tsjy_2" dd_name="自助发票" rel="nofollow">自助发票</a></li>
+              <li><a target="_blank" href="http://help.dangdang.com/details/page206" name="ddkf_4"
+                  dd_name="联系客服">联系客服</a>
+              </li>
+              <li><a target="_blank" href="http://help.dangdang.com/details/page206" name="tsjy_1" dd_name="我要投诉"
+                  rel="nofollow">我要投诉</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="header_end"></div>
+<!--CreateDate  2023-04-12 17:00:01--></div>
+<form  id="bootpagetopSearch" name="bootpagetopSearch" method="GET"></form>
+
+<!--DOC-HEAD-END-->
+            <div  id="bd"   name=3030><div  id="d3031"  class="con s3031" name=3031><div type='defaultajax' page_id='836006' component_map_id='6390812'  domain='t.dangdang.com'   path_name='freetry_list' areaid='0' page_type='0' areatype='0' static_type='0'></div><div class="spacer c_spacer"></div></div><div class="spacer"></div></div><script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/jquery/lazyload181.js"></script>
+<script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/jquery/jquery.imgmask.js"></script>
+<script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/mix.js"></script>
+<script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/jquery/jquery.jtab.js"></script>
+<script type="text/javascript" src="//t.dangdang.com/Standard/Framework/Extend/hosts/js/jquery/jquery.livequery.min.js"></script>
+<script type="text/javascript" defer="" async="" src="//static.dangdang.com/js/header2012/pagetop_accessbility.min.js?v=202201191934" ></script>
+<script type="text/javascript">
+    </script>
+<script charset="gb2312" type="text/javascript">var width = 0; narrow = 1;</script>
+<script src="//static.dangdang.com/js/header2012/pagetop2015_0827.js?20211105" charset="gb2312" type="text/javascript"></script>
+<script src="//static.dangdang.com/js/header2012/dd.menu-aim.js?20211105" charset="gb2312" type="text/javascript"></script>
+<script type="text/javascript">var nick_num = 0;initHeaderOperate();</script>
+            <div id="footer">
+<link href="//static.dangdang.com/css/header2012/footer_150526.css?20170626" rel="stylesheet" type="text/css">
+<div class="footer" dd_name="页尾">
+	<div class="footer_pic_new">
+		<div class="footer_pic_new_inner" style="width:740px;">
+		    <a name="foot_1" href="http://help.dangdang.com/details/page13" target="_blank" class="footer_pic01"><span>正规渠道正品保障</span></a>
+		    <!--<a name="foot_2" class="footer_pic02" href="http://help.dangdang.com/details/page237" target="_blank"><span>放心购物货到付款</span></a>-->
+		    <a name="foot_3" class="footer_pic03" href="http://help.dangdang.com/details/page16" target="_blank"><span>150城市次日送达</span></a>
+		    <a name="foot_4" class="footer_pic04" href="http://help.dangdang.com/details/page28" target="_blank"><span>上门退换 购物无忧</span></a>
+		</div>
+	</div>
+	<div class="public_footer_new">
+		<div class="footer_sort footer_nvice">
+			<span class="f_title">购物指南</span>
+			<ul>
+			    <li><a name="foot_gouwu" href="http://help.dangdang.com/details/page2" target="_blank" class="main" rel="nofollow">购物流程</a></li>
+			    <li><a name="foot_jifen" href="http://help.dangdang.com/details/page6" target="_blank" rel="nofollow">发票制度</a></li>
+			    <li><a name="foot_fapiao" href="http://help.dangdang.com/details/page12" target="_blank" rel="nofollow">服务协议</a></li>
+			    <li><a name="foot_mydangdang" href="http://help.dangdang.com/details/page8" target="_blank" rel="nofollow">会员优惠</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_pay">
+			<span class="f_title">支付方式</span>
+			<ul>
+			    <li><a name="foot_tuihuanhuo" href="http://help.dangdang.com/details/page22" target="_blank" rel="nofollow">网上支付</a></li>
+			    <li><a name="foot_huanhuo" href="http://help.dangdang.com/details/page24" target="_blank" rel="nofollow">礼品卡支付</a></li>
+			    <li><a name="foot_tuihuo" href="http://help.dangdang.com/details/page23" target="_blank" rel="nofollow">银行转帐</a></li>				
+				<li><a name="foot_tuihuanhuoliucheng" href="http://help.dangdang.com/details/page25" target="_blank" rel="nofollow">礼券支付</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_characteristic">
+			<span class="f_title">订单服务</span>
+			<ul>
+			    <li><a name="foot_jifen" href="http://help.dangdang.com/details/page400" target="_blank" class="main" rel="nofollow">配送服务查询</a></li>
+			    <li><a name="foot_lipinka" href="http://help.dangdang.com/details/page4" target="_blank" rel="nofollow">订单状态说明</a></li>
+			    <li><a name="foot_ershoushu" href="http://myhome.dangdang.com/myOrder" target="_blank" rel="nofollow">自助取消订单</a></li>
+			    <li><a name="foot_shouji" href="http://myhome.dangdang.com/myOrder" target="_blank" rel="nofollow">自助修改订单</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_distribution">
+			<span class="f_title">配送方式</span>
+			<ul>
+			    <li><a name="foot_huodaofukuan" href="http://help.dangdang.com/details/page232" target="_blank" class="main" rel="nofollow">当日递</a></li>
+			    <li><a name="foot_yinhangzhuanzhang" href="http://help.dangdang.com/details/page233" target="_blank" class="main" rel="nofollow">次日达</a></li>
+			    <li><a name="foot_dangdanglijuan" href="http://help.dangdang.com/details/page500" target="_blank" rel="nofollow">订单自提</a></li>
+			    <li><a name="foot_dangdanglijuan" href="http://help.dangdang.com/details/page20" target="_blank" rel="nofollow">验货与签收</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_help">
+			<span class="f_title">退换货</span>
+			<ul>
+			    <li><a name="foot_faq" href="http://help.dangdang.com/details/page28" target="_blank" rel="nofollow">退换货服务查询</a></li>
+			    <li><a name="foot_zhaohuimima" href="http://return.dangdang.com/reverseapplyselect.aspx" target="_blank" rel="nofollow">自助申请退换货</a></li>
+			    <li><a name="foot_huikuandan" href="http://return.dangdang.com/reverseapplylist.aspx" target="_blank" rel="nofollow">退换货进度查询</a></li>
+			    <li><a name="foot_tuiding" href="http://help.dangdang.com/details/page31" target="_blank" rel="nofollow">退款方式和时间</a></li>
+			</ul>
+		</div>
+		<div class="footer_sort footer_shangjia">
+			<span class="f_title">商家服务</span>
+			<ul>
+			    
+			    <li><a name="foot_zhaohuimima" href="http://shop.dangdang.com/shangjia" target="_blank" rel="nofollow">商家中心</a></li>
+			    <li><a name="foot_huikuandan" href="http://outlets.dangdang.com/merchants_cooperation" target="_blank" rel="nofollow">运营服务</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="footer_nav_box">
+		<div class="footer_nav"><a href="http://t.dangdang.com/companyInfo" target="_blank" rel="nofollow">公司简介</a><span class="sep">|</span><a 
+
+href="http://zhaopin.dangdang.com" target="_blank">诚聘英才</a><span class="sep">|</span><a 
+
+href="http://union.dangdang.com/" target="_blank">网站联盟</a><span 
+
+class="sep">|</span><a href="http://outlets.dangdang.com/merchants_open" target="_blank">当当招商</a><span class="sep">|</span><a 
+
+href="http://giftcard.dangdang.com/giftcardCompany" target="_blank" rel="nofollow">机构销售</a><span class="sep">|</span><a 
+
+href="//static.dangdang.com/topic/744/200778.shtml" target="_blank">手机当当</a><span class="sep">|</span><a href="http://blog.dangdang.com/" target="_blank">官方
+
+Blog</a>
+<span class="sep">|</span><div class="footer_hot_search"><a href="http://www.dangdang.com/sales/brands/" target="_blank" class="footer_a" id="hot_search" onmouseover="showghotsearch('hot_search','hot_search_content')" onmouseout="hidehotsearch('hot_search','hot_search_content');">热词搜索</a><div class="pos_a_box" style="display: none;" id="hot_search_content" onmouseover="showghotsearch('hot_search','hot_search_content')" onmouseout="hidehotsearch('hot_search','hot_search_content');">
+<a href="http://www.dangdang.com/sales/brands/a-1.html" target="_blank" >A</a><a href="http://www.dangdang.com/sales/brands/b-1.html" target="_blank" >B</a><a href="http://www.dangdang.com/sales/brands/c-1.html" target="_blank" >C</a><a href="http://www.dangdang.com/sales/brands/d-1.html" target="_blank" >D</a><a href="http://www.dangdang.com/sales/brands/e-1.html" target="_blank" >E</a><a href="http://www.dangdang.com/sales/brands/f-1.html" target="_blank" >F</a><a href="http://www.dangdang.com/sales/brands/g-1.html" target="_blank" >G</a>
+<a href="http://www.dangdang.com/sales/brands/h-1.html" target="_blank" >H</a><a href="http://www.dangdang.com/sales/brands/i-1.html" target="_blank" >I</a><a href="http://www.dangdang.com/sales/brands/j-1.html" target="_blank" >J</a><a href="http://www.dangdang.com/sales/brands/k-1.html" target="_blank" >K</a><a href="http://www.dangdang.com/sales/brands/l-1.html" target="_blank" >L</a><a href="http://www.dangdang.com/sales/brands/m-1.html" target="_blank" >M</a><a href="http://www.dangdang.com/sales/brands/n-1.html" target="_blank" >N</a>
+<a href="http://www.dangdang.com/sales/brands/o-1.html" target="_blank" >O</a><a href="http://www.dangdang.com/sales/brands/p-1.html" target="_blank" >P</a><a href="http://www.dangdang.com/sales/brands/q-1.html" target="_blank" >Q</a><a href="http://www.dangdang.com/sales/brands/r-1.html" target="_blank" >R</a><a href="http://www.dangdang.com/sales/brands/s-1.html" target="_blank" >S</a><a href="http://www.dangdang.com/sales/brands/t-1.html" target="_blank" >T</a><a href="http://www.dangdang.com/sales/brands/u-1.html" target="_blank" >U</a>
+<a href="http://www.dangdang.com/sales/brands/v-1.html" target="_blank" >V</a><a href="http://www.dangdang.com/sales/brands/w-1.html" target="_blank" >W</a><a href="http://www.dangdang.com/sales/brands/x-1.html" target="_blank" >X</a><a href="http://www.dangdang.com/sales/brands/y-1.html" target="_blank" >Y</a><a href="http://www.dangdang.com/sales/brands/z-1.html" target="_blank" >Z</a><a href="http://www.dangdang.com/sales/brands/other-1.html" target="_blank" >0-9</a>
+<i></i></div></div>
+<script>
+    var setTo = null;
+    function showghotsearch(){
+        clearTimeout(setTo);
+        document.getElementById("hot_search_content").style.display="block";
+    }
+    function hidehotsearch(){
+        setTo = setTimeout(function(){
+          document.getElementById("hot_search_content").style.display="none";
+        },100)                        
+    }
+
+$(document).ready(function(){ 
+    $("#__ddnav_sort16").remove();
+}); 
+
+$("#li_label_16").mouseover(function(){
+	$("#li_label_16").addClass("on");
+  $("#li_label_16").css("border-right","2px solid #ff2832");
+  
+});
+
+$("#li_label_16").mouseout(function(){
+	$("#li_label_16").removeClass("on");
+});
+</script>  
+</div>
+		<div class="footer_copyright"><span>Copyright  2004 - 2021 当当网. All Rights Reserved</span><span class="sep">|</span><a href="http://beian.miit.gov.cn" target="_blank" ><span>京ICP备17043473号-1</span></a><a href="http://www.hd315.gov.cn/beian/view.asp?
+
+bianhao=010202001051000098" target="_blank" class="footer_img" rel="nofollow"><img src="//img60.ddimg.cn/upload_img/00459/index/validate.gif"></a><span>京ICP证041189号</span><span class="sep">|</span><span>出版物经营许可证 新出发京批字第直0673号</span></div>
+	</div>
+</div>
+</div>
+<div id="footer_end"></div>
+<!--CreateDate  2023-04-12 16:00:01-->    <div class="foot_tip_ad">广告</div>
+    <style>
+        .foot_tip_ad { width:40px; height:40px; font:12px/40px "simsun"; text-align:center; color:#fff; background-color:#474747; position:fixed; right:0; bottom:10px;_position:absolute; _bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));}
+    </style>
+<script src="//static.dangdang.com/js/login/check_snbrowse.js?20230412" type="text/javascript"></script>
+<script  type="text/javascript">login_session.browsePageOperate();</script>
+<script type="text/javascript" src="//click.dangdang.com/js_tracker.js?20230412"></script>
+<script type="text/javascript" src="//databack.dangdang.com/collect.js?20230412"></script>
+<script type="text/javascript" src="//databack.dangdang.com/store.js?20230412"></script>
+
+<!-- 
+.7.41.9
+file
+ --><!-- 
+.7.41.9
+source
+ --><!-- 
+.7.41.9
+mem
+ --><!-- 
+.7.41.9
+source
+ --><!-- 
+.7.41.9
+source
+ -->        </body>
+    </html>
+    
